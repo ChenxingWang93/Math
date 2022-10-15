@@ -13,6 +13,11 @@
 - **shared folder**
 
 ### Why Do We Need a Version Control System (VCS)? 为什么需要一个版本控制系统？
+shared folder/naming system is fine for class projects or one - time papers. but software projects? NOT A CHANCE
+
+Large, fast - changing projects with many authors need a Version Control System(geekspeak for "file database") to track changes and avoid general chaos.
+a good VCS does the following:
+- Backup and Restore:
 
 #### Intro to Distributed Version Control  //分布式版本控制
 #### Aha! Moments When Learning Git  //学习Git时的 Aha! Moments
