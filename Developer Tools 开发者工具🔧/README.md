@@ -21,6 +21,7 @@ a good VCS does the following:
 - **Synchronization**:
 - **Short-term undo**:
 - **Long-term undo**:
+- Track Changes
 
 #### Intro to Distributed Version Control  //分布式版本控制
 #### Aha! Moments When Learning Git  //学习Git时的 Aha! Moments
