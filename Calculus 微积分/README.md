@@ -1,3 +1,3 @@
-### 
-
-https://betterexplained.com/wp-content/webp-express/webp-images/uploads/calculus/circle_sphere_formula.png.webp
+### A Gentle Introduction To Learning Calculus 微积分学习
+### Understanding Calculus With A Bank Account Metaphor 用银行账户隐喻理解微积分
+### Prehistoric Calculus: Discovering Pi
