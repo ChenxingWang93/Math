@@ -21,7 +21,24 @@ a good VCS does the following:
 - **Synchronization**:
 - **Short-term undo**:
 - **Long-term undo**:
-- Track Changes
+- **Track Changes**:
+- **Track Ownership**:
+- **Sandboxing**:
+- **Branching and merging**:
+
+### Learn the Lingo 学行话
+Most VCS involve the following concepts,
+## Basic Setup 基本设置
+- **Repository(repo)**:
+- **Server**:
+- **Client**:
+- **Working Set/ Working Copy**:
+- **Trunk/Main**:
+
+## Basic Actions 基本行动
+- **Add**: 
+- **Revision**: What version a file is on(v1,v2,v3,etc) 📃文件版本
+- **Head**: The latest version in the repo 仓库里最近的版本
 
 #### Intro to Distributed Version Control  //分布式版本控制
 #### Aha! Moments When Learning Git  //学习Git时的 Aha! Moments
