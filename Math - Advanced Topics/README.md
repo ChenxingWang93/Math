@@ -23,6 +23,12 @@
 
 |Fun Fact🤔事实 |Negative Numbers(-x) 负数   |Complex Numbers(a+bi) 复数  |
 |--------------|---------------------------|----------------------------|
-|Invented to answer|"what is 3-4?"|"What"
+|Invented to answer|"what is 3-4?"|"What is sqrt(-1)"                   |
+|Strange because.. |_How can you have less than nothing?_|_How can you take the square root of less than nothing?_|
+|Intuitive meaning |"_Opposite_"|"_Rotation_"|
+|considered absurd until|1700s|today😊       ｜
+|Multiplication cycle[&general pattern]|1, -1, 1, -1... X, -X, X, -X...|1, i, -1, -i...X, Y, -X, -Y...|
+|Measure size with|Absolute value|pythagorean theorem勾股定理｜
+tbd
 
 
