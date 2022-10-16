@@ -17,23 +17,23 @@ shared folder/naming system is fine for class projects or one - time papers. but
 
 Large, fast - changing projects with many authors need a Version Control System(geekspeak for "file database") to track changes and avoid general chaos.
 a good VCS does the following:
-- **Backup and Restore**:
-- **Synchronization**:
-- **Short-term undo**:
-- **Long-term undo**:
-- **Track Changes**:
-- **Track Ownership**:
-- **Sandboxing**:
-- **Branching and merging**:
+- **Backup and Restore**: 备份与还原
+- **Synchronization**:  同步
+- **Short-term undo**:  短期撤销
+- **Long-term undo**: 长期撤销
+- **Track Changes**:  追踪变化
+- **Track Ownership**:  追踪所有权
+- **Sandboxing**: 
+- **Branching and merging**:  分支与合并
 
 ### Learn the Lingo 学行话
 Most VCS involve the following concepts,
 ## Basic Setup 基本设置
-- **Repository(repo)**:
-- **Server**:
-- **Client**:
-- **Working Set/ Working Copy**:
-- **Trunk/Main**:
+- **Repository(repo)**: The database storing the files 存储📃的数据库
+- **Server**: The computer storing the repo 存储repo的💻
+- **Client**: The computer connecting to the repo 连接到💻的repo 
+- **Working Set/ Working Copy**: local directory of files, where you make changes 本地文件
+- **Trunk/Main**: The primary location for code in the repo. Think of code as a family tree - the trunk is the main line 树干是主枝 
 
 ## Basic Actions 基本行动
 - **Add**: Put a 📃 into the repo for the first time, begin tracking it with Version Control 
@@ -48,14 +48,14 @@ Most VCS involve the following concepts,
 
 ## Advanced Actions 高级行动
 
-- **Branch**：Create a separate copy of a file/ folder for private use (bug fixing, testing, etc) Branch 作为动词("branch the code") 作为动词("Which branch is in it?")
-- **Diff/Change/Delta**: Finding the differences between two files. Useful for seeing what changed between revisions 找2⃣️📃不同
-- **Merge (or patch)**: 
-- **Conflict**:
-- **Resolve**:
-- **Locking**:
-- **Breaking the lock**:
-- **Check out for edit**:
+- **Branch**：分支；Create a separate copy of a file/ folder for private use (bug fixing, testing, etc) Branch 作为动词("branch the code") 作为动词("Which branch is in it?")
+- **Diff/Change/Delta**: 变化/ 修改 /Finding the differences between two files. Useful for seeing what changed between revisions 找2⃣️📃不同
+- **Merge (or patch)**: 合并（或补丁）
+- **Conflict**: 冲突
+- **Resolve**:  解决
+- **Locking**:  锁定
+- **Breaking the lock**:  解锁
+- **Check out for edit**: 
 
 And a typical scenario goes like this:
 张梓焓 **add** a file (`list.txt`) to the **repo**. **checks it out**, makes a change("")
@@ -76,7 +76,12 @@ The `-m` flag is the message to use for this checkin.
 in reality, **check out, edit and check in** 
 
 ![image](https://user-images.githubusercontent.com/31954987/196017929-282c342e-267b-44e8-baf3-f3e5224b8c11.png)
-
+> ```
+> zihan co list.txt (get latest version)
+> ...edit file...
+> zihan revert list.txt (throw away changes)
+> zihan co -r2 list.txt (check out particular version)
+> ```
 
 
 
