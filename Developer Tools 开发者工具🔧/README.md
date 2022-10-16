@@ -36,9 +36,33 @@ Most VCS involve the following concepts,
 - **Trunk/Main**:
 
 ## Basic Actions 基本行动
-- **Add**: Put a 📃
+- **Add**: Put a 📃 into the repo for the first time, begin tracking it with Version Control 
 - **Revision**: What version a file is on(v1,v2,v3,etc) 📃文件版本
 - **Head**: The latest version in the repo 仓库里最近的版本
+- **Check out**: Download a file from the repo 仓库中⏬📃
+- **Check in**: ⬆️📃 to the repository(if it has changed).The file get a new version number, and people can "check out" the latest one.
+- **Checkin Message**:  A short message describing what has changed. 描述改变了什么
+- **Changelog/History**:  A list of changes made to a file since it was created 文件中的改变
+- **Update/Sync**:  Synchronize your files with the latest from the repository. this lets you grab the latest revisions of all files 同步最近📃，抓取最近的修订
+- **Revert**: throw away your local changes and reload the latest version from the repo 扔掉本地改变重载最新版本
+
+## Advanced Actions 高级行动
+
+- **Branch**：Create a separate copy of a file/ folder for private use (bug fixing, testing, etc) Branch 作为动词("branch the code") 作为动词("Which branch is in it?")
+- **Diff/Change/Delta**: Finding the differences between two files. Useful for seeing what changed between revisions 找2⃣️📃不同
+- **Merge (or patch)**: 
+- **Conflict**:
+- **Resolve**:
+- **Locking**:
+- **Breaking the lock**:
+- **Check out for edit**:
+
+And a typical scenario goes like this:
+张梓焓 **add** a file (`list.txt`) to the **repo**. **checks it out**, makes a change("")
+
+## Checkins
+![image](https://user-images.githubusercontent.com/31954987/196017294-73661a15-bdab-4908-a224-8fd3c5eadee1.png)
+
 
 #### Intro to Distributed Version Control  //分布式版本控制
 #### Aha! Moments When Learning Git  //学习Git时的 Aha! Moments
