@@ -60,29 +60,39 @@ Most VCS involve the following concepts,
 And a typical scenario goes like this:
 张梓焓 **add** a file (`list.txt`) to the **repo**. **checks it out**, makes a change("")
 
-## Checkins
+## Checkins 签入
 
 ![image](https://user-images.githubusercontent.com/31954987/196017294-73661a15-bdab-4908-a224-8fd3c5eadee1.png)
-each time we check in a new version, we get a new revision(r1, r2, r3, etc.). In Subversion you'd do:
+##### each time we check in a new version, we get a new revision(r1, r2, r3, etc.). In Subversion you'd do:
 > ```
-> Zihan add list.txt
+> svn add list.txt
 > (modify the file)
-> zihan ci list.txt -m "Changed the list"
+> svn ci list.txt -m "Changed the list"
 > ```
 
 The `-m` flag is the message to use for this checkin.
 
-## Checkouts and Editing 结账与编辑
-in reality, **check out, edit and check in** 
+## Checkouts and Editing 查看与编辑
+##### in reality, **check out, edit and check in** 循环♻️是高频操作
 
 ![image](https://user-images.githubusercontent.com/31954987/196017929-282c342e-267b-44e8-baf3-f3e5224b8c11.png)
+##### if you don't like your changes and want to start over, you can **revert**恢复 to the previous version and start again(or stop), when checking out,(查看) you get the latest revision by default. you can also specify a particular revision. 
 > ```
-> zihan co list.txt (get latest version)
+> svn co list.txt (get latest version)
 > ...edit file...
-> zihan revert list.txt (throw away changes)
-> zihan co -r2 list.txt (check out particular version)
+> svn revert list.txt (throw away changes)
+> svn co -r2 list.txt (check out particular version)
 > ```
+🌟SVN means Subversion
 
+## Diffs 变化
+![image](https://user-images.githubusercontent.com/31954987/196030198-77f4c5fe-977d-4bea-9871-9cc00f6b6a08.png)
+
+##### from r1 to r2: add eggs(+Eggs)
+##### from r2 to r3: add Juice(+Juice)
+##### from r3 to r4: remove Juice add Soup(-Juice, +Soup)
+##### Most VCS **store diffs rather than full copies of the file** 
+##### this saves disk space: 4 revisions of a file means 1 copy 4 small diffs 
 
 
 #### Intro to Distributed Version Control  //分布式版本控制
