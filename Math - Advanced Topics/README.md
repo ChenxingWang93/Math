@@ -19,5 +19,10 @@
 - **Focusing on relationships, not mechanical formulas**.
 - **Seeing complex numbers as an upgrade to our number system**, just like 0，decimals and negatives
 - **Using visual diagrams**, to understand the idea rather text
+##### Learning by analogy. imaginary numbers' ancestor, the negatives
+
+|Fun Fact🤔事实 |Negative Numbers(-x) 负数   |Complex Numbers(a+bi) 复数  |
+|--------------|---------------------------|----------------------------|
+|Invented to answer|"what is 3-4?"|"What"
 
 
