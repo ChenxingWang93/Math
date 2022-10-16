@@ -70,6 +70,14 @@ each time we check in a new version, we get a new revision(r1, r2, r3, etc.). In
 > zihan ci list.txt -m "Changed the list"
 > ```
 
+The `-m` flag is the message to use for this checkin.
+
+## Checkouts and Editing 结账与编辑
+in reality, **check out, edit and check in** 
+
+![image](https://user-images.githubusercontent.com/31954987/196017929-282c342e-267b-44e8-baf3-f3e5224b8c11.png)
+
+
 
 
 #### Intro to Distributed Version Control  //分布式版本控制
