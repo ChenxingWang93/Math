@@ -36,7 +36,7 @@ Most VCS involve the following concepts,
 - **Trunk/Main**:
 
 ## Basic Actions 基本行动
-- **Add**: 
+- **Add**: Put a 📃
 - **Revision**: What version a file is on(v1,v2,v3,etc) 📃文件版本
 - **Head**: The latest version in the repo 仓库里最近的版本
 
