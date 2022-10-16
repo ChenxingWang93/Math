@@ -61,7 +61,10 @@ And a typical scenario goes like this:
 张梓焓 **add** a file (`list.txt`) to the **repo**. **checks it out**, makes a change("")
 
 ## Checkins
+
 ![image](https://user-images.githubusercontent.com/31954987/196017294-73661a15-bdab-4908-a224-8fd3c5eadee1.png)
+each time we check in a new version, we get a new revision(r1, r2, r3, etc.). In Subversion you'd do:
+
 
 
 #### Intro to Distributed Version Control  //分布式版本控制
