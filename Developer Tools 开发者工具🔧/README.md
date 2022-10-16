@@ -65,7 +65,9 @@ And a typical scenario goes like this:
 ![image](https://user-images.githubusercontent.com/31954987/196017294-73661a15-bdab-4908-a224-8fd3c5eadee1.png)
 each time we check in a new version, we get a new revision(r1, r2, r3, etc.). In Subversion you'd do:
 > ```
-> 
+> Zihan add list.txt
+> (modify the file)
+> zihan ci list.txt -m "Changed the list"
 > ```
 
 
