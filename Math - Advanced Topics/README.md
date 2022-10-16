@@ -29,6 +29,15 @@
 |considered absurd until|1700s|today😊       ｜
 |Multiplication cycle[&general pattern]|1, -1, 1, -1... X, -X, X, -X...|1, i, -1, -i...X, Y, -X, -Y...|
 |Measure size with|Absolute value|pythagorean theorem勾股定理｜
-tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+###📌tbd
+
 
 
