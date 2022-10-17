@@ -5,6 +5,12 @@
 #### Calculus: Building Intuition for a Derivative  //建立导数的直觉
 
 ![image](https://user-images.githubusercontent.com/31954987/196173957-669f2bf9-370a-403d-9a38-f757c9f783ce.png)
+##### daily stock market changes📈📈(+1% Mon,-2% Tue)
+##### plot past /present /future; find min /max; buy low /sell high
+##### Equations exist to convey ideas: understand the idea, not the grammer. //🟰存在的意义在于传递讯息，而并非语法
+
+#####
+
 
 
 #### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解衍生品：乘积、幂和🔗链规则
