@@ -4,6 +4,7 @@
 #### A Calculus Analogy: Integrals as Multiplication  //Integrals: 积分；Multiplication：乘法；
 #### Calculus: Building Intuition for a Derivative  //建立导数的直觉
 
+![image](https://user-images.githubusercontent.com/31954987/196173957-669f2bf9-370a-403d-9a38-f757c9f783ce.png)
 
 
 #### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解衍生品：乘积、幂和🔗链规则
