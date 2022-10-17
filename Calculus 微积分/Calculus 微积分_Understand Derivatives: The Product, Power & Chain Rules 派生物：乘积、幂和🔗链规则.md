@@ -5,3 +5,8 @@ My take on derivatives:
 
 ### Functions: Anything, Anything But Graphs // 函数图像之外的理解
 ### Wiggle Wiggle Wiggle // 摆动 摆动 摆动
+### Addition and Subtraction // ➕ &➖
+### df vs df/dx //
+### Multiplication (Product Rule) // ✖️
+### The Chain Rule // 链规则
+### Chain Rule: Example Time // 链规则
