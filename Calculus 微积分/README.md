@@ -9,9 +9,9 @@
 #### Intuition for Taylor Series (DNA Analogy) //泰勒序列 
 #### Why Do We Need Limits and Infinitesimals //Limits：极限；Infinitesimals：无穷∞小
 #### Learning Calculus: Overcoming Our Artificial Need for Precision  //克服人为对精确的要求
-#### tbd
-#### tbd
-#### tbd
-#### tbd
-#### tbd
-#### tbd
+#### Whether 0.999... = 1
+#### Analogy: The Calculus Camera //函数📷
+#### Abstraction Practice: Calculus Graphs //函数图像
+#### Easier Arithmetic With Calculus //函数的简单算术
+#### Add 1 through 100 using Calculus // 1 to 100 的累加
+#### Integral of Sin(x): Geometric Intuition //几何直觉
