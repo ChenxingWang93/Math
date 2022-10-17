@@ -16,7 +16,7 @@
 - **is i useful?** imaginary numbers makes 2d rotation problems simple.虚简化了二维旋转问题
 
 ####  A Visual, Intuitive Guide to Imaginary Number
-- **Focusing on relationships, not mechanical formulas**.
+- **Focusing on relationships, not mechanical formulas**. //关注关系
 - **Seeing complex numbers as an upgrade to our number system**, just like 0，decimals and negatives
 - **Using visual diagrams**, to understand the idea rather text
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
