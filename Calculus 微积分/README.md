@@ -12,18 +12,20 @@
 #### **Derivatives create a perfect model of change from an imperfect guess.** 导数：从一个不完美的猜想中创造关于**变化**的完美的模型
 
 ## We all live in a shiny continuum 我们都生活在✨✨的连续统
-## What's after zero?
-## Measurements depend on the instrument
-## Running the Treadmill
+## What's after zero? 0⃣️之后是什么？
+## Measurements depend on the instrument 
+## Running the Treadmill 
 ## Understanding the derivative 理解导数
 ![image](https://user-images.githubusercontent.com/31954987/196179897-3c2f5cec-d138-46eb-9409-51222360d597.png)
 
-<math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>f</mi>
-  <mo stretchy="false">(</mo>
-  <mi>x</mi>
-  <mo stretchy="false">)</mo>
-</math>
+- f(x): Start with some system to study //系统
+- (dx): Change by the smallest amount possible //以最小的变化量
+- f(x + dx) - f(x): 前 &后变化关系
+- f(x + dx) - f(x) /dx: We don't care how small (dx) is: get the rate of motion through the continuum //无论(dx)的大小，得到穿越连续统的变化率
+
+## An Example: f(x) = x^2
+![image](https://user-images.githubusercontent.com/31954987/196186108-b9dfe099-3b5d-431d-b622-504bc703de6e.png)
+
 
 
 ### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解衍生品：乘积、幂和🔗链规则
