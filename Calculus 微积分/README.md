@@ -5,7 +5,6 @@
 #### Calculus: Building Intuition for a Derivative  //建立导数的直觉
 
 
-
 #### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解衍生品：乘积、幂和🔗链规则
 #### How to Understand Derivatives: The Quotient Rule, Exponents, and Logarithms  //Quotient: 商；Exponents：指数； Logarithms：对数
 #### An Intuitive Intro to Limits //极限
