@@ -3,5 +3,5 @@ My take on derivatives:
 - function f: We have a system to analyze
 - f'(aka df/dx): 
 
-### Functions: Anything, Anything But Graphs // 除了从图像的角度
+### Functions: Anything, Anything But Graphs // 函数图像之外的理解
 ### Wiggle Wiggle Wiggle // 摆动 摆动 摆动
