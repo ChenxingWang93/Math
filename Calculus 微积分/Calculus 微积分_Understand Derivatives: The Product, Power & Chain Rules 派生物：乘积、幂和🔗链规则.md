@@ -12,6 +12,8 @@ My take on derivatives:
 |Function f(x)| Turns input(x) into output(y)|
 |Derivative of f(x)| Wiggle x, how much does y change?<img width="610" alt="Screen Shot 2022-10-18 at 00 55 05" src="https://user-images.githubusercontent.com/31954987/196237711-e0922a55-e10b-4663-9774-7a0ebd4cd19a.png">|
 |Derivative of system 导数|Combined perspective of each part|
+|Addition Rule[f+g]' ➕|Add contributions from f and g|
+|Product Rule[f*g]' ✖️|Add contributions:a slice from f,a slice from g|
 |
 
 
