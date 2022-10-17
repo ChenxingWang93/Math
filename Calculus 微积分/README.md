@@ -25,10 +25,27 @@
 
 ## An Example: f(x) = x^2
 ![image](https://user-images.githubusercontent.com/31954987/196186108-b9dfe099-3b5d-431d-b622-504bc703de6e.png)
+- one has the error built in(dx)
+- The other has the "true" change, where dx = 0
+
+there have some real numbers, the values for f(x) = x^2, with intervals of dx = 1:
+- 1, 4, 9, 16, 25, 36, 49, 64, 81...
+
+the absolute change between each result is:
+- 3, 5, 7, 9, 11, 13, 15, 17...
+
+.
+.
+.
+## The derivative as "continuous division"
+## Too many meanings of "derivative"
+## Models may not be perfect
+## Integration does not really exist 
+## Reading math
 
 
 
-### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解衍生品：乘积、幂和🔗链规则
+### How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解派生品：乘积、幂和🔗链规则
 ### How to Understand Derivatives: The Quotient Rule, Exponents, and Logarithms  //Quotient: 商；Exponents：指数； Logarithms：对数
 ### An Intuitive Intro to Limits //极限
 ### Intuition for Taylor Series (DNA Analogy) //泰勒序列 
