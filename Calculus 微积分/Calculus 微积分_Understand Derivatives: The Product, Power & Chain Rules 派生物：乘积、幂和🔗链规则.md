@@ -14,10 +14,19 @@ My take on derivatives:
 |Derivative of system 导数|Combined perspective of each part|
 |Addition Rule[f+g]' ➕|Add contributions from f and g|
 |Product Rule[f*g]' ✖️|Add contributions:a slice from f,a slice from g|
-|
+|Power Rule[x^n] 幂|Combine N different perspectives|
+|Chain Rule|Zoom into a perspective's root cause|
 
 
 ### Functions: Anything, Anything But Graphs // 函数图像之外的理解
+#### 不要一下子就想到"f(x) = x^n"的函数图像
+#### derivative rules are about machinery.
+#### the function as the process "input(x) => f => output(y)"
+![image](https://user-images.githubusercontent.com/31954987/196243399-e98cd22e-6f31-4334-a2cf-52a96a4667be.png)
+
+
+
+
 ### Wiggle Wiggle Wiggle // 摆动 摆动 摆动
 ### Addition and Subtraction // ➕ &➖
 ### df vs df/dx //
