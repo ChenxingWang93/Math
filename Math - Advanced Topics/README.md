@@ -41,7 +41,5 @@
 
 ### 3. Why Complex Multiplication Works? 复数的乘法
 ![image](https://user-images.githubusercontent.com/31954987/196349564-3290b837-1aa8-4160-ba0a-a9433524da16.png)
-|Complex Operation复数运算  |intuitive meaning｜
-|--------------------------|-----------------|
-|Magnitude: |z| |Distance from zero: |z|=$\sqrt{a^{2}+b^{2}}|
+
 
