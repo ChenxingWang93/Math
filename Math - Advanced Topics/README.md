@@ -45,5 +45,9 @@
 |Complex Operation 复数运算 |Intuitive Meaning|
 |--------------|---------------------------|
 |Magnitude:$|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
+|Addition &Subtraction|Sliding numbers|
+|Multiplication|Scale by magnitude, add angles|
+|Division|Shrink by magnitude,subtract angles|
+|Complex Conjugate:z*|""
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
