@@ -44,5 +44,6 @@
 
 |Complex Operation 复数运算 |Intuitive Meaning|
 |--------------|---------------------------|
+|Magnitude:$|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
