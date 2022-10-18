@@ -1,4 +1,4 @@
-### A Visual, Intuitive Guide to Imaginary Numbers 虚数的直觉感受
+### 1. A Visual, Intuitive Guide to Imaginary Numbers 虚数的直觉感受
 ### Math Mindset 数学心态
 - What **relationship** does this model represent? **关系**
 - What real-world items share this relationship? **现实世界中的关系**
@@ -39,5 +39,6 @@
 ###📌tbd
 ###📌tbd
 
-
+### 3. Why Complex Multiplication Works? 复数的乘法
+![image](https://user-images.githubusercontent.com/31954987/196349564-3290b837-1aa8-4160-ba0a-a9433524da16.png)
 
