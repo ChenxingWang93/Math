@@ -63,8 +63,40 @@ pick among 4 shirts OR among 8 pants = 4 + 8 = 12 choices
 #### permutation count /redundancies 排列数/冗余
 #### That's what's happening with the combination and permutation formula. We create the max volume and shrink it by the dimensions we are not using.
 
+### Example: Flipping Coins
+### 📌tbd
+### 📌tbd
+### 📌tbd
+### 📌tbd
+### 📌tbd
+### 📌tbd
 
 
+### Appendix: Computer Programming
+
+#### Turing AND/OR statements into arithmetic maps nicely to Boolean logic.
+#### If A and B are variables with the values 1 or 0, we can write:
+- `A AND B = A * B`
+- `A OR B = A + B`
+
+#### In most language, a positive number evaluates to "true", so A + B = 2 is true. Note that this OR is an "inclusive OR" that allows both values to be true. To force an exclusive OR, we could take the remainder after dividing by two:
+- `A XOR B = (A + B) % 2`
+
+#### 虽然对于大多数编程语言有区分运算符，但是看到实际运算符是如何运作的还是一件好事
+#### most programming languages have separate operators for AND(`&&`), OR(`||`) and XOR(`^`)
+#### Additionally, "if/then/else" statements can be converted to arithmetic.
+
+If `y` is a variable(1 or 0) that determines a result, instead of:
+```
+if (y) {
+   result = ResultIfTrue;
+}
+else {
+   result = ResultIfFalse;
+}
+```
+we can use the single statement:
+`result = y * ResultIfTrue + (1 - y) * ResultIfFalse`
 
 
-
+This version avoids the need for branching, which is expensive for a CPU, and is a formula we can use optimize with Calculus(used in machine learning algorithms) 
