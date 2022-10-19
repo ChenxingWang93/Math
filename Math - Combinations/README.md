@@ -30,4 +30,14 @@ pick among 4 shirts OR among 8 pants = 4 + 8 = 12 choices
 ```
 #### Writing out the scenario is often easier to think through, especially with numerous dimensions (shirts, pants, hats, shoes, socks)，as you internalize the analogies, you will recognize whether _multiplication_ or _addition_
 
-#### Randomly pick any item along the line and have _4 + 8 = 12_ options
+
+
+### Example: Combination and Permutation Formula
+![image](https://user-images.githubusercontent.com/31954987/196755492-2f95411b-980b-469a-b2f8-4fceeead6ab4.png)
+(n!): the max volume assuming each of the n choices has its own dimension. the number of rearrangements of 8 people is 8 * 7 * 6 * 5 * 4 * 2 * 1.
+
+
+
+
+
+
