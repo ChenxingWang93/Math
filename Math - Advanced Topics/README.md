@@ -44,10 +44,37 @@
 
 |Complex Operation 复数运算 |Intuitive Meaning|
 |--------------|---------------------------|
-|Magnitude:$|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
+|Magnitude:$ 大小|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
 |Addition &Subtraction|Sliding numbers|
 |Multiplication|Scale by magnitude, add angles|
 |Division|Shrink by magnitude,subtract angles|
-|Complex Conjugate:z*|""
+|Complex Conjugate:z*|"Imaginary Reflection": Same size, opposite angle if z = 3 + 4i, then z* = 3 - 4i|
+|Conjugate Properties 共轭属性|(x + y)^* = x^* + y^*[add then reflect = reflect and add]  (xy)^* = x^* y^*[multiply then reflect = reflect and multiply]|
+
+#### Complex Variables 复数 变量
+with complex numbers, there's two dimensions to talk about, when writing 
+_z = 3 + 4i_
+![image](https://user-images.githubusercontent.com/31954987/196573678-d1ce1ec7-8e90-468e-8383-0833b0fb9b02.png)
+
+#### Measuring Size 大小
+complex numbers use two independent axes, size(magnitude) using Pythagoream Theorem 勾股定理:
+![image](https://user-images.githubusercontent.com/31954987/196574430-31a579f9-5d7d-464d-a6ae-6738abb45e9c.png)
+##### A number of _z = 3 + 4i_ would have a magnitude of 5(勾三股四弦五), 
+##### The shorthand for "magnitude of z" is this |z|, 
+##### Magnitude of a complex number: "distance from zero", Absolute value of negative: "distance from zero".
+
+#### Complex Addition and Subtraction 复数的 加法与减法
+![image](https://user-images.githubusercontent.com/31954987/196575412-eeffe598-e9b8-4b24-895b-1d9d64002c1c.png)
+##### Adding (3 + 4i) to (-1 + i) equals to 2 + 5i.
+##### a visual representation of how "independent components" are combined: we track the real and imaginary parts separately.
+
+##### Subtraction is the reverse of addition - it is sliding in the opposite direction.
+Subtracting (1 + i) is the same as adding -1*(1 + i), or adding (-1 - i)
+
+#### Complex Multiplication ✖️
+##### when we multiply two complex number(x and y) to get z:
+- Add the angles:
+- Multiply the magnitudes: |z| = |x| * |y|
+
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
