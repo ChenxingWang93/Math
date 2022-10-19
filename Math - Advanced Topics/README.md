@@ -79,7 +79,11 @@ Subtracting (1 + i) is the same as adding -1*(1 + i), or adding (-1 - i)
 #### Complex Division 复数 ➗
 ##### Division is the opposite of multiplication, just like subtraction is the opposite of addition. when dividing complex numbers (x divided by y), we
 
-- Subtract angle:
+- **Subtract angle:** angle(z) = angle(x) - angle(y)
+- **Divide by magnitude:** |z| = |x| / |y|
+
+#### Introducing Complex Conjugates 复数 的共轭性质
+![image](https://user-images.githubusercontent.com/31954987/196579520-df1d376e-3f42-4e2c-9886-083b94e894c1.png)
 
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
