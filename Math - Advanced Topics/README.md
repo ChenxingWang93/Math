@@ -73,8 +73,13 @@ Subtracting (1 + i) is the same as adding -1*(1 + i), or adding (-1 - i)
 
 #### Complex Multiplication ✖️
 ##### when we multiply two complex number(x and y) to get z:
-- Add the angles:
+- Add the angles: angle(z) = angle(x) + angle(y)
 - Multiply the magnitudes: |z| = |x| * |y|
+
+#### Complex Division 复数 ➗
+##### Division is the opposite of multiplication, just like subtraction is the opposite of addition. when dividing complex numbers (x divided by y), we
+
+- Subtract angle:
 
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
