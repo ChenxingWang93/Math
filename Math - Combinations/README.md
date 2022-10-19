@@ -26,5 +26,8 @@ Another interpretations is AND(multiplication) v.s. OR(addition).
 pick among 4 shirts AND among 8 pants = 4 * 8 = 32 choices
 ```
 ```
-
+pick among 4 shirts OR among 8 pants = 4 + 8 = 12 choices
 ```
+#### Writing out the scenario is often easier to think through, especially with numerous dimensions (shirts, pants, hats, shoes, socks)，as you internalize the analogies, you will recognize whether _multiplication_ or _addition_
+
+#### Randomly pick any item along the line and have _4 + 8 = 12_ options
