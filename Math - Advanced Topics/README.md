@@ -42,6 +42,8 @@
 ### 3. Why Complex Multiplication Works? 复数的乘法
 ![image](https://user-images.githubusercontent.com/31954987/196349564-3290b837-1aa8-4160-ba0a-a9433524da16.png)
 
+
+### 2. Intuitive Arithmetic with Complex Numbers
 |Complex Operation 复数运算 |Intuitive Meaning|
 |--------------|---------------------------|
 |Magnitude:$ 大小|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
@@ -84,6 +86,12 @@ Subtracting (1 + i) is the same as adding -1*(1 + i), or adding (-1 - i)
 
 #### Introducing Complex Conjugates 复数 的共轭性质
 ![image](https://user-images.githubusercontent.com/31954987/196579520-df1d376e-3f42-4e2c-9886-083b94e894c1.png)
+
+z = a + bi,
+z* = a - bi called the "complex conjugate", it has the same real part, but the "mirror image" in the imaginary dimension. the conjugate of "imaginary reflection" has the same magnitude, but the opposite angle!
+
+![image](https://user-images.githubusercontent.com/31954987/196958516-56c75a1b-3800-4b0b-b73d-3583e0440c9d.png)
+
 
 
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
