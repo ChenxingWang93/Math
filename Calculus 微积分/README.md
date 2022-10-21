@@ -1,6 +1,13 @@
 ### Understanding Calculus With A Bank Account Metaphor  //用银行账户隐喻理解微积分
 ### Prehistoric Calculus: Discovering Pi //史前微积分：发现Pi
 ### A Calculus Analogy: Integrals as Multiplication  //Integrals: 积分；Multiplication：乘法；
+#### Integral are often described as finding the area under a curve. this description is too narrow, 积分作为找到函数曲线下面积的理解还是太狭隘了
+#### it's like saying multiplication exists to find the area of rectangles. 这就好像在说乘法的存在在于找到矩形的面积
+#### finding the area is a useful _application_, but not the _purpose_ of multiplication.
+#### key insight: integrals help us combine numbers when multiplication can't
+#### aha moment: integration is a "better multiplication" that works on things that change -- area is just _one way_ to visualize multiplication, the key isn't the area
+
+
 ### Calculus: Building Intuition for a Derivative  //建立导数的直觉
 
 ![image](https://user-images.githubusercontent.com/31954987/196173957-669f2bf9-370a-403d-9a38-f757c9f783ce.png)
