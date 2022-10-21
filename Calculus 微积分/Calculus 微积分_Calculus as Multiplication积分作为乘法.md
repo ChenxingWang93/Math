@@ -5,6 +5,6 @@
 #### key insight: integrals help us combine numbers when multiplication can't
 #### aha moment: integration is a "better multiplication" that works on things that change 积分是用来描述变化的 “更好的乘法” -- area is just _one way_ to visualize multiplication, the key **isn't the area**, it's the idea of combining quantities into a new result. //结合变化进而得到一个新结果
 
-### understanding multiplication 我们对乘法的理解随着时间的推移而改变
+### Understanding Multiplication 我们对乘法的理解随着时间的推移而改变
 - 
 
