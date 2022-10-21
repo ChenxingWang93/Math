@@ -93,5 +93,4 @@ z* = a - bi called the "complex conjugate", it has the same real part, but the "
 ![image](https://user-images.githubusercontent.com/31954987/196958516-56c75a1b-3800-4b0b-b73d-3583e0440c9d.png)
 
 
-
 ##### Learning by analogy. imaginary numbers' ancestor, the negatives
