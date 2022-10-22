@@ -23,6 +23,7 @@ My take on derivatives:
 #### derivative rules are about machinery.
 #### the function as the process "input(x) => f => output(y)"
 ![image](https://user-images.githubusercontent.com/31954987/196243399-e98cd22e-6f31-4334-a2cf-52a96a4667be.png)
+#### the machine computes functions like 
 
 
 
