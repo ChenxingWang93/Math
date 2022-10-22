@@ -47,6 +47,11 @@ My take on derivatives:
 
 ### Wiggle Wiggle Wiggle // 摆动 摆动 摆动
 ### Addition and Subtraction // ➕ &➖
+#### ![image](https://user-images.githubusercontent.com/31954987/197357542-57e35080-267d-4be3-96ea-cbe23f1e2f6a.png)
+#### ![image](https://user-images.githubusercontent.com/31954987/197357557-b5f69a1d-f2f1-40d0-baee-36572ee376af.png)
+
+
+
 ### df vs df/dx //
 #### sometimes we use _df_, other times _df/dx_
 - _df_ is a general notion of "however much f changed"
