@@ -25,19 +25,19 @@ My take on derivatives:
 ![image](https://user-images.githubusercontent.com/31954987/196243399-e98cd22e-6f31-4334-a2cf-52a96a4667be.png)
 
 ####
-|||
-|---|---|
-|<img width="625" alt="Screen Shot 2022-10-18 at 01 28 36" src="https://user-images.githubusercontent.com/31954987/197349664-7f5fcb7c-c8f3-487b-a8be-e6f1882d4c91.png">   |<img width="625" alt="Screen Shot 2022-10-23 at 00 12 52" src="https://user-images.githubusercontent.com/31954987/197349739-2b63b97f-1715-4593-a548-e4c6a1b1fea4.png">   |
+|||constant lead cam 恒定lead凸轮⬇|
+|---|---|---|
+|<img width="625" alt="Screen Shot 2022-10-18 at 01 28 36" src="https://user-images.githubusercontent.com/31954987/197349664-7f5fcb7c-c8f3-487b-a8be-e6f1882d4c91.png">   |<img width="625" alt="Screen Shot 2022-10-23 at 00 12 52" src="https://user-images.githubusercontent.com/31954987/197349739-2b63b97f-1715-4593-a548-e4c6a1b1fea4.png">|<img width="626" alt="Screen Shot 2022-10-23 at 00 16 13" src="https://user-images.githubusercontent.com/31954987/197350245-88420328-8750-4c6c-9271-54a20a65fbf6.png">|
 
-#### constant lead cam 恒定lead凸轮⬇
-<img width="626" alt="Screen Shot 2022-10-23 at 00 16 13" src="https://user-images.githubusercontent.com/31954987/197350245-88420328-8750-4c6c-9271-54a20a65fbf6.png">
 
-#### reciprocal cam 倒数凸轮⬇
-||||
+|reciprocal cam 倒数凸轮⬇|||
 |---|---|---|
 |<img width="625" alt="Screen Shot 2022-10-23 at 00 27 20" src="https://user-images.githubusercontent.com/31954987/197350650-630fa9ff-d35c-4048-8bc8-2ccbaf321d23.png">   |<img width="625" alt="Screen Shot 2022-10-23 at 00 29 03" src="https://user-images.githubusercontent.com/31954987/197350776-8b697382-417b-40b7-abbe-e821ec1039a3.png">   |<img width="628" alt="Screen Shot 2022-10-23 at 01 20 49" src="https://user-images.githubusercontent.com/31954987/197353808-e78162bb-2c79-4ba7-9d1b-b490155e2243.png">   |
 
 
+|square cam 方形凸轮⬇|tangent cam 正切⬇||
+|---|---|---|
+|<img width="627" alt="Screen Shot 2022-10-23 at 01 56 06" src="https://user-images.githubusercontent.com/31954987/197355639-3b5b8d26-459e-457c-9dd1-51d5b5ff3ed8.png">   |<img width="628" alt="Screen Shot 2022-10-23 at 01 59 22" src="https://user-images.githubusercontent.com/31954987/197355746-df36fae6-0e70-4f51-ab4d-082f0830015a.png">   |<img width="627" alt="Screen Shot 2022-10-23 at 02 04 33" src="https://user-images.githubusercontent.com/31954987/197355958-c5cb3ab4-d49b-4015-aa27-7c4703945b46.png">   |
 
 
 
