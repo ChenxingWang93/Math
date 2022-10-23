@@ -83,7 +83,18 @@ what's going on?
 ![image](https://user-images.githubusercontent.com/31954987/197373032-9dbf27bc-f2de-4164-967d-2e287e7f50a4.png)
 ![image](https://user-images.githubusercontent.com/31954987/197373033-2d597097-acd5-4d07-a49b-822dd5c6fd5b.png)
 
-#### 
+#### input(x) => f:x^2 => g:f^3 => output(y)
+#### f:x^2 means f squares its input. g:f^3 means g cubes its input, the value of f. For example: 
+#### input(2) => f(2) => g(4) => output:64
+#### Start with 2, f squares it (2^2 = 4), and g cubes this (4^3 = 64). It's a 6th power machine:
+
+![image](https://user-images.githubusercontent.com/31954987/197376615-0e9658bf-1a30-490c-9a50-5b86184808c4.png)
+
+#### and what's the derivative?
+![image](https://user-images.githubusercontent.com/31954987/197376684-0af6d9c5-a24f-4f33-87e5-6c575c99695c.png)
+- f changes its input wiggle by df/dx = 2x
+- g changes its input wiggle by 
+
 
 
 
