@@ -77,18 +77,46 @@ what's going on?
 
 
 
-
 ### The Chain Rule // 链规则
 #### g depends on f, which depends on x:
 ![image](https://user-images.githubusercontent.com/31954987/197373032-9dbf27bc-f2de-4164-967d-2e287e7f50a4.png)
 ![image](https://user-images.githubusercontent.com/31954987/197373033-2d597097-acd5-4d07-a49b-822dd5c6fd5b.png)
 
+#### the chain rule let us "zoom into" a function and see how an initial change(x) can effect the final result down the line (g)
+
+#### Interpretation 1: Convert the rates //解读1: 转化rates
+#### a common interpretation is to multiply the rates:
+![image](https://user-images.githubusercontent.com/31954987/197391972-9a030a1d-040b-4a7f-9d14-45c709d22a00.png)
+
+#### x wiggles f. This creates a rate of change of df/dx, which wiggles g by dg/df. The entire wiggle is then 
+![image](https://user-images.githubusercontent.com/31954987/197392107-6424b270-4b41-4d58-b3a4-08274c9ef7fa.png)
+
+#### Interpretation 2: Convert the wiggle //解读2: 转化wiggle
+#### I prefer to see the chain rule on the "pre-wiggle" basis:
+- x wiggles by dx, so
+- y wiggles by dy, so
+- g wiggles by dg
+
+#### Cool, how are they actually related? (It's the output wiggle per input wiggle):
+![image](https://user-images.githubusercontent.com/31954987/197395562-9f9419d1-fd74-444f-8384-25de3d871738.png)
+#### the derivative of f(df/dx)is how much to scale the initial wiggle, and the same happens to g:
+![image](https://user-images.githubusercontent.com/31954987/197395657-c94f5c14-1503-49ab-8ffa-963760e5bf0d.png)
+#### It will scale whatever wiggle comes along its input lever (f) by dg/df.If we write the df wiggle in terms of dx:
+![image](https://user-images.githubusercontent.com/31954987/197395721-c215dc41-fa9f-413e-adb4-b6337cdc16c3.png)
+#### we have another version of the chain rule: dx starts the chain, which results in some final result dg. If we want the final wiggle in terms of dx, divide both sides by dx:
+![image](https://user-images.githubusercontent.com/31954987/197395873-ee5cffb1-9c07-4c81-acfb-aa47537fb5e5.png)
+#### The chain rule isn't just factor-label unit cancellation -- it's the propagation of wiggle,which gets adjusted at each step. The chain rule works for several variables (a depends on b depends on c), just propagate the wiggle as you go.
+
+#### try to "zooming into" different variable's point of view. Starting from dx and looking up, you see the entire chain of transformations needed before the impulse reaches g
+
+
+
+### Chain Rule: Example Time // 链规则：例子
 #### input(x) => f:x^2 => g:f^3 => output(y)
 #### f:x^2 means f squares its input. g:f^3 means g cubes its input, the value of f. For example: 
 #### input(2) => f(2) => g(4) => output:64
 #### Start with 2, f squares it (2^2 = 4), and g cubes this (4^3 = 64). It's a 6th power machine:
-
-![image](https://user-images.githubusercontent.com/31954987/197376615-0e9658bf-1a30-490c-9a50-5b86184808c4.png)
+![image](https://user-images.githubusercontent.com/31954987/197396983-86b320ff-ab3a-4725-905b-2b1798f533e7.png)
 
 #### and what's the derivative?
 ![image](https://user-images.githubusercontent.com/31954987/197376684-0af6d9c5-a24f-4f33-87e5-6c575c99695c.png)
@@ -98,5 +126,29 @@ what's going on?
 3f^2 * 2x = 3 (x^2)^2 * 2x = 3 * x^4 * 2 x = 6 x^5
 
 
-### Chain Rule: Example Time // 链规则
-#### 
+
+### Chain Rule:  // 链规则
+#### Functions treat their input like a blob
+#### In many examples, the variable "x" is the "end of the line".
+#### How come we multiply derivatives with the chain rule, but add them for the others?
+
+
+
+### Power Rule: Oft Memorized, Seldom Understood //经常记住，鲜有理解
+#### Normally: What's the derivative of x^4? 4x^3, brought down the exponent and subtracted one. Now explain why!
+#### Hrm. There's a few approaches
+#### x^4 is really x * x * x * x, it's the multiplication of 4 "independent" variables. Each x doesn't know about the others, it might as well be 
+#### x * u * v * w
+#### think about the first x's point of view:
+- it changes from x to x + dx
+- the change in the overall function is [(x + dx) - x][u * v * w] = dx[u * v * w]
+- the change on a "per dx" basis is [u * v * w]
+
+#### Similarly,
+- From u's point of view, it changes by du, it contributes (du/dx) * [x * v * w] on a "per dx" basis
+- v contributes (dv/dx) * [x * u * w]
+- w contributes (dw/dx) * [x * u * v]
+
+#### the curtain is unveiled: x, u, v, and w are the same! The "point of view" conversion factor is (dx/dx = du/dx = dv/dx = dw/dx = 1), and the total change is (x * x * x) + (x * x * x) + (x * x * x) + (x * x * x) = 4x^3
+
+#### In a nutshell: the derivative of x^4 is 4^x3 because x^4 has four identical "point of view" which are being combined.
