@@ -51,7 +51,6 @@ My take on derivatives:
 #### ![image](https://user-images.githubusercontent.com/31954987/197357557-b5f69a1d-f2f1-40d0-baee-36572ee376af.png)
 
 
-
 ### df vs df/dx //
 #### sometimes we use _df_, other times _df/dx_
 - _df_ is a general notion of "however much f changed"
@@ -59,6 +58,34 @@ My take on derivatives:
 #### In calculus,sometimes we want to think about the actual change, not the ratio. Working at the "df" level gives us room to think about how the function wiggles overall. We can eventually scale it down in terms of a specific input.
 ![image](https://user-images.githubusercontent.com/31954987/197356866-620a356b-80c3-45d9-801d-4b87cfdd67d2.png)
 
+
 ### Multiplication (Product Rule) // ✖️
+![image](https://user-images.githubusercontent.com/31954987/197372039-c58e6c0f-0366-4086-9520-408d16443257.png)
+#### see how each part contributes from its own point of view, and combine them:
+- total change in h = f's contribution(from f's point of view) + g's contribution(from g's point of view)
+![image](https://user-images.githubusercontent.com/31954987/197372555-b7337121-abeb-441c-b9b8-40d169942a85.png)
+what's going on?
+- we have our system: f and g are multiplied, giving h(the area of rect)
+- Input "x" changes by dx off in the distance. f changes by some amount df. Similarly, g changes by its own amount dg. Because f and g changed, the area of the rectangle changes too.
+- What's the area change from f's point of view? Well, f knows he changed by df, but has no idea what happened to g. From f's perspective, he's the only one who moved and will add a slice of area = df * g
+- Similarly, g doesn't know how f changed, but knows he'll add as slice of area "dg * f" 
+#### the overall change in the system(dh) is the two slices of area
+![image](https://user-images.githubusercontent.com/31954987/197372845-14985733-d665-4ea8-9e3a-b21094621d08.png)
+
+#### then "divide by dx" to write this in terms of how much x changed:
+![image](https://user-images.githubusercontent.com/31954987/197372930-081edcbc-63b3-41fb-acc6-e98af7896e68.png)
+
+
+
+
 ### The Chain Rule // 链规则
+#### g depends on f, which depends on x:
+![image](https://user-images.githubusercontent.com/31954987/197373032-9dbf27bc-f2de-4164-967d-2e287e7f50a4.png)
+![image](https://user-images.githubusercontent.com/31954987/197373033-2d597097-acd5-4d07-a49b-822dd5c6fd5b.png)
+
+#### 
+
+
+
+
 ### Chain Rule: Example Time // 链规则
