@@ -93,10 +93,10 @@ what's going on?
 #### and what's the derivative?
 ![image](https://user-images.githubusercontent.com/31954987/197376684-0af6d9c5-a24f-4f33-87e5-6c575c99695c.png)
 - f changes its input wiggle by df/dx = 2x
-- g changes its input wiggle by 
-
-
-
+- g changes its input wiggle by dg/df = 3f^2
+#### the final change is: 
+3f^2 * 2x = 3 (x^2)^2 * 2x = 3 * x^4 * 2 x = 6 x^5
 
 
 ### Chain Rule: Example Time // 链规则
+#### 
