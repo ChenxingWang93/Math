@@ -58,6 +58,16 @@
 ## Know the current branch
 #### Just like seeing your current directory, put the current branch in your prompt!
 #### in my .bash_profile:
-- ```
+> ```
+> parse_git_branch() {
+>    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* (.*)/(1)/'
+> }
+> 
+> export PS1="[33[00m]u@h[33[01;34m] W [33[31m]$(parse_git_branch) [33[00m]$[33[00m] "
+> ```
+
+## Visualize your branch structure
+#### Git leaves branch organization to you. Nvie.com has a great branch strategy
+![image](https://user-images.githubusercontent.com/31954987/198338204-fc85b7fc-c12b-4d1a-880e-17d3b4b8889d.png)
+- Have a mainline(master). Mentally it's on the far right.
 - 
-- ```
