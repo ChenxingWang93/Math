@@ -70,4 +70,38 @@
 #### Git leaves branch organization to you. Nvie.com has a great branch strategy 
 ![image](https://user-images.githubusercontent.com/31954987/198338204-fc85b7fc-c12b-4d1a-880e-17d3b4b8889d.png)
 - Have a mainline(master). Mentally it's on the far right. //心智模型中的右侧🫱，为主线分支
-- create 
+- Create branches(master -> dev) and subbranches (dev -> featureX) the further from master, the crazier //创建分支 与分分支
+- Only merge with neighbors (master -> dev -> feature X, or featureX -> dev -> master) //
+
+#### stay sane by choosing a branch layout up front. I have a master tracking a svn project, and dev for my own code. In general, master is clean so I can branch anytime for one-off fixes.
+
+
+## understand local VS. remote //本地与远程
+#### Git has local and remote commands; Work locally, syncing remotely as needed.
+
+### Local data //本地数据
+- `git init`
+  - create local repo
+  - use git add/commit/branch to work locally
+
+### Remote data //远程数据
+- `git remote add name path-to-repo`
+  - track a remote repo(usually "origin" from an existing repo) //追踪远程repo
+  - remote branches are "origin/master", "origin/dev" etc.
+
+- `git branch -a`
+  - list all branches(remote and local) //罗列所有分支（包括本地与远程）
+
+- `git clone path-to-repo`
+  - create a new local git repo copied from a remote one
+  - local master tracks remote master //本地master追踪 远程master
+
+- `git pull`
+  - merge changes from tracked remote branch (if in dev, pull from origin/dev) //从追踪的远程分支合并变化 
+- `git push`
+  - send change to tracked remote branch (if in dev, push to origin/dev)
+
+### **Why local and remote?** Subversion has central checkins, you avoid committing unfinished work. With git, local commits are frequent and you only push when ready. //避免commit 未完成的工作，本地commits是常用的，you only push当需要。
+
+##GUIDs are GOOD
+
