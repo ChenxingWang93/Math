@@ -1,6 +1,6 @@
 ## There's a staging area! //暂存区
-#### Git has a staging area. **Git has a staging area!!!**
-#### There's both a repo("object database") and a staging area(so called "index").Checkins have two steps: //Checkins 包含两个步骤
+#### Git has a staging area. **Git has a staging area!!!** //Git 暂存区
+#### There's both a repo("object database") and a staging area(so called "index").Checkins have two steps: //对象数据库，暂存区；Checkins 包含两个步骤
 - `git add foo.txt`
   - Add foo.txt to the index. it is not checked in yet!
 
@@ -8,7 +8,7 @@
   - Put staged files in the repo; they're now tracked
   - You can "`git add -update`" to stage all tracked, modified files
 
-#### **Why stage?** Git's flexible: if a, b and c are changed, you can commit them separately or together.
+#### **Why stage?** Git's flexible: if a, b and c are changed, you can commit them separately or together. //分开或者共同commit
 
 #### But now there's two undos: //两种undos
 - `git checkout foo.txt`
@@ -27,7 +27,7 @@
 
 #### In practice, svn is like a single shared drive, where you can only revert to one bakcup
 
-## Imagine virtual directories
+## Imagine virtual directories //想象一个虚拟目录
 #### I see branches as "virtual directories" in the .gif folder. While inside a physical directory (c:\project or ~/project), you traverse virtual directories with a checkout.
 
 - `git checkout master`
@@ -50,12 +50,12 @@
 #### The physical directory is a scratchpad. Virtual directories are affected by git commands:
 
 - `rm foo.txt`
-  - Remove foo.txt from your sandbox(restored if you checkout the branch again)
+  - Remove foo.txt from your sandbox(restored if you checkout the branch again) //从沙盒中移除 foo.txt
 - `git rm foo.txt`
-  - Remove foo.txt from current virtual directory 
-  - Gotcha: you need to commit that change!
+  - Remove foo.txt from current virtual directory //从现有虚拟目录中移除 foo.txt
+  - Gotcha: you need to commit that change! //
 
-## Know the current branch
+## Know the current branch //当前的分支
 #### Just like seeing your current directory, put the current branch in your prompt!
 #### in my .bash_profile:
 > ```
@@ -66,8 +66,8 @@
 > export PS1="[33[00m]u@h[33[01;34m] W [33[31m]$(parse_git_branch) [33[00m]$[33[00m] "
 > ```
 
-## Visualize your branch structure
-#### Git leaves branch organization to you. Nvie.com has a great branch strategy
+## Visualize your branch structure //可视化分支结构
+#### Git leaves branch organization to you. Nvie.com has a great branch strategy 
 ![image](https://user-images.githubusercontent.com/31954987/198338204-fc85b7fc-c12b-4d1a-880e-17d3b4b8889d.png)
-- Have a mainline(master). Mentally it's on the far right.
-- 
+- Have a mainline(master). Mentally it's on the far right. //心智模型中的右侧🫱，为主线分支
+- create 
