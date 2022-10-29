@@ -38,9 +38,17 @@
 
 ![image](https://user-images.githubusercontent.com/31954987/198820724-f8b0bf54-d826-4897-9024-32dda8d5891d.png)
 #### if we multiply by -i twice, the first multiplication would turn 1 into -i, and the second turn -i into -1. there two square roots of -1: i and -i
-- i is a "new imaginary dimension" to measure a number
-- i(or -i) is what numbers "become" when rotated
+- i is a "new imaginary dimension" to measure a number //虚数：想象的维度 用以衡量数字
+- i(or -i) is what numbers "become" when rotated //实数旋转变虚数
+- Multiplying i is a rotation by 90 degrees counter-clockwise //✖️ i逆时针旋转90度
+- Multiplying by -i is a rotation of 90 degrees clockwise //✖️ -i顺时针旋转90度
+- Two rotations in either direction is -1: it brings us back into the “regular” dimensions of positive and negative numbers. //两个不同方向的旋转是-1：
 
+### **Numbers are 2-dimensional** //数是二维的
+#### it is mind bending, just like **decimals and long** division would be mind-bending to an ancient Roman(_What do you mean there's a number between 1 and 2?_) 
+#### https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
+
+#### 🌟🌟🌟 also, keep in mind that having counter-clockwise be positive is a human convention - it easily could have been the other way //逆时针为正是人为
 
 ### 2. Intuitive Arithmetic with Complex Numbers
 |Complex Operation 复数运算 |Intuitive Meaning|
