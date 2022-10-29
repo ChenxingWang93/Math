@@ -28,19 +28,18 @@
 |Intuitive meaning |"_Opposite_"|"_Rotation_"|
 |considered absurd until|1700s|today😊       ｜
 |Multiplication cycle[&general pattern]|1, -1, 1, -1... X, -X, X, -X...|1, i, -1, -i...X, Y, -X, -Y...|
-|Measure size with|Absolute value|pythagorean theorem勾股定理｜
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
-###📌tbd
+|Measure size with|Absolute value <img width="60" alt="Screen Shot 2022-10-29 at 15 49 56" src="https://user-images.githubusercontent.com/31954987/198820377-bc754431-e386-49d3-8de0-694b0cf488d1.png">|pythagorean theorem勾股定理 <img width="68" alt="Screen Shot 2022-10-29 at 15 49 12" src="https://user-images.githubusercontent.com/31954987/198820342-18b28404-11db-442e-a772-953fa39ea472.png">｜
+#### euler, who discovered e
+
 
 ### 3. Why Complex Multiplication Works? 复数的乘法
 ![image](https://user-images.githubusercontent.com/31954987/196349564-3290b837-1aa8-4160-ba0a-a9433524da16.png)
+#### rotate twice in other direction(clockwise) to turn 1 into -1. This is "negative" rotation or a multiplication by -i:
+
+![image](https://user-images.githubusercontent.com/31954987/198820724-f8b0bf54-d826-4897-9024-32dda8d5891d.png)
+#### if we multiply by -i twice, the first multiplication would turn 1 into -i, and the second turn -i into -1. there two square roots of -1: i and -i
+- i is a "new imaginary dimension" to measure a number
+- i(or -i) is what numbers "become" when rotated
 
 
 ### 2. Intuitive Arithmetic with Complex Numbers
