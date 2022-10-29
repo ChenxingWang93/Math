@@ -50,6 +50,13 @@
 
 #### 🌟🌟🌟 also, keep in mind that having counter-clockwise be positive is a human convention - it easily could have been the other way //逆时针为正是人为
 
+
+### Finding Patterns //
+### A Real Example: Rotations //例子：旋转
+### Complex Numbers Aren’t //复数不是什么
+### Epilogue: But they’re still strange! //结语：它们还是很奇怪！
+
+
 ### 2. Intuitive Arithmetic with Complex Numbers
 |Complex Operation 复数运算 |Intuitive Meaning|
 |--------------|---------------------------|
@@ -60,7 +67,7 @@
 |Complex Conjugate:z*|"Imaginary Reflection": Same size, opposite angle if z = 3 + 4i, then z* = 3 - 4i|
 |Conjugate Properties 共轭属性|(x + y)^* = x^* + y^*[add then reflect = reflect and add]  (xy)^* = x^* y^*[multiply then reflect = reflect and multiply]|
 
-#### Complex Variables 复数 变量
+### Complex Variables 复数 变量
 with complex numbers, there's two dimensions to talk about, when writing 
 _z = 3 + 4i_
 ![image](https://user-images.githubusercontent.com/31954987/196573678-d1ce1ec7-8e90-468e-8383-0833b0fb9b02.png)
