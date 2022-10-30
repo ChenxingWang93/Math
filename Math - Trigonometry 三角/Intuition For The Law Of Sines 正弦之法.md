@@ -39,6 +39,8 @@ https://en.wikipedia.org/wiki/Inscribed_angle
 |Analogy 类比|imagine kids describing the same circle with varying degrees of aggregation|
 |Diagram 图解|![image](https://user-images.githubusercontent.com/31954987/198879706-5e913bfd-74b7-4b0a-a875-05209219ea6a.png)|
 |Example 举例|
+|Plain-English|any angle + side can deduce the size of the wrapping circle|
+|Technical|![image](https://user-images.githubusercontent.com/31954987/198880416-bd209507-b198-4d3e-b202-9774a9f2e654.png)|
 
 
 
