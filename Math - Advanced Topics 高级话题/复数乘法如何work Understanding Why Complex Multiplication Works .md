@@ -40,8 +40,10 @@
   <mn>3</mn>
   <mi>i</mi>
   <mo stretchy="false">)</mo>
-</math>?
-![image](https://user-images.githubusercontent.com/31954987/198838230-bdd7d0d5-b688-442a-80bf-6a67efcd52d5.png)
+</math>
+
+#### ![image](https://user-images.githubusercontent.com/31954987/198838230-bdd7d0d5-b688-442a-80bf-6a67efcd52d5.png)
+
 
 #### alternate explanation! 
 ![image](https://user-images.githubusercontent.com/31954987/198838329-3b39f2f4-8f98-4f5e-9c53-bf65a930a091.png)
@@ -74,3 +76,6 @@
 </math>
 then the distance won't change!
 
+### A Few Thoughts
+#### Real satisfying insight comes from playing with analogies and examples
+#### Polya 乔治波利亚 said it well:"when you have satisfied yourself that the theorem is true, you start proving it"
