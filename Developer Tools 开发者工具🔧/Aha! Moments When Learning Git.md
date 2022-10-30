@@ -101,7 +101,25 @@
 - `git push`
   - send change to tracked remote branch (if in dev, push to origin/dev)
 
-### **Why local and remote?** Subversion has central checkins, you avoid committing unfinished work. With git, local commits are frequent and you only push when ready. //避免commit 未完成的工作，本地commits是常用的，you only push当需要。
+#### **Why local and remote?** Subversion has central checkins, you avoid committing unfinished work. With git, local commits are frequent and you only push when ready. //避免commit 未完成的工作，本地commits是常用的，you only push当需要。
 
-##GUIDs are GOOD
+## GUIDs are GOOD
+#### Git addresses information by a hash (GUID) of its contents. If two branches are the same, they have the same GUID (and vice versa)
+#### why this is cool? we can create branches independently, merge them, and have a common GUID. No central numbering needed, Usually, we just compare the first few digits:"Are you on a93?"
 
+
+## Tips &Tricks
+#### For your .gitconfig
+
+> ```
+> [alias]
+>         ci = commit
+>         st = status
+>         co = checkout
+>         oneline = log --pretty=oneline
+>         br = branch
+>         la = log --pretty="format:%ad %h (%an): %s" --data=short
+>         
+> ```
+
+#### There are some GUI tools for git, but I prefer to learn via the command line. Git is opinionated software(), and analogies help to understand its world view.
