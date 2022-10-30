@@ -34,6 +34,11 @@ https://en.wikipedia.org/wiki/Inscribed_angle
 ![image](https://user-images.githubusercontent.com/31954987/198874340-ea76b235-7fff-4fa6-80ce-a49908d05b7e.png)
 
 
-｜----｜-----｜
-｜----｜-----｜
+|ADEPT Topic|Law of Sines 正弦法则|
+|-----------|--------------------|
+|Analogy 类比|imagine kids describing the same circle with varying degrees of aggregation|
+|Diagram 图解|![image](https://user-images.githubusercontent.com/31954987/198879706-5e913bfd-74b7-4b0a-a875-05209219ea6a.png)|
+|Example 举例|
+
+
 
