@@ -108,4 +108,32 @@ The `-m` flag is the message to use for this checkin.
 #### Notice how "Juice" wasn’t even involved - the direct jump from r1 to r4 doesn’t need that change, since Juice was overridden by Soup.
 
 ## Branching //分支
-#### 
+#### branches let us copy code into a separate folder so we can monkey with it separately: //分支允许复制代码到独立的文件夹
+
+![image](https://user-images.githubusercontent.com/31954987/199008359-c657f2de-6158-43c4-a9cf-04d191bab203.png)
+
+#### In Subversion, you create a branch simply by copying a directory to another.
+> ```
+> svn copy http://path/to/trunk http://path/to/branch
+> ```
+
+
+## Mergin //合并代码
+#### we only want to apply the changes **that happened in the branch** that means we diff r5 and r6, and apply that to the main trunk:
+![image](https://user-images.githubusercontent.com/31954987/199009415-35767a18-ce4a-400b-bcf2-f2f8a9404b61.png)
+#### if we diffed r6 and r7, we would lose the "Bread" feature that was in main. This is a sublet point - imagine "peeling off" the changes from the experimental branch(+Rice) and adding that to main. Main may have had other changes, which is ok -  we just want to insert the Rice feature.
+
+#### In Subversion, merging is very close to diffing. Inside the main trunk, run the command:
+> ```
+> svn merge -r5:6 http://path/to/branch
+> ```
+
+#### This command diffs r5-r6 in the experimental branch and applies it to the current location. Unfortunately, Subversion doesn’t have an easy way to keep track of what merges have been applied, so if you’re not careful you may apply the same changes twice. It’s a planned feature, but the current advice is to keep a changelog message reminding you that you’ve already merged r5-r6 into main. 
+
+## Conflicts
+#### Many times, the VCS can automatically merge changes to different parts of a file. Conflicts can arise when changes appear that don’t gel: Joe wants to remove eggs and replace it with cheese (-eggs, +cheese), and Sue wants to replace eggs with a hot dog (-eggs, +hot dog).
+
+version control conflict
+![image](https://user-images.githubusercontent.com/31954987/199011190-bf69aae7-3097-486c-b614-7fd04a3a6c32.png)
+
+
