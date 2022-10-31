@@ -95,4 +95,17 @@ The `-m` flag is the message to use for this checkin.
 #### this saves disk space: 4 revisions of a file means 1 copy 4 small diffs 
 
 #### In SVN, we diff two revisions of a file like this:
-> 
+> ```
+> svn diff -r3:4 list.txt
+> ```
+
+#### Diffs help us notice changes ("How did you fix that bug again?") and even apply them from one branch to another 
+> ```
+> +Eggs
+> +Soup
+> ```
+
+#### Notice how "Juice" wasn’t even involved - the direct jump from r1 to r4 doesn’t need that change, since Juice was overridden by Soup.
+
+## Branching //分支
+#### 
