@@ -133,7 +133,9 @@ The `-m` flag is the message to use for this checkin.
 ## Conflicts
 #### Many times, the VCS can automatically merge changes to different parts of a file. Conflicts can arise when changes appear that don’t gel: Joe wants to remove eggs and replace it with cheese (-eggs, +cheese), and Sue wants to replace eggs with a hot dog (-eggs, +hot dog).
 
-version control conflict
-![image](https://user-images.githubusercontent.com/31954987/199011190-bf69aae7-3097-486c-b614-7fd04a3a6c32.png)
 
+![image](https://user-images.githubusercontent.com/31954987/199011190-bf69aae7-3097-486c-b614-7fd04a3a6c32.png)
+#### at this point it's a race: if Joe checks in first, that's the change that goes through(and Sue can't make her change)
+
+#### When changes overlap and contradict like this, the VCS may report a conflict and not let you check in — it’s up to you to check in a newer version that resolves this dilemma. A few approaches:
 
