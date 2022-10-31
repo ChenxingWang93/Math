@@ -137,5 +137,38 @@ The `-m` flag is the message to use for this checkin.
 ![image](https://user-images.githubusercontent.com/31954987/199011190-bf69aae7-3097-486c-b614-7fd04a3a6c32.png)
 #### at this point it's a race: if Joe checks in first, that's the change that goes through(and Sue can't make her change)
 
-#### When changes overlap and contradict like this, the VCS may report a conflict and not let you check in — it’s up to you to check in a newer version that resolves this dilemma. A few approaches:
+#### When changes overlap and contradict like this, the VCS may report a **conflict** and not let you check in — it’s up to you to check in a newer version that **resolves** this dilemma. A few approaches:
+
+- **Re-apply your changes**. Sync to the the latest version (r4) and re-apply your changes to this file: Add hot dog to the list that already has cheese.
+- **Override their changes with yours**. Check out the latest version (r4), copy over your version, and check your version in. In effect, this removes cheese and replaces it with hot dog.
+
+#### Conflicts are infrequent but can be a pain. Usually I update to the latest and re-apply my changes. //冲突不常发生，但会很痛苦，通常我会更新到最近的版本，然后重新-应用我的改变
+
+## Tagging //🏷️
+#### Who would have thought a version control system would be Web 2.0 compliant? Many systems let you tag (label) any revision for easy reference. This way you can refer to “Release 1.0” instead of a particular build number: //vcs会顺从web2.0，很多系统允许你贴🏷️作为参考，这个方法你可以退回“release 1.0”
+
+![image](https://user-images.githubusercontent.com/31954987/199013898-9b9dd052-ba7f-41c1-9727-1f1db2b43198.png)
+
+#### in subversion, tags are just branches that you agree not to edit; they are around for posterity, so you can see exactly what your version 1.0 release contained. Hence they end in a stub — there’s nowhere to go.
+> ```
+> (in trunk)
+> svn copy http://path/to/revision http://path/to/tag
+> ```
+
+## Real-life example: Managing Windows Source Code //管理windows 源代码
+#### We guessed that Windows was managed out of a shared folder, but it’s not the case.//我们以为Windows 通过分享文件夹，当事实却并非如此
+#### https://learn.microsoft.com/en-us/archive/blogs/larryosterman/
+- There’s a main line with stable builds of Windows. //有稳定的主线
+- Each group (Networking, User Interface, Media Player, etc.) **has its own branch** to develop new features. These are under development and less stable than main. //每个小组（networking、ui、media player）都有自己的分支来开发新功能。比主分支更不稳定一些
+#### You develop new features in your branch and “Reverse Integrate (RI)” to get them into Main. Later, you “Forward Integrate” to bring the latest changes from Main into your branch: //开发新功能，然后反植入，随后向前植入 从主线到分支带来最新的变化
+![image](https://user-images.githubusercontent.com/31954987/199016545-dd2fa89f-4f20-46a1-9e1b-22830b33dc98.png)
+
+#### In reality, there’s many layers of branches and sub-branches, along with quality metrics that determine when you get to RI. But you get the idea: branches help manage complexity. Now you know the basics of how one of the largest software projects is organized. //很多层的分支与子分支，根据不同的质量矩阵来确定什么时候反向植入，但是总而言之通过分支的方式帮助管理复杂和大型的软件开发项目，让它们的开发过程变得井井有条。
+
+## key takeaways //重要的
+
+- **Use version control**. Seriously, it’s a good thing, even if you’re not writing an OS. It’s worth it for backups alone.
+- **Take it slow**. I’m only now looking into branching and merging for my projects. Just get a handle on using version control and go from there. If you’re a small project, branching/merging may not be an issue. Large projects often have experienced maintainers who keep track of the branches and patches.
+- Keep Learning. There’s plenty of guides for SVN, CVS, RCS, Git, Perforce or whatever system you’re using. The important thing is to know the concepts and realize every system has its own lingo and philosophy. Eric Sink has a detailed version control guide also.
+
 
