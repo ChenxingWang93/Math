@@ -169,6 +169,6 @@ The `-m` flag is the message to use for this checkin.
 
 - **Use version control**. Seriously, it’s a good thing, even if you’re not writing an OS. It’s worth it for backups alone.
 - **Take it slow**. I’m only now looking into branching and merging for my projects. Just get a handle on using version control and go from there. If you’re a small project, branching/merging may not be an issue. Large projects often have experienced maintainers who keep track of the branches and patches.
-- Keep Learning. There’s plenty of guides for SVN, CVS, RCS, Git, Perforce or whatever system you’re using. The important thing is to know the concepts and realize every system has its own lingo and philosophy. Eric Sink has a detailed version control guide also.
+- Keep Learning. There’s plenty of guides for [SVN](http://svnbook.red-bean.com/), [CVS](http://wwwasd.web.cern.ch/wwwasd/cvs/tutorial/cvs_tutorial_toc.html), [RCS](http://agave.garden.org/~aaronh/rcs/tutorial.html), [Git](https://www.kernel.org/pub/software/scm/git/docs/), [Perforce](http://public.perforce.com/public/tutorial.html) or whatever system you’re using. The important thing is to know the concepts and realize every system has its own lingo and philosophy. Eric Sink has a detailed version control guide also.
 
 
