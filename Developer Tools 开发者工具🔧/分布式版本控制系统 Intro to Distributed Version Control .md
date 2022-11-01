@@ -5,5 +5,5 @@
 ## A Few Diagrams, Please //一些图解
 ![image](https://user-images.githubusercontent.com/31954987/199186714-e4d3e486-4a0b-4c6c-8c91-773165647815.png)
 
-## Distributed Version Control Systems (DVCS) //分布式
+## Distributed Version Control Systems (DVCS) //分布式版本控制系统
 
