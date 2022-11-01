@@ -130,7 +130,7 @@ The `-m` flag is the message to use for this checkin.
 
 #### This command diffs r5-r6 in the experimental branch and applies it to the current location. Unfortunately, Subversion doesn’t have an easy way to keep track of what merges have been applied, so if you’re not careful you may apply the same changes twice. It’s a planned feature, but the current advice is to keep a changelog message reminding you that you’ve already merged r5-r6 into main. 
 
-## Conflicts
+## Conflicts //冲突
 #### Many times, the VCS can automatically merge changes to different parts of a file. Conflicts can arise when changes appear that don’t gel: Joe wants to remove eggs and replace it with cheese (-eggs, +cheese), and Sue wants to replace eggs with a hot dog (-eggs, +hot dog).
 
 
