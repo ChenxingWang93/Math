@@ -9,5 +9,5 @@
 
 > it is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth.
 
-## understanding _cos(x)+i*sin(x)_
-## What is _Imaginary Growth_? //什么
+## understanding _cos(x)+i*sin(x)_ //
+## What is _Imaginary Growth_? //什么是虚数增长？
