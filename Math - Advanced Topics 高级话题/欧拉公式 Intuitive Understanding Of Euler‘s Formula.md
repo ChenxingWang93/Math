@@ -7,7 +7,7 @@
 #### relating an _imaginary exponent_ to sine and cosine! And somehow plugging in pi gives -1? //虚数的指数 与正弦、余弦联系，某种程度上又联系了 pi以得到 -1
 #### according to 1800s mathematician Benjamin Peirce //根据1800s 数学家本杰明 皮尔斯的quote
 
-> it is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth.
+> it is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth. //
 
 ## understanding _cos(x)+i*sin(x)_ //
 
