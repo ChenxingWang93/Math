@@ -10,5 +10,15 @@
 > it is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth.
 
 ## understanding _cos(x)+i*sin(x)_ //
+
 ## What is _Imaginary Growth_? //什么是虚数增长？
-## 
+
+## Shouldn't We Spin Faster and Faster? //我们不应该转的更快些么？
+
+## a quick sanity check //快速的理智检测？
+
+## the Nitty Gritty Details //细节细节
+
+## Some Examples //举一些例子🌰🌰🌰
+
+## Complex Growth //复杂增长
