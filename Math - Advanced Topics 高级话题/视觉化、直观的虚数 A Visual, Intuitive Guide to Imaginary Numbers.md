@@ -1,4 +1,4 @@
-##  A Visual, Intuitive Guide to Imaginary Number
+# A Visual, Intuitive Guide to Imaginary Number // 视觉化，直观地引导理解虚数
 - **Focusing on relationships, not mechanical formulas**. //关注**关系**
 - **Seeing complex numbers as an upgrade to our number system**, just like 0，decimals and negatives //把复数看作**数系统的升级**
 - **Using visual diagrams**, to understand the idea rather text /**/视觉化！**
@@ -13,10 +13,11 @@
 |Multiplication cycle[&general pattern]|1, -1, 1, -1... X, -X, X, -X...|1, i, -1, -i...X, Y, -X, -Y...|
 |Measure size with|Absolute value <img width="60" alt="Screen Shot 2022-10-29 at 15 49 56" src="https://user-images.githubusercontent.com/31954987/198820377-bc754431-e386-49d3-8de0-694b0cf488d1.png">|pythagorean theorem勾股定理 <img width="68" alt="Screen Shot 2022-10-29 at 15 49 12" src="https://user-images.githubusercontent.com/31954987/198820342-18b28404-11db-442e-a772-953fa39ea472.png">
 
-## Really Understanding Negative Numbers //负数 
+# Really Understanding Negative Numbers //真正地理解负数
 
 #### euler, who discovered e
-### Enter Imaginary Numbers //虚数
+
+# Enter Imaginary Numbers //进入虚数
 #### the answer of the equation: ![image](https://user-images.githubusercontent.com/31954987/198940457-2bf40d51-1d67-45cb-99b5-3593878c887f.png)are 3 and -3
 #### so-called "imaginary numbers" are as normal as every other number: they're a tool to describe the world.In the same spirit of assuming -1, .3 and 0"exist"//描述世界的工具🔧
 
@@ -39,7 +40,7 @@
 #### 🌟🌟🌟 also, keep in mind that having counter-clockwise be positive is a human convention - it easily could have been the other way //逆时针为正是人为
 
 
-### Finding Patterns //
-### A Real Example: Rotations //例子：旋转
-### Complex Numbers Aren’t //复数不是什么
-### Epilogue: But they’re still strange! //结语：它们还是很奇怪！
+# Finding Patterns //
+# A Real Example: Rotations //真实的例子：旋转
+# Complex Numbers Aren’t //复数不是什么？
+# Epilogue: But they’re still strange! //结语：它们还是很奇怪！
