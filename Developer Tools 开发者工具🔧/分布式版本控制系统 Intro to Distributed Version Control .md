@@ -6,4 +6,6 @@
 ![image](https://user-images.githubusercontent.com/31954987/199186714-e4d3e486-4a0b-4c6c-8c91-773165647815.png)
 
 ## Distributed Version Control Systems (DVCS) //分布式版本控制系统
-
+## Key Concepts In 5 Minutes //核心概念
+## Mercurial Quickstart //快速入门
+## Understanding Updates and Merging//理解更新与合并
