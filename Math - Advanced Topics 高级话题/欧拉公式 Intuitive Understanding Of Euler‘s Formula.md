@@ -9,6 +9,9 @@
 
 > it is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth. //
 
+### Euler's formula describes two equivalent ways to move in a circle.// 欧拉公式 描述两种相等的方式 移动进圆形
+#### 
+
 ## understanding _cos(x)+i*sin(x)_ //
 
 ## What is _Imaginary Growth_? //什么是虚数增长？
