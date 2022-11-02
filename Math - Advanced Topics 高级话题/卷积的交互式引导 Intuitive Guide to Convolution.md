@@ -23,4 +23,5 @@
 ### Algorithm Trick: Multiplication //算法技巧: ✖️
 ### Fast Convolutions //快速卷积
 ### Convolution Neural Nets //卷积神经网络(CNN)
-### 
+### LIT System Behavior //linear, time-invariant system 线性，时间不变系统
+### Engineering Analogies //工程比喻
