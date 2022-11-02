@@ -53,7 +53,7 @@
 ### But What About the Angles? //角度如何？
 ![image](https://user-images.githubusercontent.com/31954987/198838488-c12ed1cb-c5d8-46b2-8cec-f138312995a9.png)
 
-### Side Effects May Include Scaling
+### Side Effects May Include Scaling //等级
 #### Notice how we're making larger copies of our original triangle and adding them together. What's the change in size compared to our starting blue triangle?
 
 #### Well, let's call our original length "x". Whatever it is, we end up getting a new triangle layered on top, with a size of 2x + 3x (a + bi in general). And from Pythagoras (I love that gentleman) the "real" distance is
