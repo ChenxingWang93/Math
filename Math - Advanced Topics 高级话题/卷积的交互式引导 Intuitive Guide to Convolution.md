@@ -12,15 +12,17 @@
 ### The integral of the convolution //卷积的积分
 ### Impulse Response  //脉冲响应
 
+
 ##  Part 4: Convolution Theorem & the Fourier Transform //卷积定理&傅立叶变换
 ### And in reverse... //相反
 ### Mini proof  //证明
+
 
 ##  Part 5: Application //应用
 ### Moving averages //移动平均值
 ### Derivatives //导数
 ### Blurring /unbluring images //模糊与取消模糊图像
-### Algorithm Trick: Multiplication //算法技巧: ✖️
+### Algorithm Trick: Multiplication //算法技巧: ✖️乘法
 ### Fast Convolutions //快速卷积
 ### Convolution Neural Nets //卷积神经网络(CNN)
 ### LIT System Behavior //linear, time-invariant system 线性，时间不变系统
