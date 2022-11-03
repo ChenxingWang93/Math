@@ -43,7 +43,7 @@ the absolute change between each result is:
 ## Integration does not really exist 
 ## Reading math
 
-### How to Understand Derivatives: The Quotient Rule, Exponents, and Logarithms  //Quotient: 商；Exponents：指数； Logarithms：对数
+
 ### An Intuitive Intro to Limits //极限
 ### Intuition for Taylor Series (DNA Analogy) //泰勒序列 
 ### Why Do We Need Limits and Infinitesimals //Limits：极限；Infinitesimals：无穷∞小
