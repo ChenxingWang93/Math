@@ -5,7 +5,7 @@ Guide to Imaginary Numbers 虚数的直觉感受
 - What real-world items share this relationship? **现实世界中的关系**
 - Does this relationship **make sense to me**? **现实世界中的这种关系能否帮助我们解决问题**
 
-####  🌰 Imaginary Number 虚数
+####  🌰 Imaginary Number //虚数
 ![image](https://user-images.githubusercontent.com/31954987/196034995-c03ee2fe-5391-4f15-9b52-9c03cbb3257d.png)
 - **What's an imaginary number?**
 ##### a number pointing sideways(North⬆️/South⬇️) Gauss wanted them called "lateral" numbers 高斯称他们为“侧”向数
@@ -17,15 +17,15 @@ Guide to Imaginary Numbers 虚数的直觉感受
 - **is i useful?** imaginary numbers makes 2d rotation problems simple.虚简化了二维旋转问题
 
 
-### 2. Intuitive Arithmetic with Complex Numbers
-|Complex Operation 复数运算 |Intuitive Meaning|
-|--------------|---------------------------|
-|Magnitude:$ 大小|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ |
-|Addition &Subtraction|Sliding numbers|
-|Multiplication|Scale by magnitude, add angles|
-|Division|Shrink by magnitude,subtract angles|
-|Complex Conjugate:z*|"Imaginary Reflection": Same size, opposite angle if z = 3 + 4i, then z* = 3 - 4i|
-|Conjugate Properties 共轭属性|(x + y)^* = x^* + y^*[add then reflect = reflect and add]  (xy)^* = x^* y^*[multiply then reflect = reflect and multiply]|
+### 2. Intuitive Arithmetic with Complex Numbers //复数的算术，复数即复平面上的数
+|Complex Operation 复数运算 |Intuitive Meaning 直觉|GIF 动画|
+|--------------|---------------------------|-|
+|Magnitude:$ 大小|z|$|Distance from zero:$|z|=\sqrt{a^{2}+b^{2}}$ ||
+|Addition &Subtraction 加法➕& 减法➖|Sliding numbers 复平面上滑动🔢||
+|Multiplication 乘法✖️|Scale by magnitude, add angles ||
+|Division|Shrink by magnitude,subtract angles||
+|Complex Conjugate:z*|"Imaginary Reflection": Same size, opposite angle if z = 3 + 4i, then z* = 3 - 4i||
+|Conjugate Properties 复数运算的共轭属性|(x + y)^* = x^* + y^*[add then reflect = reflect and add]  (xy)^* = x^* y^*[multiply then reflect = reflect and multiply]||
 
 ### Complex Variables 复数 变量
 with complex numbers, there's two dimensions to talk about, when writing 
