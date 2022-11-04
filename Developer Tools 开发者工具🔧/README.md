@@ -88,9 +88,9 @@ The `-m` flag is the message to use for this checkin.
 ## Diffs 变化
 ![image](https://user-images.githubusercontent.com/31954987/196030198-77f4c5fe-977d-4bea-9871-9cc00f6b6a08.png)
 
-#### from r1 to r2: add eggs(+Eggs)
-#### from r2 to r3: add Juice(+Juice)
-#### from r3 to r4: remove Juice add Soup(-Juice, +Soup)
+#### from r1 to r2: add eggs(+Eggs) //从 轮1 到 轮2： 加🥚s
+#### from r2 to r3: add Juice(+Juice) //从 轮2 到 轮3: 加🍹
+#### from r3 to r4: remove Juice add Soup(-Juice, +Soup) //
 #### Most VCS **store diffs rather than full copies of the file** //存储不同的部分而不是两份完全不同的📃
 #### this saves disk space: 4 revisions of a file means 1 copy 4 small diffs 
 
@@ -156,7 +156,9 @@ The `-m` flag is the message to use for this checkin.
 > ```
 
 ## Real-life example: Managing Windows Source Code //管理windows 源代码
+
 #### We guessed that Windows was managed out of a shared folder, but it’s not the case.//我们以为Windows 通过分享文件夹，当事实却并非如此
+
 #### https://learn.microsoft.com/en-us/archive/blogs/larryosterman/
 - There’s a main line with stable builds of Windows. //有稳定的主线
 - Each group (Networking, User Interface, Media Player, etc.) **has its own branch** to develop new features. These are under development and less stable than main. //每个小组（networking、ui、media player）都有自己的分支来开发新功能。比主分支更不稳定一些
@@ -167,6 +169,9 @@ The `-m` flag is the message to use for this checkin.
 
 ## key takeaways //重要的
 
-- **Use version control**. Seriously, it’s a good thing, even if you’re not writing an OS. It’s worth it for backups alone.
-- **Take it slow**. I’m only now looking into branching and merging for my projects. Just get a handle on using version control and go from there. If you’re a small project, branching/merging may not be an issue. Large projects often have experienced maintainers who keep track of the branches and patches.
+- **Use version control**. Seriously, it’s a good thing, even if you’re not writing an OS. It’s worth it for backups alone. //
+
+- **Take it slow**. I’m only now looking into branching and merging for my projects. Just get a handle on using version control and go from there. If you’re a small project, branching/merging may not be an issue. Large projects often have experienced maintainers who keep track of the branches and patches. //慢慢来，从 “分支” 与 “合并” 开始，从小项目开始使用版本控制系统跟踪分支与补丁
+
 - Keep Learning. There’s plenty of guides for [SVN](http://svnbook.red-bean.com/), [CVS](http://wwwasd.web.cern.ch/wwwasd/cvs/tutorial/cvs_tutorial_toc.html), [RCS](http://agave.garden.org/~aaronh/rcs/tutorial.html), [Git](https://www.kernel.org/pub/software/scm/git/docs/), [Perforce](http://public.perforce.com/public/tutorial.html) or whatever system you’re using. The important thing is to know the concepts and realize every system has its own lingo and philosophy. Eric Sink has a [detailed version control guide](http://www.ericsink.com/scm/source_control.html) also.
+
