@@ -14,6 +14,9 @@
 
 ## understanding _cos(x)+i*sin(x)_ //
 
+### think about numbers as actions //数🔢作为行为
+
+
 ## What is _Imaginary Growth_? //什么是虚数增长？
 
 ## Shouldn't We Spin Faster and Faster? //我们不应该转的更快些么？
