@@ -1,9 +1,9 @@
 ## How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解派生品：乘积、幂和🔗链规则
 My take on derivatives:
-- function f: We have a system to analyze //
-- f'(aka df/dx): moment-by-moment behavior //瞬时⌚️行为
-- (h = f + g): f is just part of a bigger system //函数f只是更大系统的一部分
-- Using the behavior of the parts, to predict the behavior of the whole
+- function f: We have a system to analyze //函数f: 我们有一个系统需要进行分析
+- f'(aka df/dx): moment-by-moment behavior //f'函数f的导数：是函数f的瞬时⌚️行为
+- (h = f + g): f is just part of a bigger system //(h = f + g)中函数f只是大系统中的一个子系统
+- Using the behavior of the parts, to predict the behavior of the whole //目的在于使用函数局部的行为，来预测整体的行为
 
 每一部分都有 "point of view" about how much change it added. Combine every point of view to get the overall behavior
 
