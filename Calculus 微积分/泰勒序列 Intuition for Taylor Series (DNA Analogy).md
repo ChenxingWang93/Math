@@ -6,4 +6,7 @@
 ### //函数的逼近
 ### //对比函数
 ### //
-####  Relationship to Fourier Series  //
+####  Relationship to Fourier Series  //傅立叶序列的关系
+####  //泰勒序列一直有效么？
+####  //把几何定义转化为代数定义
+####  //
