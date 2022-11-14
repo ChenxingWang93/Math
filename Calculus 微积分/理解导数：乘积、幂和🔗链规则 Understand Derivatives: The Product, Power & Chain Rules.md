@@ -5,11 +5,11 @@ My take on derivatives:
 - (h = f + g): f is just part of a bigger system //(h = f + g)中函数f只是大系统中的一个子系统
 - Using the behavior of the parts, to predict the behavior of the whole //目的在于使用函数局部的行为，来预测整体的行为
 
-每一部分都有 "point of view" about how much change it added. Combine every point of view to get the overall behavior
+每一部分都有 "point of view" about how much change it added. Combine every point of view to get the overall behavior  //将每一部分变化量相加得到整体函数的行为
 
-|Concept|Intuition|
+|Concept 概念|Intuition 直觉|
 |-------|---------|
-|Function f(x)| Turns input(x) into output(y)|
+|Function f(x) 函数f(x)| Turns input(x) into output(y) |
 |Derivative of f(x)| Wiggle x, how much does y change?<img width="610" alt="Screen Shot 2022-10-18 at 00 55 05" src="https://user-images.githubusercontent.com/31954987/196237711-e0922a55-e10b-4663-9774-7a0ebd4cd19a.png">|
 |Derivative of system 导数|Combined perspective of each part|
 |Addition Rule[f+g]' ➕|Add contributions from f and g|
