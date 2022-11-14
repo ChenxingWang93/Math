@@ -78,17 +78,17 @@ what's going on?
 
 
 ### The Chain Rule // 链规则
-#### g depends on f, which depends on x:
+#### g depends on f, which depends on x: g 取决于 f, f 取决于 x 
 ![image](https://user-images.githubusercontent.com/31954987/197373032-9dbf27bc-f2de-4164-967d-2e287e7f50a4.png)
 ![image](https://user-images.githubusercontent.com/31954987/197373033-2d597097-acd5-4d07-a49b-822dd5c6fd5b.png)
 
-#### the chain rule let us "zoom into" a function and see how an initial change(x) can effect the final result down the line (g)  //链规则让我们"zoom into" 一个函数，看初始变化如何影响最终的变化
+#### the chain rule let us "zoom into" a function and see how an initial change(x) can effect the final result down the line (g)  //链规则让我们"zoom into" 一个函数，看初始变化(x)如何影响最终的变化(g)
 
 #### Interpretation 1: Convert the rates //解读1: 转化rates
 #### a common interpretation is to multiply the rates:
 ![image](https://user-images.githubusercontent.com/31954987/197391972-9a030a1d-040b-4a7f-9d14-45c709d22a00.png)
 
-#### x wiggles f. This creates a rate of change of df/dx, which wiggles g by dg/df. The entire wiggle is then 
+#### x wiggles f. This creates a rate of change of df/dx, which wiggles g by dg/df. The entire wiggle is then // x 影响 f 的摆动，创建df/dx的变化率
 ![image](https://user-images.githubusercontent.com/31954987/197392107-6424b270-4b41-4d58-b3a4-08274c9ef7fa.png)
 
 #### Interpretation 2: Convert the wiggle //解读2: 转化wiggle
