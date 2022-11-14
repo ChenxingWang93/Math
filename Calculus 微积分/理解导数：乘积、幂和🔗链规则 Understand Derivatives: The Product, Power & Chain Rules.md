@@ -137,7 +137,7 @@ what's going on?
 ### Power Rule: Oft Memorized, Seldom Understood //经常记住，鲜有理解
 #### Normally: What's the derivative of x^4? 4x^3, brought down the exponent and subtracted one. Now explain why!
 #### Hrm. There's a few approaches
-#### x^4 is really x * x * x * x, it's the multiplication of 4 "independent" variables. Each x doesn't know about the others, it might as well be 
+#### x^4 is really x * x * x * x, it's the multiplication of 4 "independent" variables. Each x doesn't know about the others, it might as well be  //是四个独立的变量相乘
 #### x * u * v * w
 #### think about the first x's point of view:
 - it changes from x to x + dx
