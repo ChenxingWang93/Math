@@ -15,7 +15,7 @@ My take on derivatives:
 |Addition Rule[f+g]' ➕  导数的加法法则|Add contributions from f and g  f, g的贡献相加|
 |Product Rule[f*g]' ✖️  导数的乘法法则|Add contributions:a slice from f,a slice from g|
 |Power Rule[x^n] 导数的幂乘方|Combine N different perspectives  |
-|Chain Rule|Zoom into a perspective's root cause|
+|Chain Rule 链式规则|Zoom into a perspective's root cause|
 
 
 ### Functions: Anything, Anything But Graphs // 函数图像之外的理解
@@ -41,7 +41,7 @@ My take on derivatives:
 
 
 
-#### the machine computes functions like addition and multiplication with gears -- you can _see the mechanics unfolding_  //函数计算
+#### the machine computes functions like addition and multiplication with gears -- you can _see the mechanics unfolding_  //计算机计算函数的➕与✖️ 就像齿轮⚙️ 
 ![image](https://user-images.githubusercontent.com/31954987/197349596-004c238e-0b56-469c-93c5-5271c5669b81.png)
 
 
@@ -61,7 +61,7 @@ My take on derivatives:
 
 ### Multiplication (Product Rule) // ✖️
 ![image](https://user-images.githubusercontent.com/31954987/197372039-c58e6c0f-0366-4086-9520-408d16443257.png)
-#### see how each part contributes from its own point of view, and combine them:
+#### see how each part contributes from its own point of view, and combine them:  //每一部分如何贡献自己最终结合在一起
 - total change in h = f's contribution(from f's point of view) + g's contribution(from g's point of view)
 ![image](https://user-images.githubusercontent.com/31954987/197372555-b7337121-abeb-441c-b9b8-40d169942a85.png)
 what's going on?  
@@ -151,4 +151,4 @@ what's going on?
 
 #### the curtain is unveiled: x, u, v, and w are the same! The "point of view" conversion factor is (dx/dx = du/dx = dv/dx = dw/dx = 1), and the total change is (x * x * x) + (x * x * x) + (x * x * x) + (x * x * x) = 4x^3
 
-#### In a nutshell: the derivative of x^4 is 4^x3 because x^4 has four identical "point of view" which are being combined.
+#### In a nutshell: the derivative of x^4 is 4^x3 because x^4 has four identical "point of view" which are being combined.  //有四个不同的视角, x^4 意味着
