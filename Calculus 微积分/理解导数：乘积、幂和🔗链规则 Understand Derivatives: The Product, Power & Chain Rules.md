@@ -1,4 +1,4 @@
-## How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解派生品：乘积、幂和🔗链规则
+## How to Understand Derivatives: The Product, Power and Chain Rules  //如何理解导数：乘积、幂和🔗链规则
 My take on derivatives:
 - function f: We have a system to analyze //函数f: 我们有一个系统需要进行分析
 - f'(aka df/dx): moment-by-moment behavior //f'函数f的导数：是函数f的瞬时⌚️行为
