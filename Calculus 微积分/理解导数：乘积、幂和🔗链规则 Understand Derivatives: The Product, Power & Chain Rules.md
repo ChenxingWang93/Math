@@ -128,8 +128,8 @@ what's going on?
 
 
 ### Chain Rule:  // 链规则
-#### Functions treat their input like a blob  //函数
-#### In many examples, the variable "x" is the "end of the line". //
+#### Functions treat their input like a blob  //函数把他们的输入作为blob
+#### In many examples, the variable "x" is the "end of the line". //在很多例子中，变量"x"是 line的结束🔚
 #### How come we multiply derivatives with the chain rule, but add them for the others?
 
 
