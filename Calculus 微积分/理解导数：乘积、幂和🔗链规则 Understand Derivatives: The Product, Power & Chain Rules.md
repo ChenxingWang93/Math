@@ -9,19 +9,19 @@ My take on derivatives:
 
 |Concept 概念|Intuition 直觉|
 |-------|---------|
-|Function f(x) 函数f(x)| Turns input(x) into output(y) |
-|Derivative of f(x)| Wiggle x, how much does y change?<img width="610" alt="Screen Shot 2022-10-18 at 00 55 05" src="https://user-images.githubusercontent.com/31954987/196237711-e0922a55-e10b-4663-9774-7a0ebd4cd19a.png">|
-|Derivative of system 导数|Combined perspective of each part|
-|Addition Rule[f+g]' ➕|Add contributions from f and g|
-|Product Rule[f*g]' ✖️|Add contributions:a slice from f,a slice from g|
-|Power Rule[x^n] 幂|Combine N different perspectives|
+|Function f(x) 函数f(x)| Turns input(x) into output(y)  把输入(x)转化为输出(y)|
+|Derivative of f(x) f(x)的导数| Wiggle x, how much does y change? x摆动, y会随之变化?<img width="610" alt="Screen Shot 2022-10-18 at 00 55 05" src="https://user-images.githubusercontent.com/31954987/196237711-e0922a55-e10b-4663-9774-7a0ebd4cd19a.png">|
+|Derivative of system 导数|Combined perspective of each part 结合每部分的角度|
+|Addition Rule[f+g]' ➕  导数的加法法则|Add contributions from f and g  f, g的贡献相加|
+|Product Rule[f*g]' ✖️  导数的乘法法则|Add contributions:a slice from f,a slice from g|
+|Power Rule[x^n] 导数的幂乘方|Combine N different perspectives  |
 |Chain Rule|Zoom into a perspective's root cause|
 
 
 ### Functions: Anything, Anything But Graphs // 函数图像之外的理解
 #### 不要一下子就想到"f(x) = x^n"的函数图像
-#### derivative rules are about machinery.
-#### the function as the process "input(x) => f => output(y)"
+#### derivative rules are about machinery.  //导数是有关于机械
+#### the function as the process "input(x) => f => output(y)" //函数作为过程 把x作为输入 函数f 输出y
 ![image](https://user-images.githubusercontent.com/31954987/196243399-e98cd22e-6f31-4334-a2cf-52a96a4667be.png)
 
 ####
@@ -41,7 +41,7 @@ My take on derivatives:
 
 
 
-#### the machine computes functions like addition and multiplication with gears -- you can _see the mechanics unfolding_
+#### the machine computes functions like addition and multiplication with gears -- you can _see the mechanics unfolding_  //函数计算
 ![image](https://user-images.githubusercontent.com/31954987/197349596-004c238e-0b56-469c-93c5-5271c5669b81.png)
 
 
@@ -52,10 +52,10 @@ My take on derivatives:
 
 
 ### df vs df/dx //
-#### sometimes we use _df_, other times _df/dx_
+#### sometimes we use _df_, other times _df/dx_ // 用_df_来衡量变化量
 - _df_ is a general notion of "however much f changed"
 - _df/dx_ is a specific notion of "however much f changed, in terms of how much x changed"
-#### In calculus,sometimes we want to think about the actual change, not the ratio. Working at the "df" level gives us room to think about how the function wiggles overall. We can eventually scale it down in terms of a specific input.
+#### In calculus,sometimes we want to think about the actual change, not the ratio. Working at the "df" level gives us room to think about how the function wiggles overall. We can eventually scale it down in terms of a specific input.  //在微积分中, 实际变化, 而不是变化率, 在"df"层面
 ![image](https://user-images.githubusercontent.com/31954987/197356866-620a356b-80c3-45d9-801d-4b87cfdd67d2.png)
 
 
@@ -64,15 +64,15 @@ My take on derivatives:
 #### see how each part contributes from its own point of view, and combine them:
 - total change in h = f's contribution(from f's point of view) + g's contribution(from g's point of view)
 ![image](https://user-images.githubusercontent.com/31954987/197372555-b7337121-abeb-441c-b9b8-40d169942a85.png)
-what's going on?
-- we have our system: f and g are multiplied, giving h(the area of rect)
-- Input "x" changes by dx off in the distance. f changes by some amount df. Similarly, g changes by its own amount dg. Because f and g changed, the area of the rectangle changes too.
+what's going on?  
+- we have our system: f and g are multiplied, giving h(the area of rect)  
+- Input "x" changes by dx off in the distance. f changes by some amount df. Similarly, g changes by its own amount dg. Because f and g changed, the area of the rectangle changes too.  //输入"x" dx矩形的范围改变.
 - What's the area change from f's point of view? Well, f knows he changed by df, but has no idea what happened to g. From f's perspective, he's the only one who moved and will add a slice of area = df * g
 - Similarly, g doesn't know how f changed, but knows he'll add as slice of area "dg * f" 
-#### the overall change in the system(dh) is the two slices of area
+#### the overall change in the system(dh) is the two slices of area //总体的变化
 ![image](https://user-images.githubusercontent.com/31954987/197372845-14985733-d665-4ea8-9e3a-b21094621d08.png)
 
-#### then "divide by dx" to write this in terms of how much x changed:
+#### then "divide by dx" to write this in terms of how much x changed:  //
 ![image](https://user-images.githubusercontent.com/31954987/197372930-081edcbc-63b3-41fb-acc6-e98af7896e68.png)
 
 
@@ -82,7 +82,7 @@ what's going on?
 ![image](https://user-images.githubusercontent.com/31954987/197373032-9dbf27bc-f2de-4164-967d-2e287e7f50a4.png)
 ![image](https://user-images.githubusercontent.com/31954987/197373033-2d597097-acd5-4d07-a49b-822dd5c6fd5b.png)
 
-#### the chain rule let us "zoom into" a function and see how an initial change(x) can effect the final result down the line (g)
+#### the chain rule let us "zoom into" a function and see how an initial change(x) can effect the final result down the line (g)  //链规则让我们"zoom into" 一个函数，看初始变化如何影响最终的变化
 
 #### Interpretation 1: Convert the rates //解读1: 转化rates
 #### a common interpretation is to multiply the rates:
@@ -107,7 +107,7 @@ what's going on?
 ![image](https://user-images.githubusercontent.com/31954987/197395873-ee5cffb1-9c07-4c81-acfb-aa47537fb5e5.png)
 #### The chain rule isn't just factor-label unit cancellation -- it's the propagation of wiggle,which gets adjusted at each step. The chain rule works for several variables (a depends on b depends on c), just propagate the wiggle as you go.
 
-#### try to "zooming into" different variable's point of view. Starting from dx and looking up, you see the entire chain of transformations needed before the impulse reaches g
+#### try to "zooming into" different variable's point of view. Starting from dx and looking up, you see the entire chain of transformations needed before the impulse reaches g //zoom into不同的变量视角，完整的变化链⛓️
 
 
 
@@ -118,7 +118,7 @@ what's going on?
 #### Start with 2, f squares it (2^2 = 4), and g cubes this (4^3 = 64). It's a 6th power machine:
 ![image](https://user-images.githubusercontent.com/31954987/197396983-86b320ff-ab3a-4725-905b-2b1798f533e7.png)
 
-#### and what's the derivative?
+#### and what's the derivative? //导数是？
 ![image](https://user-images.githubusercontent.com/31954987/197376684-0af6d9c5-a24f-4f33-87e5-6c575c99695c.png)
 - f changes its input wiggle by df/dx = 2x
 - g changes its input wiggle by dg/df = 3f^2
@@ -128,8 +128,8 @@ what's going on?
 
 
 ### Chain Rule:  // 链规则
-#### Functions treat their input like a blob
-#### In many examples, the variable "x" is the "end of the line".
+#### Functions treat their input like a blob  //函数
+#### In many examples, the variable "x" is the "end of the line". //
 #### How come we multiply derivatives with the chain rule, but add them for the others?
 
 
