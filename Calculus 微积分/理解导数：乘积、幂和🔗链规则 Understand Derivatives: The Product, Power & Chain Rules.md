@@ -151,4 +151,5 @@ what's going on?
 
 #### the curtain is unveiled: x, u, v, and w are the same! The "point of view" conversion factor is (dx/dx = du/dx = dv/dx = dw/dx = 1), and the total change is (x * x * x) + (x * x * x) + (x * x * x) + (x * x * x) = 4x^3
 
-#### In a nutshell: the derivative of x^4 is 4^x3 because x^4 has four identical "point of view" which are being combined.  //有四个不同的视角, x^4 意味着
+#### In a nutshell: the derivative of x^4 is 4^x3 because x^4 has four identical "point of view" which are being combined.  //有四个不同的视角, x^4 仅仅只是意味着这4个视角重合
+
