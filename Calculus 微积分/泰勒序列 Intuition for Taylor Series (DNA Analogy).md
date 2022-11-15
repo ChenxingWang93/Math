@@ -13,4 +13,3 @@
 ####  Relationship to Fourier Series  //傅立叶序列的关系
 ####  Does the Taylor Series always work? //泰勒序列一直有效么？
 ####  Turning geometric to algebraic definitions  //把几何定义转化为代数定义
-
