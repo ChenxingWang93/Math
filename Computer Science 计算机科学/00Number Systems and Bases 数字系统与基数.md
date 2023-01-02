@@ -31,5 +31,5 @@ three = III
 #### notice one insight about Roman numerals: they use **position** of symbols to indicate meaning.
 - IV means "subtract 1 from 5"
 - and VI means "add 1 to 5"
-#### 
+#### in our number system, we **always add** and never subtract, 35 means "add 3*10"
 
