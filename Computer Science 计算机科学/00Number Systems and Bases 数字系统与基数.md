@@ -22,4 +22,14 @@ three = III
 - Symbols I, V, X, L, C, D and M standing respectively for 1, 5, 10, 50, 100, 500 and 1,000
 - The key point is that V and IIIII are two ways of encoding the number 5.
 
-###
+### Give each number a name //给每个数字一个名字
+#### **each number** can be its own distinct concept
+#### here is how we get the symbols：
+- 1 2 3 4 5 6 7 8 9
+
+### Use the position //使用位置
+#### notice one insight about Roman numerals: they use **position** of symbols to indicate meaning.
+- IV means "subtract 1 from 5"
+- and VI means "add 1 to 5"
+#### 
+
