@@ -43,10 +43,6 @@ the absolute change between each result is:
 ## Integration does not really exist  //一体化并不真的存在
 ## Reading math //读数学
 
-
-## Intuition for Taylor Series (DNA Analogy) //泰勒序列 
-###
-
 ## Why Do We Need Limits and Infinitesimals //Limits：极限；Infinitesimals：无穷∞小
 ## Learning Calculus: Overcoming Our Artificial Need for Precision  //克服人为对精确的要求
 ## Whether 0.999... = 1
