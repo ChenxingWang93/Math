@@ -1,4 +1,3 @@
-### Understanding Calculus With A Bank Account Metaphor  //用银行账户隐喻理解微积分
 ### Prehistoric Calculus: Discovering Pi //史前微积分：发现Pi
 
 
