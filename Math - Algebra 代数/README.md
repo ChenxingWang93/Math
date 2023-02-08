@@ -35,4 +35,7 @@ Instructor: Gilbert Strang, Sarah Hansen
 #### Cramer's Rule, Inverse Matrix and Volume 克拉默法则 逆矩阵& 体积
 #### Determinates and Volume 行列式和体积
 #### Eigenvalues &Eigenvectors 本征值和本征向量
+#### Diagonalization and Power of A A的对角化和幂
+#### Power of a Matrix 矩阵的幂
+#### Differential Equations &exp(At) 微分方程
 #### 
