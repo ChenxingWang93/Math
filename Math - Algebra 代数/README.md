@@ -32,3 +32,7 @@ Instructor: Gilbert Strang, Sarah Hansen
 #### properties of determinates determinates行列式的属性
 #### Determinates Formulas and Cofactors 确定公式辅助因子
 #### Determinates 行列式
+#### Cramer's Rule, Inverse Matrix and Volume 克拉默法则 逆矩阵& 体积
+#### Determinates and Volume 行列式和体积
+#### Eigenvalues &Eigenvectors 本征值和本征向量
+#### 
