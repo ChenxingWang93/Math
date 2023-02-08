@@ -38,4 +38,4 @@ Instructor: Gilbert Strang, Sarah Hansen
 #### Diagonalization and Power of A A的对角化和幂
 #### Power of a Matrix 矩阵的幂
 #### Differential Equations &exp(At) 微分方程
-#### 
+#### Markov Matrices 马可夫矩阵
