@@ -29,4 +29,6 @@ Instructor: Gilbert Strang, Sarah Hansen
 #### Projection Matrices and Least Squares 投影矩阵 &最小二乘法
 #### Least Squares Approximation 最小二乘近似
 #### Orthogonal Matrices &Gram-Schmidt 格拉姆施密特正交
-#### 
+#### properties of determinates determinates行列式的属性
+#### Determinates Formulas and Cofactors 确定公式辅助因子
+#### Determinates 行列式
