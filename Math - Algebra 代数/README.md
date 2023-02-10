@@ -39,3 +39,4 @@ Instructor: Gilbert Strang, Sarah Hansen
 #### Power of a Matrix 矩阵的幂
 #### Differential Equations &exp(At) 微分方程
 #### Markov Matrices 马可夫矩阵
+#### Problem Solving 解决问题
