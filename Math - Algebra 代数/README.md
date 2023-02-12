@@ -1,5 +1,6 @@
 Linear Algebra
-Instructor: Gilbert Strang, Sarah Hansen
+Instructor: Gilbert Strang, Sarah Hansen from MIT
+Professor Stephen Boyd from Stanford
 
 ### MIT 18.06SC Linear Algebra 线性代数
 ### The Geometry of Linear Equations 线性方程几何
@@ -40,3 +41,19 @@ Instructor: Gilbert Strang, Sarah Hansen
 ### Differential Equations &exp(At) 微分方程
 ### Markov Matrices 马可夫矩阵
 ### Problem Solving 解决问题
+
+
+### systematic matrices and positive definiteness 系统矩阵与正定性
+### complex matrics fast fourier transform 复杂矩阵与快速傅立叶变换
+### complex matrices 复杂矩阵
+### positive definite matrices and minima 正定矩阵和最小值
+### similar matrices and Jordan form 相似矩阵与乔丹型
+### similar matrices 相似矩阵
+### singular value decomposition 奇异值分解
+### computing the singular value decomposition 计算奇异值分解
+### linear transformations and their matrices 线性变换及其矩阵
+### linear transformations 线性变换
+### change of basis; image compression 图像压缩
+### left and right inverse; pseudoinverse 左右逆转；伪逆
+### pseudo inverse 伪逆
+
