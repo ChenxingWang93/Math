@@ -1,5 +1,6 @@
 Linear Algebra
 Instructor: Gilbert Strang, Sarah Hansen from MIT
+
 Professor Stephen Boyd from Stanford
 
 ### MIT 18.06SC Linear Algebra 线性代数
@@ -56,4 +57,3 @@ Professor Stephen Boyd from Stanford
 ### change of basis; image compression 图像压缩
 ### left and right inverse; pseudoinverse 左右逆转；伪逆
 ### pseudo inverse 伪逆
-
