@@ -5,6 +5,9 @@
 #### Measure any Distance with the Pythagorean Theorem 如何用勾股定理测距 triangulation
 
 #### How Area Works 面积的实质
+|Shape 形|Line Segment 线段|Area 面积|Area Factor 面积因子|
+|--------|----------------|---------|------------------|
+|Square ![图片](https://user-images.githubusercontent.com/31954987/218400778-8b4d1fd7-6853-4cbf-990d-49b0f217e4fe.png)|Side [s]|![图片](https://user-images.githubusercontent.com/31954987/218404854-4759d9ed-ed76-4e88-9303-72da2b440afa.png)|1|
 
 #### Pick Any Line Segment 选取任一线段
 
