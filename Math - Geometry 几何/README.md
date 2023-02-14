@@ -23,3 +23,6 @@
 ##### Physics 物理
 
 #### As Sweeping Area 扫掠面积
+
+#### Surface Parameterization 曲面参数化
+##### 数学本质 embedding(嵌入)/ mapping(映射)
