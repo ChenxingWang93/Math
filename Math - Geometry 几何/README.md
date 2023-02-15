@@ -26,3 +26,8 @@
 
 #### Surface Parameterization 曲面参数化
 ##### 数学本质 embedding(嵌入)/ mapping(映射)
+
+#### Curve Parameterization & its Application 曲面参数化及其应用
+#### Expression and Measurement of Curve Parameterization 曲面参数化的表达与度量
+#### Main method of Curve Parameterization 曲面参数化的主要方法
+#### Generalized Parameterization and Data Reduction
