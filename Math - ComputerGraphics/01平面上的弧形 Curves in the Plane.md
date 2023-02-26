@@ -1,6 +1,8 @@
 Chaikin’s Curves algorithms 柴金曲线算法
 
-Chaikin
+George Chaikin, University of Utah, 
+John Warnock, CEO of Adobe,
+James Clark, inventor of Postscript & PDF,
 
 no continual things in computer 计算机中没有连续
 discrete things in computer 离散的事物
