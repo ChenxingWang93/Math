@@ -9,5 +9,11 @@ Barycentric Points 重心坐标
 
 the sum of each coefficient of a polynomial combination is zero 多项式每个系数的和是0⃣️
 
-|graph|formula|algorithm|C++ code|
-|-----|-------|---------|--------|
+
+|name 名称|graph 图像|formula 公式|algorithm 算法|C++ code|
+|-|-----|-------|---------|--------|
+|Bernstein Polynomial 伯恩斯坦多项式|     |       |<img width="807" alt="image" src="https://user-images.githubusercontent.com/31954987/221395097-c779b47e-d5f5-4693-be57-b9106a0c5e66.png">   |      |        |
+
+
+
+
