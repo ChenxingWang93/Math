@@ -7,7 +7,7 @@ point + vector an affine combination 点+向量 就是一组仿射
 
 Barycentric Points 重心坐标
 
-the sum of each coefficient of a polynomial combination is zero 
+the sum of each coefficient of a polynomial combination is zero 多项式每个系数的和是0⃣️
 
-|graph|formula|algorithm|C++|
-|-----|-------|---------|---|
+|graph|formula|algorithm|C++ code|
+|-----|-------|---------|--------|
