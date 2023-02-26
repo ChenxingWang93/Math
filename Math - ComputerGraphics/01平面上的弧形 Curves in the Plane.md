@@ -11,9 +11,7 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 
 
 |name 名称|graph 图像|formula 公式|algorithm 算法|C++ code|
-|-|-----|-------|---------|--------|
-|Bernstein Polynomial 伯恩斯坦多项式|     |       |<img width="807" alt="image" src="https://user-images.githubusercontent.com/31954987/221395097-c779b47e-d5f5-4693-be57-b9106a0c5e66.png">   |      |        |
-
-
-
-
+|-------------------------------------------|-------|-------|---------|--------|
+|Affine combination 仿射组合       |2个点     |       |
+|Parabola 抛物线                   |3个点     |       |<img width="562" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">|
+|Bernstein Polynomial 伯恩斯坦多项式|4个点     |       |<img width="814" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|
