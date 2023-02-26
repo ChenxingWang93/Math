@@ -1,5 +1,7 @@
 Chaikin’s Curves algorithms 柴金曲线算法
 
+Chaikin
+
 no continual things in computer 计算机中没有连续
 discrete things in computer 离散的事物
 
