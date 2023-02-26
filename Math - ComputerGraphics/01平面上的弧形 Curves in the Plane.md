@@ -22,4 +22,6 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 |Parabola 抛物线                   |3个点     |       |<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">||<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/221404848-e1a28a57-c7ee-4320-9d81-f6f7316b9fea.png">为三个控制点Control Point, 也是拐点Inflection Point, 贝塞尔点Bezier Point|
 |Subdivision Curve 细分曲线|4个点<img width="402" alt="Screen Shot 2023-02-26 at 22 52 10" src="https://user-images.githubusercontent.com/31954987/221417989-ca738cc2-477a-4b35-be7a-c0b7fe7b7f2c.png">     |       |Bernstein Polynomial 伯恩斯坦多项式 <img width="700" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
 
+<img width="275" alt="Screen Shot 2023-02-26 at 23 25 04" src="https://user-images.githubusercontent.com/31954987/221419940-01db1983-94de-4096-a2c4-b2c243528227.png">
+
 
