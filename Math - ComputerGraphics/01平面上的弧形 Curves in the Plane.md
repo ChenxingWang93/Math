@@ -10,8 +10,8 @@ Barycentric Points 重心坐标
 the sum of each coefficient of a polynomial combination is zero 多项式每个系数的和是0⃣️
 
 
-|name 名称|graph 图像|formula 公式|algorithm 算法|C++ code|
-|-------------------------------------------|-------|-------|---------|--------|
+|name 名称|graph 图像|formula 公式|algorithm 算法|C++ code|note 注释|
+|-------------------------------------------|-------|-------|---------|--------|-|
 |Affine combination 仿射组合       |2个点     |       |
-|Parabola 抛物线                   |3个点     |       |<img width="562" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">|
-|Bernstein Polynomial 伯恩斯坦多项式|4个点     |       |<img width="814" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|
+|Parabola 抛物线                   |3个点     |       |<img width="562" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">||<img width="152" alt="image" src="https://user-images.githubusercontent.com/31954987/221404848-e1a28a57-c7ee-4320-9d81-f6f7316b9fea.png">为三个控制点Control Point|
+|Bernstein Polynomial 伯恩斯坦多项式|4个点     |       |<img width="814" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
