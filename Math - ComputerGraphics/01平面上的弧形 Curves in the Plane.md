@@ -1,4 +1,5 @@
 Chaikin’s Curves algorithms 柴金曲线算法
+Chaikin's points only piece together parabolas 
 
 - George Chaikin, University of Utah, 
 - John Warnock, CEO of Adobe,
