@@ -12,7 +12,7 @@ point + vector an affine combination 点+向量 就是一组仿射
 Barycentric Points 重心坐标
 
 the sum of each coefficient of a polynomial combination is zero 多项式每个系数的和是0⃣️ affine combination of the p_1, p_2, p_3, p_4
-- 即: <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221407748-95a8b817-c4c0-45d0-bce5-797054b8d6e4.png">
+- 即: <img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/221407748-95a8b817-c4c0-45d0-bce5-797054b8d6e4.png">
 
 
 
@@ -20,8 +20,16 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 |-------------------------------------------|-------|-------|---------|--------|-|
 |Affine combination 仿射组合       |2个点     |       |
 |Parabola 抛物线                   |3个点     |       |<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">||<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/221404848-e1a28a57-c7ee-4320-9d81-f6f7316b9fea.png">为三个控制点Control Point, 也是拐点Inflection Point, 贝塞尔点Bezier Point|
-|Subdivision Curve 细分曲线|4个点<img width="402" alt="Screen Shot 2023-02-26 at 22 52 10" src="https://user-images.githubusercontent.com/31954987/221417989-ca738cc2-477a-4b35-be7a-c0b7fe7b7f2c.png">     |       |Bernstein Polynomial 伯恩斯坦多项式 <img width="700" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
+|Subdivision Curve 细分曲线|4个点<img width="402" alt="Screen Shot 2023-02-26 at 22 52 10" src="https://user-images.githubusercontent.com/31954987/221417989-ca738cc2-477a-4b35-be7a-c0b7fe7b7f2c.png">     |       |Bernstein Polynomial 伯恩斯坦多项式 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
 
-<img width="275" alt="Screen Shot 2023-02-26 at 23 25 04" src="https://user-images.githubusercontent.com/31954987/221419940-01db1983-94de-4096-a2c4-b2c243528227.png">
+||formula 公式|
+|-|----------|
+|<img width="275" alt="Screen Shot 2023-02-26 at 23 25 04" src="https://user-images.githubusercontent.com/31954987/221419940-01db1983-94de-4096-a2c4-b2c243528227.png">|P_2^2 点是 P_1' 和 P_2'的affine combination 
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/221491705-0c5403fe-2f14-4e9f-9af0-8d3bc875de99.png"> 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221499297-48f9725a-6eb2-4a1a-aee0-3f6992ac6781.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/221498893-789c1684-bb3c-4679-a89a-6e40c5b39283.png">
+
+
+
 
 
