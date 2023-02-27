@@ -32,7 +32,8 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 
 ||formula 公式|
 |-|----------|
-|<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">||
+|<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">|<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221529729-39b70317-5f5b-456b-a8fe-7895f9804a27.png">|
+
 
 
 
