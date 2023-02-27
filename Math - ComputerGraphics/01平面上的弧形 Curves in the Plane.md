@@ -1,5 +1,5 @@
 Chaikin’s Curves algorithms 柴金曲线算法
-Chaikin's points only piece together parabolas 
+- Chaikin's points only piece together parabolas 柴金曲线把抛物线拼凑在一起
 
 - George Chaikin, University of Utah, 
 - John Warnock, CEO of Adobe,
