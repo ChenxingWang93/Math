@@ -21,7 +21,7 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 |-------------------------------------------|-------|-------|---------|--------|-|
 |Affine combination 仿射组合       |2个点     |       |
 |Parabola 抛物线                   |3个点     |       |<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221404156-2a00d285-42c2-4bc5-b9a8-6a3f3dbe520b.png">||<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/221404848-e1a28a57-c7ee-4320-9d81-f6f7316b9fea.png">为三个控制点Control Point, 也是拐点Inflection Point, 贝塞尔点Bezier Point|
-|Subdivision Curve 细分曲线|4个点<img width="402" alt="Screen Shot 2023-02-26 at 22 52 10" src="https://user-images.githubusercontent.com/31954987/221417989-ca738cc2-477a-4b35-be7a-c0b7fe7b7f2c.png">     |       |Bernstein Polynomial 伯恩斯坦多项式 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
+|Subdivision Curve 细分曲线|4个点<img width="400" alt="Screen Shot 2023-02-26 at 22 52 10" src="https://user-images.githubusercontent.com/31954987/221417989-ca738cc2-477a-4b35-be7a-c0b7fe7b7f2c.png">     |       |Bernstein Polynomial 伯恩斯坦多项式 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/31954987/221403753-8d47260b-07e1-42fd-b8ce-a97e4af018a6.png">|||
 
 ||formula 公式|
 |-|----------|
@@ -30,6 +30,9 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221499297-48f9725a-6eb2-4a1a-aee0-3f6992ac6781.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/221498893-789c1684-bb3c-4679-a89a-6e40c5b39283.png">
 
+||formula 公式|
+|-|----------|
+|<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">||
 
 
 
