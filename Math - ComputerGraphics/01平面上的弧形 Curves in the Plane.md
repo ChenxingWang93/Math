@@ -30,9 +30,9 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221499297-48f9725a-6eb2-4a1a-aee0-3f6992ac6781.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/221498893-789c1684-bb3c-4679-a89a-6e40c5b39283.png">
 
-||formula 公式|
-|-|----------|
-|<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">|<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221529729-39b70317-5f5b-456b-a8fe-7895f9804a27.png">|
+||formula 公式|interactive demo 可交互|
+|-|----------|----------------------|
+|<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">|<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221529729-39b70317-5f5b-456b-a8fe-7895f9804a27.png">|https://webgl2fundamentals.org/webgl/lessons/resources/bezier-curve-diagram.html?maxDepth=4%22%3E%3C/iframe%3E |
 
 
 
