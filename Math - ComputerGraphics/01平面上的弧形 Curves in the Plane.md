@@ -33,10 +33,4 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 ||formula 公式|interactive demo 可交互|
 |-|----------|----------------------|
 |<img width="275" alt="Screen Shot 2023-02-27 at 17 14 42" src="https://user-images.githubusercontent.com/31954987/221522389-e3f46fa9-f601-49e7-9cd9-4169d5f57928.png">|<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221529729-39b70317-5f5b-456b-a8fe-7895f9804a27.png">|https://webgl2fundamentals.org/webgl/lessons/resources/bezier-curve-diagram.html?maxDepth=4%22%3E%3C/iframe%3E |
-|<img width="275" alt="Screen Shot 2023-02-28 at 21 46 26" src="https://user-images.githubusercontent.com/31954987/221872538-a93071d7-1d62-496b-ac4d-a0682415a57a.png">
-
-
-
-
-
-
+|<img width="380" alt="Screen Shot 2023-03-01 at 15 02 36" src="https://user-images.githubusercontent.com/31954987/222067468-4ecf10ba-067e-4496-adbc-fdac1d44674b.png">
