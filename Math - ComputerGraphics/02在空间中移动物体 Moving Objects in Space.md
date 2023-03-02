@@ -30,4 +30,8 @@ in 3D
 
 <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222410421-a839c36c-cccc-4588-954d-2360778cc5f7.png"> * <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/222411082-52522d68-9101-460b-929c-797703c039da.png"> = <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222411651-c0a15b3e-29c4-467e-97b5-f918aecc3c29.png">
 
+- 沿z轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222416167-23600397-5c07-4e78-911d-43d7c1e93496.png">
+
+
+<img width="170" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png">
 
