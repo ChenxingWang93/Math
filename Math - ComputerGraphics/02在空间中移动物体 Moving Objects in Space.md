@@ -32,7 +32,7 @@ in 3D
 
 - 沿z轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222416167-23600397-5c07-4e78-911d-43d7c1e93496.png">
 
-<img width="170" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png"> 
+<img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png"> 
 
-- 沿y轴旋转theta角 <img width="10" alt="image" src="https://user-images.githubusercontent.com/31954987/222418977-70f99d00-37e9-4925-9820-6ca2810c0616.png">
+- 沿y轴旋转theta角 <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/222418977-70f99d00-37e9-4925-9820-6ca2810c0616.png">
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/31954987/222420302-c6960e08-6c0c-4a92-9537-c1d773cdab2b.png">
