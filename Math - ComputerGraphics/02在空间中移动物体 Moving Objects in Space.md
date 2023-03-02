@@ -32,6 +32,6 @@ in 3D
 
 - 沿z轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222416167-23600397-5c07-4e78-911d-43d7c1e93496.png">
 
+<img width="170" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png"> 
 
-<img width="170" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png">
-
+- 沿y轴旋转theta角 
