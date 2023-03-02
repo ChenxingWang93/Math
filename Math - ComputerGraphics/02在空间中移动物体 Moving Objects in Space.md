@@ -14,8 +14,10 @@ Multiply a translation matrix <img width="100" alt="image" src="https://user-ima
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222343509-c663c96e-ce6d-44c3-9b06-996d8eec7131.png">
 
-<img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222359368-178a601b-dfdf-4fd6-adbc-ca8ef058dc41.png">
+- <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222359368-178a601b-dfdf-4fd6-adbc-ca8ef058dc41.png">
 
-<img width="205" alt="image" src="https://user-images.githubusercontent.com/31954987/222359782-9dbf8de1-3d41-42f8-a114-d9e574b27100.png">
+- <img width="205" alt="image" src="https://user-images.githubusercontent.com/31954987/222359782-9dbf8de1-3d41-42f8-a114-d9e574b27100.png">
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222362528-cf8e0501-dc59-45f3-8df1-fe1bdffa8125.png">
+- <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222362528-cf8e0501-dc59-45f3-8df1-fe1bdffa8125.png">
+
+- <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222365564-31f76d99-a26f-4520-af79-41ca28f8faa8.png">
