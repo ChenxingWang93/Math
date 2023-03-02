@@ -21,3 +21,7 @@ Multiply a translation matrix <img width="100" alt="image" src="https://user-ima
 - <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222362528-cf8e0501-dc59-45f3-8df1-fe1bdffa8125.png">
 
 - <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222365564-31f76d99-a26f-4520-af79-41ca28f8faa8.png">
+
+in 3D
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/222369003-c3a4a738-06a4-41ca-a7f9-51f9a6f77642.png">
