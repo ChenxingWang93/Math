@@ -10,3 +10,6 @@
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222069519-0edc3af8-9f58-44e7-a33b-1c0c48aa7aa7.png"> * <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222070181-1b00f855-ab4a-4a77-be1c-b6937e2755af.png"> = <img width="185" alt="image" src="https://user-images.githubusercontent.com/31954987/222071962-0c3a8ab3-739e-465a-9b76-3ebd2f08b4c2.png">
 
 Multiply a translation matrix <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222070181-1b00f855-ab4a-4a77-be1c-b6937e2755af.png">
+
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/222343509-c663c96e-ce6d-44c3-9b06-996d8eec7131.png">
