@@ -34,11 +34,16 @@ in 3D
 
 <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222414431-ec5f7012-7972-4bbd-aed3-517a8bd03f34.png"> 
 
-- 沿y轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222418977-70f99d00-37e9-4925-9820-6ca2810c0616.png">
+- 沿x轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222418977-70f99d00-37e9-4925-9820-6ca2810c0616.png">
 - <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222420302-c6960e08-6c0c-4a92-9537-c1d773cdab2b.png">
 
 沿着x轴逆时针旋转90度
 
 - <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222424046-57fc1c68-143a-40ae-9dd1-2c790483833f.png"> * <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/222423761-169af1c5-47fd-407a-8f74-efd02f2ae52d.png"> = <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222424381-239f0a5f-ee3e-4995-84cf-32052fd1b460.png">
+
+- 沿y轴旋转theta角 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/222431504-dbc03bde-f47e-4462-8fe1-dd63451c598f.png">
+- <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222413475-776fa03b-b2a4-4369-b858-b977b9691d5b.png"> * <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/222432234-f93f9022-d7d9-457a-a1e7-8fee90672022.png">
+
+<img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222433886-96980f5e-b792-421e-9593-fd804f5bd06d.png"> * <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/222433701-a161db6a-e0ad-427c-9844-1b1697c4d1e2.png"> = <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/222434076-75e7726f-111f-4bc9-93a2-2f5ae80ee00a.png">
 
 
