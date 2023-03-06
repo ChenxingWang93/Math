@@ -5,5 +5,5 @@
 #### Bezier Patch 贝塞尔曲线
 #### Convex Hull Property: the smallest convex set that contains all points
 #### Stiching
-#### NURBS
+#### NURBS Non Uniform Rational BSpline 非均匀有理基样条
 #### Bezier Curves
