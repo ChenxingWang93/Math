@@ -14,7 +14,7 @@ My take on derivatives:
 |Derivative of system 导数|Combined perspective of each part 结合每部分的角度|
 |Addition Rule[f+g]' ➕  导数的加法法则|Add contributions from f and g  f, g的贡献相加|
 |Product Rule[f*g]' ✖️  导数的乘法法则|Add contributions:a slice from f,a slice from g|
-|Power Rule[x^n] 导数的幂乘方|Combine N different perspectives  |
+|Power Rule[x^n] 导数的幂乘方|Combine N different perspectives  结合N种不同的视角|
 |Chain Rule 链式规则|Zoom into a perspective's root cause|
 
 
