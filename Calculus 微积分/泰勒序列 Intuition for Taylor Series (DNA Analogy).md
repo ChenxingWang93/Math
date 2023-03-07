@@ -16,6 +16,10 @@ to rebuild our function, we start at a fixed point(c_0) 我们从函数值在x=0
 - 我们能否将 x = 1？那么就有<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223334523-0b71e9fc-0fc5-489d-9046-06dc93d65845.png">
 - 如果我们divide by x?
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223334911-e07c18f8-2543-48ce-a86d-45ddf6d84773.png">
+我们能 set x = 0 让其他的terms 消失，然而我们不能 divide 0
+那么办法就是using derivative!
+we can take the derivative of the blueprint of <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/223339293-5cbcfdd2-20b6-48b8-89be-9caf34d00c7b.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/223340752-99e7a253-0b43-4c0d-9801-c0db501d7d8f.png">
 
 
 
