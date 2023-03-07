@@ -20,6 +20,9 @@ to rebuild our function, we start at a fixed point(c_0) 我们从函数值在x=0
 那么办法就是using derivative!
 we can take the derivative of the blueprint of <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/223339293-5cbcfdd2-20b6-48b8-89be-9caf34d00c7b.png">
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/223340752-99e7a253-0b43-4c0d-9801-c0db501d7d8f.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/223345820-dbdff1c7-201f-4837-a4e3-f71bf983cc52.png">
+
+现在我们可以通过设定 x = 0 把c_1独立出来
 
 
 
