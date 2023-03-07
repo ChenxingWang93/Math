@@ -11,6 +11,14 @@ to rebuild our function, we start at a fixed point(c_0) 我们从函数值在x=0
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/223326168-5ed96b7d-a59c-4f5f-b426-3a8237fa6cd6.png">
 
 ### Getting more DNA  //取得更多DNA
+#### 现在我们有C_0, 我们如何把C_1 从等式中独立出来？
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223325186-9022b1fe-85d0-46bd-b0a1-f7f4d9acc976.png"> 
+- 我们能否将 x = 1？那么就有<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223334523-0b71e9fc-0fc5-489d-9046-06dc93d65845.png">
+- 如果我们divide by x?
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223334911-e07c18f8-2543-48ce-a86d-45ddf6d84773.png">
+
+
+
 ####  The Taylor Series for a function around point x=0 is: //泰勒序列函数围绕点 x=0
 ### Example: Taylor Series of sin(x)  //sin(x)的泰勒序列
 ####  1) Sine has infinite terms  //Sine有无限♾️术语
