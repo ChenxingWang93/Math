@@ -5,7 +5,7 @@
 #### - <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/223324168-6b3b4005-cbfb-4820-bf6e-50743c1a4dd7.png"> 二阶导(加速度)
 
 ### Growing a Function from a point //从一个点生成函数
-#### imagining any function, at its core, is a polynomial (with possible infinite terms):
+#### imagining any function, at its core, is a polynomial (with possible infinite terms): 想象任何函数的核心实际都是一个多项式(无限形式)
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223325186-9022b1fe-85d0-46bd-b0a1-f7f4d9acc976.png">
 
 ### Getting more DNA  //取得更多DNA
