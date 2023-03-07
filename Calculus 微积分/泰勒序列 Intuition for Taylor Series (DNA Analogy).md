@@ -6,7 +6,9 @@
 
 ### Growing a Function from a point //从一个点生成函数
 #### imagining any function, at its core, is a polynomial (with possible infinite terms): 想象任何函数的核心实际都是一个多项式(无限形式)
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223325186-9022b1fe-85d0-46bd-b0a1-f7f4d9acc976.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/223325186-9022b1fe-85d0-46bd-b0a1-f7f4d9acc976.png"> 
+to rebuild our function, we start at a fixed point(c_0) 我们从函数值在x=0的时候插入函数
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/223326168-5ed96b7d-a59c-4f5f-b426-3a8237fa6cd6.png">
 
 ### Getting more DNA  //取得更多DNA
 ####  The Taylor Series for a function around point x=0 is: //泰勒序列函数围绕点 x=0
