@@ -27,6 +27,11 @@ we can take the derivative of the blueprint of <img width="50" alt="image" src="
 
 现在我们可以通过设定 x = 0 把c_1独立出来
 
+这！泰勒序列的Magic 重复求导 设定x = 0 
+
+- <img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/223629360-a0945834-fec5-4d6a-a970-af579c9771c3.png">
+于是我们可以通过 设定x = 0 来独立 C_2
+- <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/223630056-7a453740-8cf9-486b-bec8-e54048808366.png">
 
 
 ####  The Taylor Series for a function around point x=0 is: //泰勒序列函数围绕点 x=0
