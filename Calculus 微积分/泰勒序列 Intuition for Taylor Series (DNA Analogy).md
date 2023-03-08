@@ -33,6 +33,10 @@ we can take the derivative of the blueprint of <img width="50" alt="image" src="
 于是我们可以通过 设定x = 0 来独立 C_2
 - <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/223630056-7a453740-8cf9-486b-bec8-e54048808366.png">
 
+MacLaurin series麦克劳林公式是泰勒公式的一种特殊形式
+- <img width="800" alt="image" src="https://user-images.githubusercontent.com/31954987/223631389-9fff9ee1-f63b-433c-b56e-77e69f0fdb89.png">
+
+
 
 ####  The Taylor Series for a function around point x=0 is: //泰勒序列函数围绕点 x=0
 ### Example: Taylor Series of sin(x)  //sin(x)的泰勒序列
