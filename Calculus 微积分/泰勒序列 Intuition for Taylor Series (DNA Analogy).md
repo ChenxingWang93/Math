@@ -37,12 +37,14 @@ MacLaurin series麦克劳林公式是泰勒公式的一种特殊形式
 - <img width="800" alt="image" src="https://user-images.githubusercontent.com/31954987/223631389-9fff9ee1-f63b-433c-b56e-77e69f0fdb89.png">
 背后的idea 跟⬇️相比是相同的 
 - <img width="600" alt="image" src="https://user-images.githubusercontent.com/31954987/223632066-853ec385-07b3-441a-8414-ef59a7a5104a.png">
-
-
-
+把它看作
+- <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/223651554-f73ecddb-29f7-41cf-853b-8095bedd2221.png">
 
 
 ####  The Taylor Series for a function around point x=0 is: //泰勒序列函数围绕点 x=0
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/223654018-c8125784-6220-4cae-8071-dc8a8cf73d1a.png">
+
+
 ### Example: Taylor Series of sin(x)  //sin(x)的泰勒序列
 ####  1) Sine has infinite terms  //Sine有无限♾️术语
 ####  2）Sine is missing every other term  //正弦每隔一个术语就没有
