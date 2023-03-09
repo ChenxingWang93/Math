@@ -51,6 +51,9 @@ MacLaurin series麦克劳林公式是泰勒公式的一种特殊形式
 3) Sine is missing every other terms 
 
 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/31954987/223942956-5cf980cf-88a1-4e51-a326-1bc6c9d2af52.png">
+
+
 ### Example: Taylor Series of sin(x)  //sin(x)的泰勒序列
 ####  1) Sine has infinite terms  //Sine有无限♾️术语
 ####  2）Sine is missing every other term  //正弦每隔一个术语就没有
