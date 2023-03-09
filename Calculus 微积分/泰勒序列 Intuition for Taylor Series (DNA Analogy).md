@@ -45,7 +45,10 @@ MacLaurin series麦克劳林公式是泰勒公式的一种特殊形式
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/223654018-c8125784-6220-4cae-8071-dc8a8cf73d1a.png">
 <img width="500" alt="Screen Shot 2023-03-09 at 14 12 05" src="https://user-images.githubusercontent.com/31954987/223935792-7362eca6-67e2-48cd-baef-0bb760d380c4.png">
 
+1) Sine has infinite terms 无穷项
 
+
+3) Sine is missing every other terms 
 
 
 ### Example: Taylor Series of sin(x)  //sin(x)的泰勒序列
