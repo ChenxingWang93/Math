@@ -7,6 +7,11 @@ Professor Stephen Boyd from Stanford
 ### The Geometry of Linear Equations 线性方程几何
 ### Geometry of Linear Algebra 线性代数的几何
 ### MIT 18.085 Computational Science and Engineering 计算机科学与工程
+#### applied linear algebra 应用线性代数
+#### differential equations Laplace's equation 拉普拉斯等式
+#### numerical method/ finite differences/ finite elements 数值方法
+#### fourier/ discrete Fourier transform 傅立叶 
+
 ### An Overview of Key Ideas 关键思想
 ### Elimination with Matrices 消除矩阵
 ### Multiplication and Inverse Matrices 乘法与逆矩阵
