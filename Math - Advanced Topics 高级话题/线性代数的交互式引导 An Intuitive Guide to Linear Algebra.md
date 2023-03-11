@@ -77,3 +77,14 @@ G 仍然是线性的，因为double 输入，double的是输出
 
 ### 可视化矩阵 visualizing the matrix 
 
+> ```
+> --   --      --       --
+> |     |      |Operation|
+> |D   D|      |Operation|
+> |a   a|      |Operation|
+> |t   t|      |Operation|
+> |a   a|      |Operation|
+> |     |      |Operation|
+> --   --      --       --
+> ```
+
