@@ -12,3 +12,5 @@ linear algebra 线性代数
 - <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/224457860-577e59f5-0062-4686-ac90-b457c13a5594.png">
 
 "Linear Algebra" = "line-like relationships" 线性代数 = 线性关系
+
+#### 线性操作 Linear Operations
