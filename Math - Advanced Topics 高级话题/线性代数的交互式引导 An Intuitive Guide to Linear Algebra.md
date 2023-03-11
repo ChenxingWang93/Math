@@ -40,3 +40,40 @@ G 仍然是线性的，因为double 输入，double的是输出
 - 需要执行的可预测的线性操作 predictable, linear operations to perform
 - 生成结果，再次变换 generate a result, transforming it again
 
+我们如何追踪一系列输入 track a bunch of inputs?
+> ```
+> x
+> y
+> z
+> ```
+我们还可以这样写 <img width="80" alt="image" src="https://user-images.githubusercontent.com/31954987/224461998-644df07b-9e9c-4fd5-84bd-5e98840c78bd.png">
+接着是迷你运算 mini arithmetic: 与一个实数相乘✖️ multiplication by a constant, 然后相加 with a final addition
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/224462143-110cbfaa-bc29-413d-9717-a163acd3ab42.png">
+
+可把整个方程缩写为 abbreviate the entire function as <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/224462388-ff3a0c91-c65e-43e4-a9f0-81a36f51e7c8.png">
+只需要第一个输入input
+- <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/224462577-4e6bb40e-f8dc-405a-840d-b4f0580d1126.png">
+
+如何处理多个输入集 multiple sets of inputs 在 (a,b,c) &(x, y, z) 运行 F 我们可以尝试
+- <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/224462700-8d51f8c5-8c6d-41dc-8f8f-3b09de713b00.png">
+这样的方式显然是不行的，因为 F 只期待 3个输入, 而并非 6 个 
+
+> ```
+> 1st Input 2nd Input
+> --------------------
+> a         x
+> b         y
+> c         z
+> ```
+
+那么我们该如何通过 several operations 运行相同的输入 run the same input, 每个操作都有一个行 
+> ```
+> F: 3 4 5
+> G: 3 0 0
+> ```
+
+输入：纵向 vertical columns; 运算：横向 horizontal rows; 
+
+
+### 可视化矩阵 visualizing the matrix 
+
