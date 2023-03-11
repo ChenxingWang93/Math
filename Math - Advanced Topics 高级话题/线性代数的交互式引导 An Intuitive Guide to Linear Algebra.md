@@ -35,4 +35,8 @@ G 仍然是线性的，因为double 输入，double的是输出
 
 如果我们允许非线性的操作 类似<img width="30" alt="image" src="https://user-images.githubusercontent.com/31954987/224460883-8993725f-9731-44dc-bcb9-333ee8c290b4.png">，我们不能split work 然后把结果结合在一起combine the results, 因为 <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/224460984-30c811cb-0206-4b11-9fbf-5861bd67c168.png">
 
+#### 组织输入与运算 organizing inputs and operations
+- 追踪一系列输入 track a bunch of inputs
+- 需要执行的可预测的线性操作 predictable, linear operations to perform
+- 生成结果，再次变换 generate a result, transforming it again
 
