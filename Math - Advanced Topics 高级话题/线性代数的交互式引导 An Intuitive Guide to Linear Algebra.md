@@ -21,5 +21,18 @@ linear algebra 线性代数
 - <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/224459326-a69a2430-3f9d-4209-886d-10d6744234fa.png"> 指数的增长也不是，我们2倍输入得到的却是4倍的输出 doubled the input but quadruped the output
 
 那什么类型的函数是线性的呢？缩放一个常量的比例
+- <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/224459656-5e3341b3-d035-4c17-9d2e-e49ef7ccecdc.png">
+
+还能继续结合多个线性方程
+- 组合多个线性方程组 <img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/224459754-40029feb-0442-46fe-abcf-202a0a3036de.png"> 为一个G:
+- <img width="600" alt="image" src="https://user-images.githubusercontent.com/31954987/224459893-1171a060-2fe0-460d-9736-69e48c7aea85.png">
+
+G 仍然是线性的，因为double 输入，double的是输出 
+- <img width="900" alt="image" src="https://user-images.githubusercontent.com/31954987/224460521-eecc07d4-641f-4b84-8d4f-3538e96173b5.png">
+
+我们可以把输入分开 split inputs apart, 独立分析每一部分 analyze them individually, 把结果结合在一起combine the result
+- <img width="600" alt="image" src="https://user-images.githubusercontent.com/31954987/224460800-a9cad67b-b0d2-439c-bc84-81e3b22416c6.png">
+
+如果我们允许非线性的操作 类似<img width="30" alt="image" src="https://user-images.githubusercontent.com/31954987/224460883-8993725f-9731-44dc-bcb9-333ee8c290b4.png">，我们不能split work 然后把结果结合在一起combine the results, 因为 <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/224460984-30c811cb-0206-4b11-9fbf-5861bd67c168.png">
 
 
