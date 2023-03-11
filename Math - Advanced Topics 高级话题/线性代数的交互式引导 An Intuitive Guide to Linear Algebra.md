@@ -78,13 +78,14 @@ G 仍然是线性的，因为double 输入，double的是输出
 ### 可视化矩阵 visualizing the matrix 
 
 > ```
+> --   --      --       --      
+> |     |      |Operation|      --    --
+> |D   D|      |Operation|      ｜D   D|
+> |a   a|      |Operation|      ｜a   a|
+> |t   t|      |Operation|      ｜t   t|
+> |a   a|      |Operation|      ｜a   a|
+> |     |      |Operation|      --    -- 
 > --   --      --       --
-> |     |      |Operation|
-> |D   D|      |Operation|
-> |a   a|      |Operation|
-> |t   t|      |Operation|
-> |a   a|      |Operation|
-> |     |      |Operation|
-> --   --      --       --
+> 输出数据        待执行运算        输入数据
 > ```
 
