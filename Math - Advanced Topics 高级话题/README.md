@@ -7,7 +7,7 @@ Guide to Imaginary Numbers 虚数的直觉感受
 
 ####  🌰 Imaginary Number //虚数
 ![image](https://user-images.githubusercontent.com/31954987/196034995-c03ee2fe-5391-4f15-9b52-9c03cbb3257d.png)
-- **What's an imaginary number?**
+- **What's an imaginary number?** 什么是虚数
 ##### a number pointing sideways(North⬆️/South⬇️) Gauss wanted them called "lateral" numbers 高斯称他们为“侧”向数
 ##### what does i means？i是什么意思？
 ##### i points North. 
@@ -67,4 +67,4 @@ z* = a - bi called the "complex conjugate", it has the same real part, but the "
 ![image](https://user-images.githubusercontent.com/31954987/196958516-56c75a1b-3800-4b0b-b73d-3583e0440c9d.png)
 
 
-##### Learning by analogy. imaginary numbers' ancestor, the negatives
+##### Learning by analogy. imaginary numbers' ancestor, the negatives 虚数的祖先，负数
