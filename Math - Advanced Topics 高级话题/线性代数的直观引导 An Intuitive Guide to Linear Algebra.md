@@ -152,4 +152,13 @@ G 仍然是线性的，因为double 输入，double的是输出
 > ```
 > 矩阵大小由 **R*C** 度量，R:row count; C:column count
 > 矩阵中的物件 item 也是被相同的方式引用：a_ij ith 行，jth 列
+> 运算矩阵 operation matrix 2 * 3
+> 输入矩阵 input matrix 3 * 2
+> > [Operation Matrix] [Input Matrix]
+> > [operation count x operation size] [input size x input count]
+> > [m x n] [p x q] = [m x q]
+> > [2 x 3] [3 x 2] = [2 x 2]
 > ```
+
+"size of operation" "size of input" (n = p) 只有当 n = p 时才能矩阵相乘 only matrices multiply 
+输出矩阵 output matrix 有m operation rows for each input，and q inputs 得到一个 “m * q” 矩阵
