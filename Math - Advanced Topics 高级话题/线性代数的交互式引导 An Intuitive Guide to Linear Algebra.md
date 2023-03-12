@@ -113,5 +113,18 @@ G 仍然是线性的，因为double 输入，double的是输出
 把 一个 **输入input** 传递到 一个 **操作operation**
 - **输入input(a, b, c)** -> **F** -> **输出output 3a + 4b + 5c** -> **G** -> **输出output 3a + 0 + 0**
 
+> ```
+>                                 -      -
+>                                 | a  x |
+> Inputs = A = [Input1 Input2] =  | b  y |
+>                                 | c  z |
+>                                 -      -
+> 
+>
+>
+> 
+> 
+> ```
+
 
 
