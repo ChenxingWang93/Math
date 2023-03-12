@@ -86,8 +86,9 @@ G 仍然是线性的，因为double 输入，double的是输出
 > |a   a|       |Operation|      ｜a   a|
 > |     |       |Operation|      --    -- 
 > --   --       --       --
-> 输出数据        待执行运算        输入数据
+> 输出数据         待执行运算        输入数据
 > ```
+
 
 > ```
 >                               --    --
@@ -96,12 +97,14 @@ G 仍然是线性的，因为double 输入，double的是输出
 >                 D a t a       ｜t   t|
 >               |---------|     ｜a   a|
 >                    |          --    -- 
-> --   --       --   |   --      
+> --   --       --   |   --      输入数据 
 > |     |       |Operation|      
 > |D   D|       |Operation|      
 > |a   a|  /-|  |Operation|      
 > |t   t|  \-|  |Operation|    
 > |a   a|       |Operation|
 > |     |       |Operation|
-> 
+> 输出数据         待执行运算       
 > ```
+
+![image](https://user-images.githubusercontent.com/31954987/224517173-592220de-b098-4881-aff2-edcc307b30de.png)
