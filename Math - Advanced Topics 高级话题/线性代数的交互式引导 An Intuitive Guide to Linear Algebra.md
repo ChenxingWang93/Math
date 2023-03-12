@@ -108,3 +108,10 @@ G 仍然是线性的，因为double 输入，double的是输出
 > ```
 
 ![image](https://user-images.githubusercontent.com/31954987/224517173-592220de-b098-4881-aff2-edcc307b30de.png)
+
+
+把 一个 **输入input** 传递到 一个 **操作operation**
+- **输入input(a, b, c)** -> **F** -> **输出output 3a + 4b + 5c** -> **G** -> **输出output 3a + 0 + 0**
+
+
+
