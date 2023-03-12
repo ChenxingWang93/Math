@@ -46,6 +46,7 @@ G 仍然是线性的，因为double 输入，double的是输出
 > y
 > z
 > ```
+
 我们还可以这样写 <img width="80" alt="image" src="https://user-images.githubusercontent.com/31954987/224461998-644df07b-9e9c-4fd5-84bd-5e98840c78bd.png">
 接着是迷你运算 mini arithmetic: 与一个实数相乘✖️ multiplication by a constant, 然后相加 with a final addition
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/224462143-110cbfaa-bc29-413d-9717-a163acd3ab42.png">
@@ -88,7 +89,6 @@ G 仍然是线性的，因为double 输入，double的是输出
 > --   --       --       --
 > 输出数据         待执行运算        输入数据
 > ```
-
 
 > ```
 >                               --    --
@@ -148,9 +148,8 @@ G 仍然是线性的，因为double 输入，double的是输出
 >   
 > ```
 
-
 ### 技巧二：数字编码 The numbering 
-
-
-
-
+> ```
+> 矩阵大小由 **R*C** 度量，R:row count; C:column count
+> 矩阵中的物件 item 也是被相同的方式引用：a_ij ith 行，jth 列
+> ```
