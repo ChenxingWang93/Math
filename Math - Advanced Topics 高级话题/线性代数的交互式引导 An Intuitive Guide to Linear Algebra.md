@@ -120,11 +120,22 @@ G 仍然是线性的，因为double 输入，double的是输出
 >                                 | c  z |
 >                                 -      -
 > 
->
->
-> 
+>                   -          -    -     -
+> Operations = M =  |operation1| =  |3 4 5|
+>                   |operation2|    |3 0 0|
+>                   -          -    -     -
+> ```
+
+一个矩阵是 用一个单变量代表 **输入** or **运算** 的电子表格 a single variable representing a spreadsheet of inputs or operations
+
+### 技巧一：阅读顺序 The reading order
+
+> ```
+> 输入input => 矩阵matrix => 输出流output flow
 > 
 > ```
 
+
+### 技巧二：数字编码 The numbering 
 
 
