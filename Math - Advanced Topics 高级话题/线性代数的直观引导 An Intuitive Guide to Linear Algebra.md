@@ -104,6 +104,7 @@ G 仍然是线性的，因为double 输入，double的是输出
 > |t   t|  \-|  |Operation|    
 > |a   a|       |Operation|
 > |     |       |Operation|
+> --   --       --       --
 > 输出数据         待执行运算       
 > ```
 
@@ -132,10 +133,24 @@ G 仍然是线性的，因为double 输入，double的是输出
 
 > ```
 > 输入input => 矩阵matrix => 输出流output flow
+> y = f(x) or f(x) = y
+> 用大写字母capital letter 表示矩阵（M）
+> 列中的单一输入 小写表示lowercase（x, y, z）组成输入inputs（A）& 输出outputs（B）
 > 
+> MA = B
+>          --  --     
+> --   --  |a  x|     --                         --
+> |3 4 5|  |b  y|     |3a + 4b + 5c   3x + 4y + 5z|
+> |3 0 0|  |c  z|  =  |     3a             3x     |
+> --   --  --  --     --                         --
+> 
+>   运算M    输入A                  输出B
+>   
 > ```
 
 
 ### 技巧二：数字编码 The numbering 
+
+
 
 
