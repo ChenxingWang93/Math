@@ -168,4 +168,20 @@ G 仍然是线性的，因为double 输入，double的是输出
 - 平均器Averager: [1/3 1/3 1/3]
 
 加法器：a + b + c
-平均器
+平均器：(a + b + c)/3 = a/3 + b/3 + c/3
+
+- 只有第一输入：[1 0 0]
+- 只有第二输入：[0 1 0]
+- 只有第三输入：[0 0 1]
+
+合并到单一矩阵 merge them into single matrix：
+> ```
+> [1 0 0]
+> [0 1 0]
+> [0 0 1]
+> ```
+
+缩放scale: 让所有输入 变大/变小 make all inputs bigger/smaller
+倾斜skew: 让特点的输入 变大/变小 make certain inputs bigger/smaller
+翻转flip: 让输入变负数 make inputs negative
+旋转rotate: 让新坐标
