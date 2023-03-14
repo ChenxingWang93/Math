@@ -181,7 +181,10 @@ G 仍然是线性的，因为double 输入，double的是输出
 > [0 0 1]
 > ```
 
-缩放scale: 让所有输入 变大/变小 make all inputs bigger/smaller
-倾斜skew: 让特点的输入 变大/变小 make certain inputs bigger/smaller
-翻转flip: 让输入变负数 make inputs negative
-旋转rotate: 让新坐标
+- 缩放scale: 让所有输入 变大/变小 make all inputs bigger/smaller
+- 倾斜skew: 让特点的输入 变大/变小 make certain inputs bigger/smaller
+- 翻转flip: 让输入变负数 make inputs negative
+- 旋转rotate: 让新坐标 make new coordinates based on old one (east becomes north, north become west, etc)
+
+向量是需要编辑的数据 vectors are **examples** of data to modify
+
