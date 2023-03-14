@@ -6,7 +6,7 @@
 
 > ```
 > 
-> -    -      -         -
+> -    -      -         -     
 > |    |      |Operation|
 > |D  D|      |Operation|
 > |a  a|      |Operation|
