@@ -6,6 +6,13 @@
 
 > ```
 > 
+>                               -    -
+>                               |D  D|
+>                               |a  a|
+>                               |t  t|
+>                               |a  a|
+>                               -    -
+>                             
 > -    -      -         -     
 > |    |      |Operation|
 > |D  D|      |Operation|
