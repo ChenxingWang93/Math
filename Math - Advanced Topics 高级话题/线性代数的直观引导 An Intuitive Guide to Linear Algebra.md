@@ -162,3 +162,10 @@ G 仍然是线性的，因为double 输入，double的是输出
 
 "size of operation" "size of input" (n = p) 只有当 n = p 时才能矩阵相乘 only matrices multiply 
 输出矩阵 output matrix 有m operation rows for each input，and q inputs 得到一个 “m * q” 矩阵
+
+### 发烧友的操作 fancier operation 
+- 加法器adder: [1 1 1]
+- 平均器Averager: [1/3 1/3 1/3]
+
+加法器：a + b + c
+平均器
