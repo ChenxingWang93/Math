@@ -5,12 +5,15 @@
 #### 矩阵的乘法是有关信息流的 matrix multiplication is about information flow, converting data to code and back 
 
 > ```
-> -    -
-> |D  D| 
-> |a  a|
-> |t  t|
-> |a  a|
-> -    -
+> 
+> -    -      -         -
+> |    |      |Operation|
+> |D  D|      |Operation|
+> |a  a|      |Operation|
+> |t  t|      |Operation|
+> |a  a|      |Operation|
+> |    |      |Operation|
+> -    -      -         -
 > 
 > ```
 
