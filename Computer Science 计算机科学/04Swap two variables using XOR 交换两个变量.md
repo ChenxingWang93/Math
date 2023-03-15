@@ -28,3 +28,11 @@ to understand this trick, break the statements into unique values:
 > x2 = 0 xor y //a xor a => 0
 > x2 = y  //0 xor a => a; x2 now has y's original value 
 > ```
+
+### Intuitive Understanding 直觉
+
+> ```
+> 1:  x = x xor y
+> 2:  y = x xor y
+> 3:  x = x xor y
+> ```
