@@ -1,8 +1,10 @@
 - ![image](https://user-images.githubusercontent.com/31954987/198840223-8b3a039e-1951-4b4d-addb-2edeef1f61cf.png)
+- <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/225637191-6c4c42af-774c-473b-9bb6-8fad1dfe53d4.png">
 - ![image](https://user-images.githubusercontent.com/31954987/198840229-8b6a9340-32f4-451d-8f4a-abb50dc02c9e.png)
 
 #### drawing some right triangle and re-arrange terms https://en.wikipedia.org/wiki/Law_of_sines#Alternative_Proof
 #### rather than the Law of Sines, think of the Law of Equal Perspective //相同角度
+#### 每个角每个边都能独立地找到圆形来包裹整个三角形 each angle& side can independently find the circle that wrap up the whole triangle
 ![image](https://user-images.githubusercontent.com/31954987/198871949-fb9ad900-3db6-42e1-96ba-d375210ced66.png)
 #### **each angle& side can independently find the circle that wraps up the whole triangle**. 
 
@@ -32,6 +34,11 @@ https://en.wikipedia.org/wiki/Inscribed_angle
 ![image](https://user-images.githubusercontent.com/31954987/198874057-00318b50-0b60-4afd-97d4-cdd7d6becc59.png)
 #### sine is the percentage height compared to the max possible. The max possible height is the full diameter(d) of the Circle
 ![image](https://user-images.githubusercontent.com/31954987/198874340-ea76b235-7fff-4fa6-80ce-a49908d05b7e.png)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/225639770-8fec131d-bf21-4595-b334-155116643779.png">
+
+## Appendix: Obtuse Angles //附件：钝角
+![image](https://user-images.githubusercontent.com/31954987/225640578-9a253d0d-3872-4030-9dc1-5e8442d983e7.png)
+- <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/225640910-883c57f7-e924-42b1-a0a8-bbdcaabb6734.png">
 
 
 |ADEPT Topic|Law of Sines 正弦法则|
@@ -39,8 +46,8 @@ https://en.wikipedia.org/wiki/Inscribed_angle
 |Analogy 类比|imagine kids describing the same circle with varying degrees of aggregation|
 |Diagram 图解|![image](https://user-images.githubusercontent.com/31954987/198879706-5e913bfd-74b7-4b0a-a875-05209219ea6a.png)|
 |Example 举例|
-|Plain-English|any angle + side can deduce the size of the wrapping circle|
-|Technical|![image](https://user-images.githubusercontent.com/31954987/198880416-bd209507-b198-4d3e-b202-9774a9f2e654.png)|
+|Plain-English|任何角度 + 边 推断出包围圆形的大小 any angle + side can deduce the size of the wrapping circle|
+|Technical|![image](https://user-images.githubusercontent.com/31954987/198880416-bd209507-b198-4d3e-b202-9774a9f2e654.png) 圆的直径|
 
 
 
