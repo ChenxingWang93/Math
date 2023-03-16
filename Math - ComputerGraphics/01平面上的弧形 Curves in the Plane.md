@@ -1,3 +1,4 @@
+https://pomax.github.io/bezierinfo/
 Chaikin’s Curves algorithms 柴金曲线算法
 - Chaikin's points only piece together parabolas 柴金曲线把抛物线拼凑在一起
 
