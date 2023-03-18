@@ -6,7 +6,8 @@
 
 #### 我们定义边缘与长度 
 - <img width="190" alt="图片" src="https://user-images.githubusercontent.com/31954987/226085013-1286f281-3f7e-413d-9069-ab3708539cf7.png">
-- 
+- <img width="190" alt="图片" src="https://user-images.githubusercontent.com/31954987/226088449-52dbb263-3017-474c-8f5e-6dfc347648e0.png">
+
 
 ## 二维 2D
 ## 三维 3D
