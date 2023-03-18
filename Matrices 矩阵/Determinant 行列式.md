@@ -7,4 +7,3 @@ the determinant of a matrix *M* is denoted as ***|M|*** or det M. The determinan
 对角线相乘 multiplying the diagonals, 减去第二个对角线and subtracting the second diagonal to the first one. 3x3 matrix 行列式更加令人费解 the determinant of a 3x3 matrix is significantly more convoluted:
 
 
-
