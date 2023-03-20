@@ -12,7 +12,7 @@ the inverse of a square matrix <img width="40" alt="图片" src="https://user-im
 - 逆逆为原矩阵 <img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/226284079-581718e7-df85-4591-a026-a0fc0435b9f0.png">
 - the inverse of the identity is the identity: <img width="125" alt="图片" src="https://user-images.githubusercontent.com/31954987/226284577-f6360a51-883e-4635-a005-ade173e421ff.png">
 - 逆的转置是转置的逆 the inverse of the transpose is the transpose of the inverse <img width="250" alt="图片" src="https://user-images.githubusercontent.com/31954987/226285325-d4a183e9-ef11-4918-b0a4-f94f1685c2c8.png">
-
+- 积的逆是逆的积 the inverse of a product is the product of the inverses:
 
 
 
