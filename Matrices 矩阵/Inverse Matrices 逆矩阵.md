@@ -15,6 +15,11 @@ the inverse of a square matrix <img width="40" alt="图片" src="https://user-im
 - 积的逆是逆的积 the inverse of a product is the product of the inverses:<img width="250" alt="图片" src="https://user-images.githubusercontent.com/31954987/226291011-01111915-09fd-4017-becd-2098334784b7.png">
 - 逆的行列式 原矩阵行列式的倒数 the determinant of the inverse is the reciprocal of the determinant of the original matrix: <img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/226306112-d5009bf5-0a08-4db8-8b64-a27866754db0.png">
 
+> ```
+> 经典的计算一个矩阵是否是可逆的方式是计算其行列式，
+> the classic way to find out if a matrix is invertible is computing its determinant. if it's not zero, then the matrix is invertible
+> ```
+
 
 
 ## Geometric interpretation 几何解释
