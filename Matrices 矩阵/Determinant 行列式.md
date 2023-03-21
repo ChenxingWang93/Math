@@ -10,13 +10,16 @@ the determinant of a matrix *M* is denoted as ***|M|*** or det M. The determinan
 <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/226171422-aa238dbc-6906-4063-a439-b32644aa5e59.png">
 
 <img width="250" alt="triple product" src="https://user-images.githubusercontent.com/31954987/226171323-15e908ea-ea7b-4e30-a691-dcd890ddc47a.png">
-更好地记住它的方式，if we consider the 3 rows of a 3 * 3 matrix as basic vectors, 行列式是一个三乘三的积 the determinant is the ***triple product*** 
+更好地记住它的方式，if we consider the 3 rows of a 3 * 3 matrix as basic vectors, 行列式是一个三乘三的积 the determinant is the **triple product** 
 <img width="350" alt="图片" src="https://user-images.githubusercontent.com/31954987/226171679-92b301a0-03fa-4ce9-9a94-2aa8de756cff.png">
 
 the computation of the determinant for bigger matrices become very complex, and of course it is pointless to try to memorize it. But we should know some important properties about determinants:
 
-- The determinant of the identity matrix is one: 单位矩阵的行列式是1
-- The determinant of a product is equal to the product of determinants: 乘积的行列式等于行列式的乘积
-- A matrix and its transpose have the same determinant: 矩阵及其转置具有相同的行列式
+- The determinant of the identity matrix is one: 单位矩阵的行列式是1 <img width="105" alt="图片" src="https://user-images.githubusercontent.com/31954987/226546382-cc600f37-1f8d-45bb-be1e-e9d152249110.png">
+- The determinant of a product is equal to the product of determinants: 乘积的行列式等于行列式的乘积 <img width="215" alt="图片" src="https://user-images.githubusercontent.com/31954987/226546543-92008b24-4ef5-4fec-9271-6c5073fe495e.png">
+
+- A matrix and its transpose have the same determinant: 矩阵及其转置具有相同的行列式<img width="185" alt="图片" src="https://user-images.githubusercontent.com/31954987/226546823-9260b183-bc0f-4363-b0fa-048ee2310713.png">
+
 - If any row or column in a matrix is all 0s, the determinant is 0. 
-- Exchanging any pair of rows or columns negates the determinant. 否定行列式 
+- Exchanging any pair of rows or columns negates the determinant. 否定行列式
+
