@@ -16,10 +16,10 @@ the inverse of a square matrix <img width="40" alt="图片" src="https://user-im
 - 逆的行列式 原矩阵行列式的倒数 the determinant of the inverse is the reciprocal of the determinant of the original matrix: <img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/226306112-d5009bf5-0a08-4db8-8b64-a27866754db0.png">
 
 > ```
-> 经典的计算一个矩阵是否是可逆的方式是计算其行列式，
+> 经典的计算一个矩阵是否是可逆的方式是计算其行列式，如果不是 0⃣️ 那矩阵就是可逆的
 > the classic way to find out if a matrix is invertible is computing its determinant. if it's not zero, then the matrix is invertible
 > ```
 
-
+there are many ways of computing the inverse of matrix, although the most common ones are **classical adjoint and gaussian elimination.** 最经典的是伴随与高斯消元法则
 
 ## Geometric interpretation 几何解释
