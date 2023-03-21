@@ -22,4 +22,9 @@ the inverse of a square matrix <img width="40" alt="图片" src="https://user-im
 
 there are many ways of computing the inverse of matrix, although the most common ones are **classical adjoint and gaussian elimination.** 最经典的是伴随与高斯消元法则
 
+the identity matrix is often denoted by <img width="35" alt="图片" src="https://user-images.githubusercontent.com/31954987/226500244-ff5b21d1-a59d-4d13-8f10-9891eb4c41c9.png"> <img width="175" alt="图片" src="https://user-images.githubusercontent.com/31954987/226501251-7e741819-3fd8-46e7-a950-d9e9224389cb.png">
+
+
+
 ## Geometric interpretation 几何解释
+
