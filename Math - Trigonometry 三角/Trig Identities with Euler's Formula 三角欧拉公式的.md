@@ -24,3 +24,10 @@
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/31954987/226615614-02aae34e-43bc-41b5-ac3d-f081607cfdd8.png">
 
 ## 与三角的联系 Connections In Trig
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/226618840-35bb5338-69c1-4847-b9b7-066ac9561916.png">
+
+sin(a + b) = sin(a) + sin(b)
+看起来是对的，但是当我们继续相加角度 keep adding up angles, 高度增加到max(100%)height increase until the max 100% 开始减少 then starts decreasing.
+sin 是 "高（作为比例的最大值）" 这个等式在问：是否我们将两个角度相加，他们的总高度是？
+
+![image](https://user-images.githubusercontent.com/31954987/226620576-700d06fb-9e51-4c1e-97ab-fbd434a7227a.png)
