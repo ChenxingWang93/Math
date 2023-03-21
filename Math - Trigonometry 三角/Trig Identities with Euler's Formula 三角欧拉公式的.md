@@ -17,3 +17,10 @@
 ### 单位圆定义 Unit Circle Definition
 - <img width="320" alt="Screen Shot 2023-03-21 at 20 51 00" src="https://user-images.githubusercontent.com/31954987/226611231-9d31754e-d478-43a4-a125-e80d18f76061.png">
 - <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226611036-9f3ff146-4515-431c-ba9c-d72035a5d8ac.png">
+
+# 与代数的联系 Connections In Algebra
+在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/31954987/226615614-02aae34e-43bc-41b5-ac3d-f081607cfdd8.png">
+
+# 与三角的联系 Connections In Trig
