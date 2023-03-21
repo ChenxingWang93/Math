@@ -9,4 +9,11 @@
 
 - <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/226606875-e19dd760-ec70-48d0-a45e-05d1b59a01b2.png">
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/226609080-2dd0df0c-4722-4c55-8aac-8c332c5be0c1.png">
+### 右三角形定义 Right Triangle Definition
+- <img width="320" alt="Screen Shot 2023-03-21 at 20 53 19" src="https://user-images.githubusercontent.com/31954987/226611745-681500c8-891a-4000-ae7b-479fc9741622.png">
+
+- <img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/226609080-2dd0df0c-4722-4c55-8aac-8c332c5be0c1.png">
+
+### 单位圆定义 Unit Circle Definition
+- <img width="320" alt="Screen Shot 2023-03-21 at 20 51 00" src="https://user-images.githubusercontent.com/31954987/226611231-9d31754e-d478-43a4-a125-e80d18f76061.png">
+- <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226611036-9f3ff146-4515-431c-ba9c-d72035a5d8ac.png">
