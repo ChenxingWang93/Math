@@ -18,15 +18,15 @@
 - <img width="320" alt="Screen Shot 2023-03-21 at 20 51 00" src="https://user-images.githubusercontent.com/31954987/226611231-9d31754e-d478-43a4-a125-e80d18f76061.png">
 - <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226611036-9f3ff146-4515-431c-ba9c-d72035a5d8ac.png">
 
-倒数公式reciprocal identity
-三角函数pythagorean identity
-奇偶性 even/odd formulas
-周期性 periodic formulas
-弧度与角度公式 degree and radians formulas
-二倍角公式 double angle formulas
-半角公式 half angle formulas
-积化➡️合差 product to sum formulas
-合差化⬅积 sum to product formulas
+- 倒数公式 reciprocal identity
+- 三角函数 pythagorean identity
+- 奇偶性 even/odd formulas
+- 周期性 periodic formulas
+- 弧度与角度公式 degree and radians formulas
+- 二倍角公式 double angle formulas
+- 半角公式 half angle formulas
+- 积化➡️合差 product to sum formulas
+- 合差化➡️积 sum to product formulas
 
 
 ## 与代数的联系 Connections In Algebra
