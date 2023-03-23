@@ -19,14 +19,47 @@
 - <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226611036-9f3ff146-4515-431c-ba9c-d72035a5d8ac.png">
 
 - 倒数公式 Reciprocal Identity
+- 正弦sin/ 余切csc 互为倒数
+csc(theta) = 1 / sin(theta)
+sin(theta) = 1 / csc(theta)
+
+- 余弦cos/ 正割sec 互为倒数
+sec(theta) = 1 / cos(theta)
+cos(theta) = 1 / sec(theta)
+
+
+- 正切tan/ 余割cot 互为倒数
+cot(theta) = 1 / tan(theta)
+tan(theta) = 1 / cot(theta) 
+
+
+![image](https://user-images.githubusercontent.com/31954987/227114761-58771e38-190e-49b1-b1db-db7136f6cb34.png)
+
+
 - 三角函数 Pythagorean Identity
+
+
 - 奇偶性 Even/Odd Formulas
+
+
 - 周期性 Periodic Formulas
+
+
 - 弧度与角度公式 Degree to Radians Formulas
+
+
 - 二倍角公式 Double angle formulas
+
+
 - 半角公式 Half Angle Formulas
+
+
 - 积化➡️合差 Product to Sum Formulas
+
+
 - 合差化➡️积 Sum to Product Formulas
+
+
 
 ## 与代数的联系 Connections In Algebra
 在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
