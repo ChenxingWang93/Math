@@ -41,6 +41,7 @@ tan(theta) = 1 / cot(theta)
 
 
 - 奇偶性 Even/Odd Formulas
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/227250737-8f5cafdb-1776-43ae-8fd6-5dbca2ee2839.png">
 
 
 - 周期性 Periodic Formulas
