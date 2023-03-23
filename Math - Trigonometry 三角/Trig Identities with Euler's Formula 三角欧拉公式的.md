@@ -36,7 +36,8 @@ tan(theta) = 1 / cot(theta)
 ![image](https://user-images.githubusercontent.com/31954987/227114761-58771e38-190e-49b1-b1db-db7136f6cb34.png)
 
 
-- 三角函数 Pythagorean Identity
+### 三角函数 Pythagorean Identity
+
 
 
 - 奇偶性 Even/Odd Formulas
