@@ -18,7 +18,7 @@
 - <img width="320" alt="Screen Shot 2023-03-21 at 20 51 00" src="https://user-images.githubusercontent.com/31954987/226611231-9d31754e-d478-43a4-a125-e80d18f76061.png">
 - <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226611036-9f3ff146-4515-431c-ba9c-d72035a5d8ac.png">
 
-- 倒数公式 Reciprocal Identity
+### 倒数公式 Reciprocal Identity
 - 正弦sin/ 余切csc 互为倒数
 csc(theta) = 1 / sin(theta)
 sin(theta) = 1 / csc(theta)
