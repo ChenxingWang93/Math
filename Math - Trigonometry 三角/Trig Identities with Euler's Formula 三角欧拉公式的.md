@@ -74,12 +74,15 @@ tan(theta) = 1 / cot(theta)
   - tan^2(θ) = 1 - cos(2θ) /1 + cos(2θ)
 
 - 积化➡️合差 Product to Sum Formulas
+  - sin(α)sin(β) = 1/2[cos(α − β) − cos(α + β)]
+  - cos(α)cos(β) = 1/2[cos(α − β) + cos(α + β)]
+  - sin(α)cos(β) = 1/2[sin(α + β) + sin(α − β)]
+  - cos(α)sin(β) = 1/2[sin(α + β) − sin(α − β)]
+
+- 合差化➡️积 Sum to Product Formulas
   - sin(α ± β) = sin(α) cos(β) ± cos(α) sin(β)
   - cos(α ± β) = cos(α) cos(β) ∓ sin(α) sin(β)
   - tan(α ± β) = tan(α) ± tan(β) /1 ∓ tan(α)tan(β)
-
-- 合差化➡️积 Sum to Product Formulas
-
 
 
 ## 与代数的联系 Connections In Algebra
