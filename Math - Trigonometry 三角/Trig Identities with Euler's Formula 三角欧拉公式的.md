@@ -98,18 +98,24 @@ for any ordered pair on the unit circle <img width="50" alt="image" src="https:/
 
 ## inverse trig functions 反三角函数
 ### definition 定义
-y = sin^−1(x) is equivalent to x = sin(y)
-y = cos^−1(x) is equivalent to x = cos(y)
-y = tan^−1(x) is equivalent to x = tan(y)
+- y = sin^−1(x) is equivalent to x = sin(y)
+- y = cos^−1(x) is equivalent to x = cos(y)
+- y = tan^−1(x) is equivalent to x = tan(y)
 
 ### Inverse Properties 逆属性
-cos(cos^-1(x)) = x
-cos(cos^-1(theta)) = theta
-sin(sin^-1(x)) = x
-sin(sin^-1(theta)) = theta
-tan(tan^-1(x)) = x
-tan(tan^-1(theta)) = theta
+- cos(cos^-1(x)) = x
+- cos(cos^-1(theta)) = theta
+- sin(sin^-1(x)) = x
+- sin(sin^-1(theta)) = theta
+- tan(tan^-1(x)) = x
+- tan(tan^-1(theta)) = theta
 
+### Domain and Range 域 & 范围
+|Function|Domain|Range|
+|--------|------|-----|
+|y=sin^-1(x)|-1≤x≤1|-π/2≤y≤π/2|
+|y=cos^-1(x)|-1≤x≤1|0≤y≤π|
+|y=tan^-1(x)|−∞≤x≤∞|-π/2≤y≤π/2|
 
 
 ## 与代数的联系 Connections In Algebra
