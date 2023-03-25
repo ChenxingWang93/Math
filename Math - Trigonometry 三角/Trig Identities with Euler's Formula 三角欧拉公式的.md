@@ -23,6 +23,7 @@
 csc(theta) = 1 / sin(theta)
 sin(theta) = 1 / csc(theta)
 
+
 - 余弦cos/ 正割sec 互为倒数
 sec(theta) = 1 / cos(theta)
 cos(theta) = 1 / sec(theta)
@@ -73,7 +74,9 @@ tan(theta) = 1 / cot(theta)
   - tan^2(θ) = 1 - cos(2θ) /1 + cos(2θ)
 
 - 积化➡️合差 Product to Sum Formulas
-
+  - sin(α ± β) = sin(α) cos(β) ± cos(α) sin(β)
+  - cos(α ± β) = cos(α) cos(β) ∓ sin(α) sin(β)
+  - tan(α ± β) = tan(α) ± tan(β) /1 ∓ tan(α)tan(β)
 
 - 合差化➡️积 Sum to Product Formulas
 
