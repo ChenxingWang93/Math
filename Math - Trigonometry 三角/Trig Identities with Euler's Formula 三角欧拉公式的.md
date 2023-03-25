@@ -96,6 +96,19 @@ tan(theta) = 1 / cot(theta)
 
 for any ordered pair on the unit circle <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/227722924-c2f38d91-f45c-4562-86bc-a2abbd7a84a0.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/227723005-ad3669b7-1e24-4f56-8622-8fd1cd5bd976.png">
 
+## inverse trig functions 反三角函数
+### definition 定义
+y = sin^−1(x) is equivalent to x = sin(y)
+y = cos^−1(x) is equivalent to x = cos(y)
+y = tan^−1(x) is equivalent to x = tan(y)
+
+### Inverse Properties 逆属性
+cos(cos^-1(x)) = x
+cos(cos^-1(theta)) = theta
+sin(sin^-1(x)) = x
+sin(sin^-1(theta)) = theta
+tan(tan^-1(x)) = x
+tan(tan^-1(theta)) = theta
 
 
 
