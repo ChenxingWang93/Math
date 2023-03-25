@@ -92,6 +92,12 @@ tan(theta) = 1 / cot(theta)
   - tan(π/2 - θ) = cot(θ)
   - cot(π/2 - θ) = tan(θ)
 
+<img width="500" alt="Screen Shot 2023-03-25 at 22 17 07" src="https://user-images.githubusercontent.com/31954987/227722723-e33ee2df-0860-4cb6-9bb0-85e591f23aa6.png">
+
+for any ordered pair on the unit circle <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/227722924-c2f38d91-f45c-4562-86bc-a2abbd7a84a0.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/227723005-ad3669b7-1e24-4f56-8622-8fd1cd5bd976.png">
+
+
+
 
 ## 与代数的联系 Connections In Algebra
 在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
