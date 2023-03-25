@@ -45,16 +45,32 @@ tan(theta) = 1 / cot(theta)
 
 
 - 周期性 Periodic Formulas
+  - sin(θ + 2πn) = sin(θ)
+  - csc(θ + 2πn) = csc(θ)
+  - cos(θ + 2πn) = cos(θ)
+  - sec(θ + 2πn) = sec(θ)
+  - tan(θ + πn) = tan(θ)
+  - cot(θ + πn) = cot(θ)
 
 
 - 弧度与角度公式 Degree to Radians Formulas
+- if <img width="25" alt="image" src="https://user-images.githubusercontent.com/31954987/227719535-0512babb-08a0-4947-8821-2a9d640e075a.png"> is an angle in degrees and <img width="15" alt="image" src="https://user-images.githubusercontent.com/31954987/227719783-2c7f38d0-b24b-4c36-a7b7-d88eb05db5b7.png"> is an angle in radians then 
+  - π / 180 = t / x => 
+  - t = πx / 180 
+  - & x = 180t / π
 
 
 - 二倍角公式 Double angle formulas
-
+  - sin(2θ) = 2 sin(θ) cos(θ)
+  - cos(2θ) = cos2(θ) − sin2(θ)
+    - = 2 cos2(θ) − 1 
+    - = 1 − 2 sin2(θ)
+  - tan(2θ) = 2 tan(θ)/1 − tan^2(θ)
 
 - 半角公式 Half Angle Formulas
-
+  - sin^2(θ) = 1/2 (1 − cos(2θ))
+  - cos^2(θ) = 1/2 (1 + cos(2θ))
+  - tan^2(θ) = 1 - cos(2θ) /1 + cos(2θ)
 
 - 积化➡️合差 Product to Sum Formulas
 
