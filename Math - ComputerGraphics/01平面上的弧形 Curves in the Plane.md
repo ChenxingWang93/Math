@@ -31,7 +31,7 @@ the sum of each coefficient of a polynomial combination is zero 多项式每个�
 |<img width="275" alt="Screen Shot 2023-02-26 at 23 25 04" src="https://user-images.githubusercontent.com/31954987/221419940-01db1983-94de-4096-a2c4-b2c243528227.png">|P_2^2 点是 P_1' 和 P_2'的affine combination 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/221491705-0c5403fe-2f14-4e9f-9af0-8d3bc875de99.png"> 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/221499297-48f9725a-6eb2-4a1a-aee0-3f6992ac6781.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/31954987/221498893-789c1684-bb3c-4679-a89a-6e40c5b39283.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/221498893-789c1684-bb3c-4679-a89a-6e40c5b39283.png">
 
 ||graph 图像|formula 公式|interactive demo 可交互|
 |-|-|----------|----------------------|
