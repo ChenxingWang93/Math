@@ -84,6 +84,14 @@ tan(theta) = 1 / cot(theta)
   - cos(α ± β) = cos(α) cos(β) ∓ sin(α) sin(β)
   - tan(α ± β) = tan(α) ± tan(β) /1 ∓ tan(α)tan(β)
 
+- 辅助函数公式Cofunction formulas
+  - sin(π/2 - θ) = cos(θ)
+  - cos(π/2 - θ) = sin(θ)
+  - csc(π/2 - θ) = sec(θ)
+  - sec(π/2 - θ) = csc(θ)
+  - tan(π/2 - θ) = cot(θ)
+  - cot(π/2 - θ) = tan(θ)
+
 
 ## 与代数的联系 Connections In Algebra
 在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
