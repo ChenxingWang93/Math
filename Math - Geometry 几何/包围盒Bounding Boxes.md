@@ -55,3 +55,9 @@ Computing a bounding box for a set of given points is quite easy. First, we maxi
 AABBs have two advantages over bounding spheres:
 - 1. for a given set of points 计算最佳AABB is easy and fast(linear time) computing the optimal bounding sphere is much more complex
 - 2. 对于许多对象，AABB 提供一个 “tighter”(more accurate)volume
+
+## Fast OBB 2 AABB
+OBB: Accurate精确
+AABB: for fast calculation快速计算
+
+
