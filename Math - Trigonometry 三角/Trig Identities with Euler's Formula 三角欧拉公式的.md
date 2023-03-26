@@ -168,5 +168,6 @@ sin 是 "高（作为比例的最大值）" 这个等式在问：是否我们将
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/227757435-196d88aa-c649-4d9a-b5e9-0c0e38ba418c.png">
 
+![image](https://user-images.githubusercontent.com/31954987/227765145-9ec6f65c-a58f-464c-b16b-ead8fc1638c5.png)
 
-
+蓝色三角形的全高(sin(α))无法被使用，因为红色三角形无法延伸，当我们添加一个angle b 我们以相同的斜边移动一个更深的角度
