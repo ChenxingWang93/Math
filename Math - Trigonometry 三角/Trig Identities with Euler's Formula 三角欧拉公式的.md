@@ -37,6 +37,7 @@ tan(theta) = 1 / cot(theta)
 ![image](https://user-images.githubusercontent.com/31954987/227114761-58771e38-190e-49b1-b1db-db7136f6cb34.png)
 
 
+
 ### 三角函数 Pythagorean Identity
 
 
@@ -124,6 +125,15 @@ for any ordered pair on the unit circle <img width="50" alt="image" src="https:/
 
 ### Law of Sines, Cosines and Tangents 正弦、余弦、正切
 <img width="280" alt="Screen Shot 2023-03-26 at 10 44 07" src="https://user-images.githubusercontent.com/31954987/227752374-1f9dbd9f-9cf4-4c93-bd7c-d663a1833bcd.png">
+
+### Law of Sines 正弦定理
+sin(α)/a = sin(β)/b = sin(γ)/c
+
+### Law of Cosines 余弦定律
+α^2 = b^2 + c^2 - 2bccos(α)
+b^2 = a^2 + c^2 - 2accos(β)
+c^2 = a^2 + b^2 - 2abcos(γ)
+
 
 
 
