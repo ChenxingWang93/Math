@@ -5,4 +5,7 @@ bounding boxes are one of the most common geometric primitives used to describe 
 
 
 ## 表示AABB Representing AABB
-the two **corners** that define an AABB bounding box are
+the two **corners** that define an AABB bounding box are <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773239-a0d4cc6e-7fca-4cb5-a85c-6bc175fd796c.png"> all the points <img width="50" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773286-a3cc13cd-d522-4497-9e60-fb144ff20f73.png"> inside a bounding box AABB satisfy the inequalities:
+
+- <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773608-f40691e3-ad0a-413a-b693-ed6ea81b8d06.png">
+
