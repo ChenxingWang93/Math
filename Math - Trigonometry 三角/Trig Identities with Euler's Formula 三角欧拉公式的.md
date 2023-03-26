@@ -162,4 +162,7 @@ sin 是 "高（作为比例的最大值）" 这个等式在问：是否我们将
 - multiply by e^ib, which rotates by b. 乘 e^ib 旋转 b 度
 - final position = 1.0 * e^ia * e^ib = e^i(a+b), or 1.0 at the angle (a+b)
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/227757435-196d88aa-c649-4d9a-b5e9-0c0e38ba418c.png">
+
+
 
