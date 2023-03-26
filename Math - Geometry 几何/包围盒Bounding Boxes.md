@@ -25,5 +25,28 @@ Computing a bounding box for a set of given points is quite easy. First, we maxi
 
 > ``` C
 > // define AABB operations 
-> void 
+> void AABB3::empty() {
+>         min.x = min.y = min.z = FLT_MAX;
+>         max.x = max.y = max.z = −FLT_MAX;
+> }
+> void AABB3::add (const Vector3 &p) {
+>         if (p.x < min.x) min.x = p.x;
+>         if (p.x > max.x) max.x = p.x;
+>         if (p.y < min.x) min.y = p.y;
+>         if (p.y > max.x) max.y = p.y;
+>         if (p.z < min.x) min.z = p.z;
+>         if (p.z > max.x) max.z = p.z;
+> }
+> 
+> // Apply them to compute the AABB of a set of points
+> 
+> const int N;
+> Vector3 list [N];
+> 
+> AABB3 box;
+> box.empty();
+> 
+> for (int i = 0; i < N; ++i) {
+>         box.add(list[i]);
+> }
 > ```
