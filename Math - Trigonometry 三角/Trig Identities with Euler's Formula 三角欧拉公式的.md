@@ -134,8 +134,10 @@ for any ordered pair on the unit circle <img width="50" alt="image" src="https:/
 - b^2 = a^2 + c^2 - 2accos(β)
 - c^2 = a^2 + b^2 - 2abcos(γ)
 
-
-
+### Law of Tangents 正切定律
+- a − b/a + b = tan(1/2(α − β))/tan(1/2(α + β))
+- b - c/b + c = tan(1/2(β − γ))/tan(1/2(β + γ))
+- a − c/a + c = tan(1/2(α - γ))/tan(1/2(α + γ))
 
 ## 与代数的联系 Connections In Algebra
 在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
