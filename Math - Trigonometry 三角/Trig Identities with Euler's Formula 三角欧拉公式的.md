@@ -155,7 +155,11 @@ sin 是 "高（作为比例的最大值）" 这个等式在问：是否我们将
 
 欧拉公式Euler's Formula 使用复数 use complex numbers 创建圆形路径to create circular path
 ![image](https://user-images.githubusercontent.com/31954987/226799369-3a17d6f4-72d1-4157-acd8-f68d0a0ace31.png)
+
 ![image](https://user-images.githubusercontent.com/31954987/227754094-dbfc530d-95cf-4f3f-9a0c-e0033bfa0c56.png)
+
+![image](https://user-images.githubusercontent.com/31954987/227764960-f7219f43-4ef1-4576-bf06-156e11920dbc.png)
+
 
 - Start with 1.0, which is at 0 degrees 从 1.0 开始，0度
 - multiply by e^ia, which rotates by a. 乘 e^ia 旋转 a 度
