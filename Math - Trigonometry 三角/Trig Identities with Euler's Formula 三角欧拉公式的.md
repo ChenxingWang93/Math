@@ -127,12 +127,12 @@ for any ordered pair on the unit circle <img width="50" alt="image" src="https:/
 <img width="280" alt="Screen Shot 2023-03-26 at 10 44 07" src="https://user-images.githubusercontent.com/31954987/227752374-1f9dbd9f-9cf4-4c93-bd7c-d663a1833bcd.png">
 
 ### Law of Sines 正弦定理
-sin(α)/a = sin(β)/b = sin(γ)/c
+- sin(α)/a = sin(β)/b = sin(γ)/c
 
 ### Law of Cosines 余弦定律
-α^2 = b^2 + c^2 - 2bccos(α)
-b^2 = a^2 + c^2 - 2accos(β)
-c^2 = a^2 + b^2 - 2abcos(γ)
+- α^2 = b^2 + c^2 - 2bccos(α)
+- b^2 = a^2 + c^2 - 2accos(β)
+- c^2 = a^2 + b^2 - 2abcos(γ)
 
 
 
