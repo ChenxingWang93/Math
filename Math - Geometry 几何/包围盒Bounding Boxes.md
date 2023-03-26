@@ -15,3 +15,8 @@ the **size vector** <img width="20" alt="图片" src="https://user-images.github
  or the vector from the center <img width="25" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775690-49e4dd33-e7b5-4cc4-bf52-8cac0c48c6af.png">
 to <img width="75" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775562-ef2a58b3-0d96-4342-9c32-1b4f311699ed.png">
 
+> ```
+> to unambiguously define an AABB we need at least 2 of 4 vectors P_{min}, P_{max}, c and s. The most 
+> common way to define an AABB is through P_{min} and P_{max}.
+> ```
+
