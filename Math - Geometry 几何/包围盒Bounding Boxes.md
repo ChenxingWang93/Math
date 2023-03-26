@@ -9,3 +9,9 @@ the two **corners** that define an AABB bounding box are <img width="100" alt="�
 
 - <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773608-f40691e3-ad0a-413a-b693-ed6ea81b8d06.png">
 the center of the bounding box <img width="15" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773785-6cb11efe-6d8e-4284-a061-0d0c00df4873.png"> is defined by: <img width="250" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773870-f86546ec-434d-486d-8dc1-f721531ec68a.png">
+the **size vector** <img width="20" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775769-e2999496-4323-4fa7-99da-3e334e9d3f5c.png">
+ is the vector from <img width="75" alt="图片" src="https://user-images.githubusercontent.com/31954987/227774682-bec1936b-d4e1-4430-85d8-4abe431ad778.png"> to <img width="75" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775562-ef2a58b3-0d96-4342-9c32-1b4f311699ed.png">
+ and contains the width, height and length of the box in each dimension. sometimes we'll also find the **radius vector**, which is simply <img width="50" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775639-f57a2a32-4f57-49b7-9ff8-ba4ab78fea8d.png">
+ or the vector from the center <img width="25" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775690-49e4dd33-e7b5-4cc4-bf52-8cac0c48c6af.png">
+to <img width="75" alt="图片" src="https://user-images.githubusercontent.com/31954987/227775562-ef2a58b3-0d96-4342-9c32-1b4f311699ed.png">
+
