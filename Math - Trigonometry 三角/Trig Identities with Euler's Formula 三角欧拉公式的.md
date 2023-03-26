@@ -117,6 +117,14 @@ for any ordered pair on the unit circle <img width="50" alt="image" src="https:/
 |y=cos^-1(x)|-1≤x≤1|0≤y≤π|
 |y=tan^-1(x)|−∞≤x≤∞|-π/2≤y≤π/2|
 
+### Alternate Notation 替代符号
+- sin^-1(x) = arcsin(x)
+- cos^-1(x) = arccos(x)
+- tan^-1(x) = arctan(x)
+
+### Law of Sines, Cosines and Tangents 正弦、余弦、正切
+<img width="280" alt="Screen Shot 2023-03-26 at 10 44 07" src="https://user-images.githubusercontent.com/31954987/227752374-1f9dbd9f-9cf4-4c93-bd7c-d663a1833bcd.png">
+
 
 ## 与代数的联系 Connections In Algebra
 在线性代数中，类似<img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/226614826-568f688a-7edc-48d4-a682-ab3e08bcad08.png">的关系有：
