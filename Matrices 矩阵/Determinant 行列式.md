@@ -3,11 +3,12 @@
 ## 数学解 Math interpretation
 the determinant of a matrix *M* is denoted as ***|M|*** or det M. The determinant of a 2x2 matrix looks like this:
 
-<img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/226096870-9a522225-6e4b-4391-8149-675e9a304241.png">
+<img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/227769368-d886632b-c6e8-457f-b2cd-f597745c3406.png">
 对角线相乘 multiplying the diagonals, 减去第二个对角线and subtracting the second diagonal to the first one. 3x3 matrix 行列式更加令人费解 the determinant of a 3x3 matrix is significantly more convoluted:
 
-<img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/226171123-76736325-2534-45ff-9c38-f379284dc0a7.png">
-<img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/226171422-aa238dbc-6906-4063-a439-b32644aa5e59.png">
+<img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/227769116-d7006491-04ae-4393-a0e0-03af2174ddf7.png">
+
+<img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/227773001-8a8b769f-13bc-4d18-9b20-5d1f3e6314fa.png">
 
 <img width="250" alt="triple product" src="https://user-images.githubusercontent.com/31954987/226171323-15e908ea-ea7b-4e30-a691-dcd890ddc47a.png">
 更好地记住它的方式，if we consider the 3 rows of a 3 * 3 matrix as basic vectors, 行列式是一个三乘三的积 the determinant is the **triple product** 
