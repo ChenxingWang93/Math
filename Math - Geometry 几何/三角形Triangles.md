@@ -20,4 +20,5 @@ a classic way to compute the area of a triangle from the base and the height(any
 基于<img width="25" alt="image" src="https://user-images.githubusercontent.com/31954987/228131049-9403b1c1-e31e-4a6f-85e0-1cd23fc355c8.png">（半个周长）half the perimeter
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/228131202-3f51f131-6a6c-4f6a-b54c-df0e5fea7a80.png">
 
+the formulas to compute the area for the three edge(e_1,e_2,e_3) in 2d are the following:
 
