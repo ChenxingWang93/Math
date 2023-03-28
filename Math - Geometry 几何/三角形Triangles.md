@@ -22,6 +22,8 @@ a classic way to compute the area of a triangle from the base and the height(any
 
 the formulas to compute the area for the three edge(e_1,e_2,e_3) in 2d are the following:
 
+A(e_3)=\frac{(y_2+y_1)(x_2-x_1)}{2}
+
 ## **3D** 三维
 we use the cross product to compute the area. 使用叉积计算面积 Remember that the [[Vector operations#Vector cross product|cross product]] is the area of the parallelogram formed on two sides by a and b. Since the area of the triangle is half the area of the enclosing parallelogram, w>e can simply make this:
 
