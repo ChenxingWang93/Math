@@ -26,4 +26,3 @@ the formulas to compute the area for the three edge(e_1,e_2,e_3) in 2d are the f
 we use the cross product to compute the area. 使用叉积计算面积 Remember that the [[Vector operations#Vector cross product|cross product]] is the area of the parallelogram formed on two sides by a and b. Since the area of the triangle is half the area of the enclosing parallelogram, w>e can simply make this:
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/228141302-bd81c066-758f-45fd-8f4a-1e85f66a3a4a.png">
-
