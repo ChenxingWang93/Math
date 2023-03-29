@@ -27,10 +27,12 @@ the formulas to compute the area for the three edge(e_1,e_2,e_3) in 2d are the f
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/31954987/228287426-6b43cf25-d01b-460b-94ca-0f5e9de19f0c.png">
 
 由上述化简后得到结果 simplify formula and will end up with the following:
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/31954987/228288117-0628324e-5940-4aa0-acb2-3e485c2244ad.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/228288117-0628324e-5940-4aa0-acb2-3e485c2244ad.png">
 
 
 ## **3D** 三维
-we use the cross product to compute the area. 使用叉积计算面积 Remember that the [[Vector operations#Vector cross product|cross product]] is the area of the parallelogram formed on two sides by a and b. Since the area of the triangle is half the area of the enclosing parallelogram, w>e can simply make this:
+we use the cross product to compute the area. 使用叉积计算面积 Remember that the [[Vector operations#Vector cross product|cross product]] is the area of the parallelogram formed on two sides by a and b.两个邻边a与b Since the area of the triangle is half the area of the enclosing parallelogram,三角形面积是平行四边形面积的一半 w>e can simply make this:
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/228141302-bd81c066-758f-45fd-8f4a-1e85f66a3a4a.png">
+
+
