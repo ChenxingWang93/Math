@@ -5,7 +5,7 @@ it is straightforward to see why a matrix with a determinant of 0 is singular很
 lay the ground work for understanding matrices as geometric objects, 理解矩阵作为几何物体 focus on matrices because they affect how i think of vectors, vector spaces, the determinant, null space, spans, ranks, inverse matrices, singular value, and so on 影响我如何看待向量，向量空间，行列式，空空间，跨，行列，逆矩阵，奇异值
 
 ### 矩阵作为线性变换 matrices as linear transformation
-
+<img width="50" alt="图片" src="https://user-images.githubusercontent.com/31954987/228867057-7109c5ee-43f8-407d-9eca-5d4515ba0bc8.png">
  
 ### 可视化矩阵变换 visualizing matrix transformation
 ### 线性变换的形式 types of linear transformation
