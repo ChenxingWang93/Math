@@ -6,7 +6,14 @@ lay the ground work for understanding matrices as geometric objects, 理解矩�
 
 ### 矩阵作为线性变换 matrices as linear transformation
 <img width="50" alt="图片" src="https://user-images.githubusercontent.com/31954987/228867057-7109c5ee-43f8-407d-9eca-5d4515ba0bc8.png">
- 
+
+<img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/228890697-bd971dee-1d4d-4f01-bc23-0f36c640ed8c.png"><img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/228890905-eb024301-f863-4be9-88b5-75daa51faca2.png"><img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/228891277-9622b11f-b4fc-4e9b-bbaf-821fc6d9b895.png">
+
+by definition, this means that every vector in <img width="20" alt="图片" src="https://user-images.githubusercontent.com/31954987/228891694-278616c7-d809-46a2-85bb-ffcc0f94262e.png"> is a linear combination of this set of basic vectors:
+<img width="350" alt="图片" src="https://user-images.githubusercontent.com/31954987/228892627-7f4dc946-4aa0-4b2e-9229-444f0a08025c.png">
+
+
+
 ### 可视化矩阵变换 visualizing matrix transformation
 ### 线性变换的形式 types of linear transformation
 #### 对角矩阵 diagonal matrix
