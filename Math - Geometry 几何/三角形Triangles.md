@@ -36,5 +36,8 @@ we use the cross product to compute the area. 使用叉积计算面积 Remember 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/228141302-bd81c066-758f-45fd-8f4a-1e85f66a3a4a.png">
 
 ## 重心空间 Barycentric Space
-a triangle is always contained in a plane,一个三角形通常包含在一个平面上，but trying to work with them directly in 3D(global coordinate) is hard 直接在全局坐标中对他们进行操作是困难的，a very handy coordinate system to easily work with the points on the surface of the triangle
-if the three vertices are called <img width="90" alt="image" src="https://user-images.githubusercontent.com/31954987/228116552-88c82bae-c53c-4301-b333-89414b92ab9e.png"> we can define the edges and their length easily:<img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/228119410-a2e3cc37-e9c0-4ef5-b451-456489937025.png">
+a triangle is always contained in a plane,一个三角形通常包含在一个平面上，but trying to work with them directly in 3D(global coordinate) is hard 直接在全局坐标中对他们进行操作是困难的，a very handy coordinate system to easily work with the points on the surface of the triangle is the ***Barycentric Space*** 
+
+any point inside the triangle can be expressed as ***weighted average*** of the vertices 在三角形内部的点，能被表示为各个顶点的加权平均 so call ***barycentric coordinate*** the conversion from barycentric coordinate to standard 3d space works like below: 重心坐标系向标准3d空间转化的原理是:
+
+
