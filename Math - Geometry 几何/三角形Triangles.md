@@ -41,3 +41,4 @@ a triangle is always contained in a plane,一个三角形通常包含在一个�
 any point inside the triangle can be expressed as ***weighted average*** of the vertices 在三角形内部的点，能被表示为各个顶点的加权平均 so call ***barycentric coordinate*** the conversion from barycentric coordinate to standard 3d space works like below: 重心坐标系向标准3d空间转化的原理是:
 
 
+
