@@ -35,4 +35,6 @@ we use the cross product to compute the area. 使用叉积计算面积 Remember 
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/228141302-bd81c066-758f-45fd-8f4a-1e85f66a3a4a.png">
 
+## 重心空间 Barycentric Space
+
 
