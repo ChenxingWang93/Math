@@ -23,3 +23,9 @@ the implicit equation of a sphere of radius <img width="20" alt="image" src="htt
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/31954987/229327395-12f30d3a-b2e7-459e-965c-730654dd3378.png">
 
 基础几何，得到一些基础属性的公式 formula of basic properties, 圆面积的倒数为周长 the derivative of the area of the circle is the circumference, 球体积的导数是球面积 the derivative of the volume of a sphere is its surface area
+
+- diameter 直径: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229327950-6bfcc8d2-dfcf-4969-8204-40d2c690b763.png">
+- circumference 周长: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229327992-42d5ecd4-9425-4217-a6dd-5a5641aed969.png">
+- area of a circle 圆面积: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229328014-8805e9d3-07c7-4200-90e8-05dd6cd43d72.png">
+- surface area of a sphere 球面面积:
+- volume of a sphere 球体体积:
