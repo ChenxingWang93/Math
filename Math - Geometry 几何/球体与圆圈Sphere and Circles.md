@@ -27,5 +27,6 @@ the implicit equation of a sphere of radius <img width="20" alt="image" src="htt
 - diameter 直径: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229327950-6bfcc8d2-dfcf-4969-8204-40d2c690b763.png">
 - circumference 周长: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229327992-42d5ecd4-9425-4217-a6dd-5a5641aed969.png">
 - area of a circle 圆面积: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229328014-8805e9d3-07c7-4200-90e8-05dd6cd43d72.png">
-- surface area of a sphere 球面面积:
-- volume of a sphere 球体体积:
+- surface area of a sphere 球面面积: <img width="75" alt="image" src="https://user-images.githubusercontent.com/31954987/229328356-f0d4a4ce-39dc-475c-8cf8-a181ca1cfa53.png">
+
+- volume of a sphere 球体体积: <img width="95" alt="image" src="https://user-images.githubusercontent.com/31954987/229328403-579f6350-3a16-4115-b747-f0b455895cd6.png">
