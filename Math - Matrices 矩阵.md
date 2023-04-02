@@ -29,3 +29,11 @@ A 的第二列告诉我们 R^3 中的第二个基本向量 如何映射到 R^2�
 ### 视觉化矩阵变换 visualizing matrix transformations
       A⬇    x⬇   f(x)⬇
 <img width="150" alt="图片" src="https://user-images.githubusercontent.com/31954987/229354277-73e1bf19-7635-45c9-a5fb-be2aa16c0cfd.png">
+
+可视化两个重要的属性two important properties, A 的第一列代表 标准基础向量 the first columns of A represent where the standard basis vectors in R^2 land in this transformed vector space.    
+
+![图片](https://user-images.githubusercontent.com/31954987/229362069-029cda93-171d-49d6-80f7-3872ed253166.png)
+
+**Figure 1. (A)** a vector X is a 线性结合linear combination standard basis vectors标准基础向量
+**(B)** The vector f(x) is a linear combination of the transformed standard basis vectors.变换的标准基础向量的线性结合
+
