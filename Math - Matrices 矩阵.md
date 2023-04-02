@@ -24,6 +24,5 @@ A 的第二列告诉我们 R^3 中的第二个基本向量 如何映射到 R^2�
     f(e_1)⬇  f(e_2)⬇  f(e_3)⬇               f(x)⬇
 <img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351206-4fa85679-e70e-45f0-ab2e-a08ce72d5bdf.png"> = <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351325-7defb479-8ed6-4de3-aabb-3f3cb47fdcfa.png"> = <img width="45" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351370-66d87630-3395-4780-85fb-d27761696bb5.png">     (2)
 
-
-
 <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/229352774-bf036e0e-b5ee-4aa8-8a00-d3c6e1b5924e.png">
+
