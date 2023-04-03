@@ -21,13 +21,13 @@ A 的第二列告诉我们 R^3 中的第二个基本向量 如何映射到 R^2�
     ---A ⬇---  -x ⬇-  -f(x)⬇-
 <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/229350684-9b4344a2-58b6-4d80-9fee-f3d6ed926e19.png"> <img width="40" alt="图片" src="https://user-images.githubusercontent.com/31954987/229350773-292fbe22-ee41-4270-9d8c-76e185bcf6e8.png"> = <img width="40" alt="图片" src="https://user-images.githubusercontent.com/31954987/229350887-4d2332c8-5e81-468c-af19-ac48ac142e63.png">    (1)
 
-    f(e_1)⬇   f(e_2)⬇  f(e_3)⬇               f(x)⬇
+    f(e_1)⬇  f(e_2)⬇f(e_3)⬇               f(x)⬇
 <img width="200" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351206-4fa85679-e70e-45f0-ab2e-a08ce72d5bdf.png"> = <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351325-7defb479-8ed6-4de3-aabb-3f3cb47fdcfa.png"> = <img width="45" alt="图片" src="https://user-images.githubusercontent.com/31954987/229351370-66d87630-3395-4780-85fb-d27761696bb5.png">     (2)
 
 <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/229352774-bf036e0e-b5ee-4aa8-8a00-d3c6e1b5924e.png">
 
 ### 视觉化矩阵变换 visualizing matrix transformations
-      A⬇    x⬇   f(x)⬇
+      A⬇   x⬇  f(x)⬇
 <img width="150" alt="图片" src="https://user-images.githubusercontent.com/31954987/229354277-73e1bf19-7635-45c9-a5fb-be2aa16c0cfd.png">
 
 可视化两个重要的属性two important properties, A 的第一列代表 标准基础向量 the first columns of A represent where the standard basis vectors in R^2 land in this transformed vector space.    
