@@ -12,7 +12,7 @@
 
 A 的第二列告诉我们 R^3 中的第二个基本向量 如何映射到 R^2，如果我们水平堆叠标准基础向量到 3*3 矩阵中，每个基础向量如何以单一矩阵乘法的形式映射到R^2
 
-               ⬇蓝 ⬇红 ⬇黄    ⬇蓝  ⬇红 ⬇黄
+              ⬇蓝 ⬇红 ⬇黄  ⬇蓝 ⬇红 ⬇黄
 
 <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/229297773-198f8458-196e-41f1-800b-18ec6e8fa9e7.png"> <img width="85" alt="图片" src="https://user-images.githubusercontent.com/31954987/229345617-bbe68d84-3d2d-4cc3-a569-c803f7a58f78.png"> = <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/229297773-198f8458-196e-41f1-800b-18ec6e8fa9e7.png">
 
