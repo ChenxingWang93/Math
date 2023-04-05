@@ -39,4 +39,6 @@ A 的第二列告诉我们 R^3 中的第二个基本向量 如何映射到 R^2�
 
 second, in the new vector space, the vector <img width="30" alt="image" src="https://user-images.githubusercontent.com/31954987/230031655-5e364ac3-0ca5-4cf5-af0c-a0e5d755114d.png"> is a linear combination of these transformed vectors. 颜色化单位向量coloring unit squares 观察他们如何变换seeing how they are transformed, 不仅一个向量由矩阵变换，而是所有的<img width="35" alt="image" src="https://user-images.githubusercontent.com/31954987/230033385-f4837d13-2843-4eaa-8307-2e13b380abb4.png"> 变换一个 <img width="50" alt="image" src="https://user-images.githubusercontent.com/31954987/230033650-574bedbf-339d-4787-97eb-d5b25460e160.png"> 的矩阵，矩阵的行列式也可视化了。
 
- 
+### 线性变换的类型 types of linear transformations
+
+矩阵变换如何代表线性函数，什么样的变换能够用矩阵来执行what kind of transformations can we perform with matrices?矩阵线性变换的结果是只能 the consequence of the linearity of matrix transformation 
