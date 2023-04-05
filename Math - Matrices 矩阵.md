@@ -41,4 +41,4 @@ second, in the new vector space, the vector <img width="30" alt="image" src="htt
 
 ### 线性变换的类型 types of linear transformations
 
-矩阵变换如何代表线性函数，什么样的变换能够用矩阵来执行what kind of transformations can we perform with matrices?矩阵线性变换的结果是只能 the consequence of the linearity of matrix transformation 
+矩阵变换如何代表线性函数，什么样的变换能够用矩阵来执行what kind of transformations can we perform with matrices?矩阵线性变换的结果是只能以特定的方式调整一个向量空间 the consequence of the linearity of matrix transformation is that we can only modify a vector space in particular ways 例如旋转，
