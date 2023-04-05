@@ -41,4 +41,8 @@ second, in the new vector space, the vector <img width="30" alt="image" src="htt
 
 ### 线性变换的类型 types of linear transformations
 
-矩阵变换如何代表线性函数，什么样的变换能够用矩阵来执行what kind of transformations can we perform with matrices?矩阵线性变换的结果是只能以特定的方式调整一个向量空间 the consequence of the linearity of matrix transformation is that we can only modify a vector space in particular ways 例如旋转，缩放，剪切，投影 by rotating, reflecting, scaling, shearing and projecting, 线性变换的特点是在变换
+矩阵变换如何代表线性函数，什么样的变换能够用矩阵来执行what kind of transformations can we perform with matrices?矩阵线性变换的结果是只能以特定的方式调整一个向量空间 the consequence of the linearity of matrix transformation is that we can only modify a vector space in particular ways 例如旋转，缩放，剪切，投影 by rotating, reflecting, scaling, shearing and projecting, 线性变换的特点是在变换前均匀分布的点在变换后也是均匀分布的 the hallmark of a linear transformation is that evenly spaced points before the transformation are evenly spaced after the transformation (figure 2a)
+
+![image](https://user-images.githubusercontent.com/31954987/230068474-f3257e01-b68c-49c2-a582-ca1f8039e73e.png)
+
+figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转, 投影到R, 反射y-axis, 剪切(B)非线性变换的R^2
