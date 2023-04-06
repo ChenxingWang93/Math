@@ -49,3 +49,6 @@ figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转,
 
 ### 对角矩阵 diagonal matrices
 如果我们把矩阵的列看作定义一个新的向量自空间think of the columns of the matrix as defining a new vector subspace, 那么就能清晰地看到在变换的向量x 中的每一个部件只调整对角中的一个值each component in a transformed vector x is only modified by one value on the diagonal
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/230285441-b82a792a-4d35-4a58-ba4a-8d59c2eebc94.png">
+
