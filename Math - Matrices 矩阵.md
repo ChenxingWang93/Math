@@ -48,4 +48,4 @@ second, in the new vector space, the vector <img width="30" alt="image" src="htt
 figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转, 投影到R, 反射y-axis, 剪切(B)非线性变换的R^2
 
 ### 对角矩阵 diagonal matrices
-
+如果我们把矩阵的列看作定义一个新的向量自空间think of the columns of the matrix as defining a new vector subspace, 那么就能清晰地看到在变换的向量x 中的每一个部件只调整对角中的一个值each component in a transformed vector x is only modified by one value on the diagonal
