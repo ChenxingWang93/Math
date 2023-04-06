@@ -50,5 +50,9 @@ figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转,
 ### 对角矩阵 diagonal matrices
 如果我们把矩阵的列看作定义一个新的向量自空间think of the columns of the matrix as defining a new vector subspace, 那么就能清晰地看到在变换的向量x 中的每一个部件只调整对角中的一个值each component in a transformed vector x is only modified by one value on the diagonal
 
-<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/230285441-b82a792a-4d35-4a58-ba4a-8d59c2eebc94.png">
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/230285441-b82a792a-4d35-4a58-ba4a-8d59c2eebc94.png"><img width="35" alt="image" src="https://user-images.githubusercontent.com/31954987/230334769-dbed3666-6a34-422f-bdf3-5e55825f93e1.png"> = <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/230340002-737d9250-390d-45fa-b74d-ac70b6daaef4.png"> 
 
+对角矩阵限制它如何修改一组向量diagonal matrix is constrained in how it can modify a set of vectors(Figure 3) it can stretch the i-th component of a vector with a_i > 1, or it can reflect the i-th component with a_i > 0. shear a vector subspace with a diagonal matrix.
+
+![image](https://user-images.githubusercontent.com/31954987/230342247-1bb9bf06-5555-481b-b1b3-e86dce945d4e.png)
+(A)unit square. (B)Rotation by flipping columns.(C) Reflection by changing the sign of a column.Note that this transformation is unachievable through rotation. (D) Stretching by multiplying a column by a scalar. 
