@@ -56,3 +56,4 @@ figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转,
 
 ![image](https://user-images.githubusercontent.com/31954987/230342247-1bb9bf06-5555-481b-b1b3-e86dce945d4e.png)
 (A)unit square. (B)Rotation by flipping columns.(C) Reflection by changing the sign of a column.Note that this transformation is unachievable through rotation. (D) Stretching by multiplying a column by a scalar. 
+单位矩阵是一个对角矩阵 identity matrix is a diagonal matrix where ∀i, a_i = 1, 意味着标准基础向量并没有改变 meaning the standard basis vectors are not changed, 行列式为1 因为没有修改向量空间 the determinant of 1 because it does not modify a vector subspace.
