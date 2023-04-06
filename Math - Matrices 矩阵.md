@@ -46,3 +46,6 @@ second, in the new vector space, the vector <img width="30" alt="image" src="htt
 ![image](https://user-images.githubusercontent.com/31954987/230068474-f3257e01-b68c-49c2-a582-ca1f8039e73e.png)
 
 figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转, 投影到R, 反射y-axis, 剪切(B)非线性变换的R^2
+
+### 对角矩阵 diagonal matrices
+
