@@ -57,3 +57,9 @@ figure 2: (A) 线性变换的例子：未变换的R^2, 沿着x轴缩放, 旋转,
 ![image](https://user-images.githubusercontent.com/31954987/230342247-1bb9bf06-5555-481b-b1b3-e86dce945d4e.png)
 (A)unit square. (B)Rotation by flipping columns.(C) Reflection by changing the sign of a column.Note that this transformation is unachievable through rotation. (D) Stretching by multiplying a column by a scalar. 
 单位矩阵是一个对角矩阵 identity matrix is a diagonal matrix where ∀i, a_i = 1, 意味着标准基础向量并没有改变 meaning the standard basis vectors are not changed, 行列式为1 因为没有修改向量空间 the determinant of 1 because it does not modify a vector subspace.
+
+### 剪切矩阵 shear matrix
+shear matrix is so-named because you can imagine the unit square shearing.单位面积剪切 we can achieve shear with an off-diagonal element: 非对角线元素实现剪切
+
+
+<img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/230357466-ef4fc1a7-abe2-4275-b3bf-e6e30291ac12.png"><img width="35" alt="image" src="https://user-images.githubusercontent.com/31954987/230334769-dbed3666-6a34-422f-bdf3-5e55825f93e1.png"> = <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/230352644-49a0332a-c6dd-407a-b514-8a81835579a4.png"> 
