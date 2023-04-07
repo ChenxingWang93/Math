@@ -63,3 +63,4 @@ shear matrix is so-named because you can imagine the unit square shearing.单位
 
 
 <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/230357466-ef4fc1a7-abe2-4275-b3bf-e6e30291ac12.png"><img width="35" alt="image" src="https://user-images.githubusercontent.com/31954987/230334769-dbed3666-6a34-422f-bdf3-5e55825f93e1.png"> = <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/230352644-49a0332a-c6dd-407a-b514-8a81835579a4.png"> 
+如果
