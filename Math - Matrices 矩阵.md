@@ -64,4 +64,12 @@ shear matrix is so-named because you can imagine the unit square shearing.单位
 
 <img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/230357466-ef4fc1a7-abe2-4275-b3bf-e6e30291ac12.png"><img width="35" alt="image" src="https://user-images.githubusercontent.com/31954987/230334769-dbed3666-6a34-422f-bdf3-5e55825f93e1.png"> = <img width="300" alt="image" src="https://user-images.githubusercontent.com/31954987/230352644-49a0332a-c6dd-407a-b514-8a81835579a4.png"> 
 
-如果没有非对角
+如果没有非对角beta，变换沿着x_1 拉伸a_1, 非对角元素意味着变换向量的第一个部件off-diagonal element means that a transformed vector's 1-st component is a linear combination of beta and a_1 结果是单位面积剪切this results in a unit square that is sheared bc one dimension is now a function of two dimensions
+
+![image](https://user-images.githubusercontent.com/31954987/230518743-f5345c5d-67af-4723-bb87-1505d50f2395.png)
+
+(left)a unit square and (right) the unit square sheared with an off-diagonal element beta
+
+### 垂直矩阵 orthogonal matrix
+
+一个垂直矩阵
