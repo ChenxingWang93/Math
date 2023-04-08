@@ -1,4 +1,6 @@
 #### 矩阵的乘法 缩放/旋转/倾斜 一个几何平面 scales/rotates/skews a geometric plane
+![image](https://user-images.githubusercontent.com/31954987/230701943-7295c984-409a-450f-a046-52aef55d178e.png)
+
 
 #### 矩阵的乘法 组成线性运算 matrix multiplications composes linear operations
 
