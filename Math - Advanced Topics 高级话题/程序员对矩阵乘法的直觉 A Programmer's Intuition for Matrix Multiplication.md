@@ -33,6 +33,18 @@
 把数据作为几何向量，data as geometric vectors 矩阵作为构造函数 matrix as a composing functions 但本质上都是经过系统的信息流 information flowing thru a system.
 
 #### 工程师的直觉：代码是数据是代码 Programmer‘s intuition: Code is Data is Code
+words as data, text is prose 单字作为数据，文本作为散文
+- 测量值转化为公制单位 measurements to metric units
+- swap ingredient
+- adjust for altitude or different equipment
+
+![image](https://user-images.githubusercontent.com/31954987/230767981-6d894971-96be-4540-8041-863d9092e40f.png)
+
+编译器把程序当作文字，编辑它，并最终输出“指令” compilers treat a program as text, modify it, and eventually output "instructions"
+|方向orientation|表达式formula|数学含义mathematical definition|计算机科学computer science|
+|--------------|-------------|------------------------------|------------------------|
+|垂直vertical   |[3; 4; 5] 意味着 x = (3, 4, 5)|x 是一个向量数据 ; 用来分开每一行|                        |
+|水平horizontal |[3 4 5]   意味着 f(a, b, c) = 3a + 4b + 5c|三个输入->函数->回传1个值|                        |
 
 #### 矩阵的移调 The Matrix Transpose
 
