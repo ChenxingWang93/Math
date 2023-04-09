@@ -60,6 +60,7 @@ words as data, text is prose 单字作为数据，文本作为散文
 > 1个水平函数包含3个数据点  3个函数1个参数
 > ```
 以不同顺序结合数据和代码
+如果 "x"
 
 #### 矩阵的移调 The Matrix Transpose
 
