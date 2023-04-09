@@ -46,6 +46,17 @@ words as data, text is prose 单字作为数据，文本作为散文
 |垂直vertical   |[3; 4; 5] 意味着 x = (3, 4, 5)|x 是一个向量数据 ; 用来分开每一行|                        |
 |水平horizontal |[3 4 5]   意味着 f(a, b, c) = 3a + 4b + 5c|三个输入->函数->回传1个值|                        |
 
+![image](https://user-images.githubusercontent.com/31954987/230776197-5f9b86d1-9f64-4c42-9ef5-8f284305baf9.png)
+
+> ```
+> [-Operation->]       -   -  -     -
+> -             -      | D |  | -x->|
+> |  x   y   z  |      | a |  |     |
+> -             -      | t |  | -y->|
+>                      | a |  |     |
+>                      |   |  | -z->|
+>                      -   -  -     -
+> ```
 #### 矩阵的移调 The Matrix Transpose
 
 #### 矩阵的乘法与信息流相关 转换数据为代码而后转回 
