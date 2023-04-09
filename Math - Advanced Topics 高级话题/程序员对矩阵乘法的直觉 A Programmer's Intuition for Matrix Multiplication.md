@@ -43,8 +43,8 @@ words as data, text is prose 单字作为数据，文本作为散文
 编译器把程序当作文字，编辑它，并最终输出“指令” compilers treat a program as text, modify it, and eventually output "instructions"
 |方向orientation|表达式formula|数学含义mathematical definition|计算机科学computer science|
 |--------------|-------------|------------------------------|------------------------|
-|垂直vertical   |[3; 4; 5] 意味着 x = (3, 4, 5)|x 是一个向量数据 ; 用来分开每一行|                        |
-|水平horizontal |[3 4 5]   意味着 f(a, b, c) = 3a + 4b + 5c|三个输入->函数->回传1个值|                        |
+|垂直vertical column   |[3; 4; 5] 意味着 x = (3, 4, 5)|x 是一个向量数据 ; 用来分开每一行|                        |
+|水平horizontal row |[3 4 5]   意味着 f(a, b, c) = 3a + 4b + 5c|三个输入->函数->回传1个值|                        |
 
 ![image](https://user-images.githubusercontent.com/31954987/230776197-5f9b86d1-9f64-4c42-9ef5-8f284305baf9.png)
 
@@ -60,7 +60,16 @@ words as data, text is prose 单字作为数据，文本作为散文
 > 1个水平函数包含3个数据点  3个函数1个参数
 > ```
 以不同顺序结合数据和代码
-如果 "x"
+如果 `x` 是 column vector 3 个 entries (`[3; 4; 5]`), then `x'` is:
+- a function taking 3 arguments (`[3 4 5]`)
+- `x'` can still remain a data vector, but as three seperate entries, the transpose 转置 “split it up”
+类似的，如果 `f = [3 4 5]` is row vector, then `f'` can mean:
+- a single data vector, in a vertical column.
+- `f'` is seperated into three functions (each taking a single input).
+
+练习：
+当我们看到 `x' * x` `x'`(as single function) is working on `x`(a single vector), 结果是一个点积**dot product**
+
 
 #### 矩阵的移调 The Matrix Transpose
 
