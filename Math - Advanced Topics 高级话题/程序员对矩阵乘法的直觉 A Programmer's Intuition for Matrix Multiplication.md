@@ -83,6 +83,8 @@ words as data, text is prose 单字作为数据，文本作为散文
 > -      -                 -            -
 > ```
 
+把 `xx` 看作 `x(x)` 函数x "function x" working on "vector x" 计算
+
 #### 矩阵的移调 The Matrix Transpose
 
 #### 矩阵的乘法与信息流相关 转换数据为代码而后转回 
