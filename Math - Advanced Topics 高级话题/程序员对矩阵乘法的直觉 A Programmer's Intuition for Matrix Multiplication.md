@@ -59,6 +59,8 @@ words as data, text is prose 单字作为数据，文本作为散文
 > 1个函数3个参数          1个向量3个元素
 > 1个水平函数包含3个数据点  3个函数1个参数
 > ```
+
+
 以不同顺序结合数据和代码
 如果 `x` 是 column vector 3 个 entries (`[3; 4; 5]`), then `x'` is:
 - a function taking 3 arguments (`[3 4 5]`)
@@ -70,6 +72,16 @@ words as data, text is prose 单字作为数据，文本作为散文
 练习：
 当我们看到 `x' * x` `x'`(as single function) is working on `x`(a single vector), 结果是一个点积**dot product**
 
+![image](https://user-images.githubusercontent.com/31954987/230847680-54d4e0e5-2c81-49e0-83c5-efbe2fa17298.png)
+
+> ```
+> 多functions 多vectors //混合每个function and input
+> -      -                 -            -
+> | -x-> |    -      -     | xx  xy  xz |
+> | -y-> |    | x y z|  =  | yx  yy  yz |
+> | -z-> |    -      -     | zx  zy  zz |
+> -      -                 -            -
+> ```
 
 #### 矩阵的移调 The Matrix Transpose
 
