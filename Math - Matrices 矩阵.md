@@ -85,3 +85,5 @@ A 是 m*n 向量，A的 第i-th 列，a_i, 是一个 m-vector 向量 有 n 组�
 #### 属性2Property 2
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/31954987/230836265-eb31417d-ba0f-499b-b1f6-7120dfb96338.png">
 
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/31954987/231942031-8dc38eab-59be-43d6-a24c-dc0b583556e1.png">
+
