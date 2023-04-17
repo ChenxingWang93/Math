@@ -1,4 +1,5 @@
 ## System of equations 稳定系统
+**system of equations** 
 
 ## Type of solutions 解的类型
 
