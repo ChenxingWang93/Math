@@ -56,7 +56,7 @@ the system of linear equation is said to be **homogeneous** 在所有方程系�
 ## Matrix solutions 矩阵解
 处理大量数据，矩阵比代数解和基本代数 更有能量 matrices give more power than[[#Algebraic solution|basic algebra]]when working with a lot of data. 如果要用代数解一个 100个未知数 和100个等式 的系统方程就很痛苦，但矩阵解就很容易if we had to solve a system of equation with 100 equations and 100 unknown with algebra it would be a pain, but with matrices it is really simple.
 
-
+将等式系统转化为矩阵表达式converting a system of equation to a matrix expression is simple. Being `A` the matrix of coefficient, `X` the matrix of variable and `B` the matrix of independent terms, we can express the system as a product of matrices
 
 ## Rouchè-Fröbenius check 
 
