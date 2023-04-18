@@ -12,7 +12,11 @@
 
 the system of linear equation is said to be **homogeneous** 在所有方程系统中如果 独立项 为0⃣️ 线性等式是同质的 if the independent term is zero in all the equations of the system 所有同质系统都是兼容的 every **homogeneous** is compatible (has a solution): the **trival solution** 有简单解 (where all the variable are zero).
 ## Type of solutions 解的类型
-
+一个方程或一个系统方程有解的多种形式 an equation or system of equations can have solutions in multiple forms:
+简单解：**Simple solutions**
+- 一个解 A number: <img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/232638362-603e459c-a647-49a4-857a-720b3a549588.png">
+- 多个解 Several solution: 
+参数解：
 ## Algebraic solution 代数解
 
 ## Matrix solutions 矩阵解
