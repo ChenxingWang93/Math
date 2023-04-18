@@ -8,3 +8,18 @@
 
 <img width="450" alt="fdc49e19e443860ab354025b3bd21a7" src="https://user-images.githubusercontent.com/31954987/232778476-caf3ee91-7d58-4cf8-8d91-d154ec67256d.png">
 <img width="150" alt="9a58f08e407ea0fc1d4e3a72f280430" src="https://user-images.githubusercontent.com/31954987/232778880-5ac0105c-2e17-4f5e-a71b-e6d15f94c54a.png">
+
+例如, 一个algebraic expression with 就不能被当作一个多项式 is not considered a polynomial
+<img width="100" alt="77dd870f6668d3c9675b9e2386deb7f" src="https://user-images.githubusercontent.com/31954987/232780396-09925154-513a-49f0-958e-639bbaa5820d.png">
+
+- 多项式的每个代数项都称之为单项式 each of the algebraic terms of a polynomial is called a monomial
+- 一个由两个单项式组成的多项式称为二项式 a polynomial composed of two monomials is called a binomial 
+
+
+## Notable identities
+## Factorization
+## 
+
+
+
+
