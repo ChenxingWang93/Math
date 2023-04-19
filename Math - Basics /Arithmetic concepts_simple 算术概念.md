@@ -5,3 +5,6 @@
 the opposite numbers are those equidistant from 0. in practice, they are the positive and negative versions of the same number.是相同数字的 正数与 负数表达形式 for example, the opposite of 1 is -1. therefore, zero is the only number that is its own opposite, and is therefore neither positive nor negative. 
 
 the absolute value of a number is its value regardless of its sign. it is represented by the notation between slashes. For example `|-2|==2` 
+
+a **prime number** is a number greater than 1 that is divisible only by itself and 1, i.e. it has no multiples. On the other hand, a compound number is any number that is not prime; that is, it has more multiples
+
