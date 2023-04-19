@@ -14,7 +14,7 @@
 
 - 多项式的每个代数项都称之为单项式 each of the algebraic terms of a polynomial is called a monomial
 - 一个由两个单项式组成的多项式称为二项式 a polynomial composed of two monomials is called a binomial 
-
+- 独立的term 是一个无变量的代数形式 an independent term is an algebraic term without a variable
 
 ## Notable identities
 ## Factorization
