@@ -4,3 +4,4 @@
 > algebra was originally conceived as a generalization and extension of arithmetic. In modern algebra there are more advanced branches that are not(抽象代数abstract algebra, 同调代数homological algebra, 外部代数exterior algebra)
 > ```
 
+**Evaluating** means giving values to all or some of the variables in an expression 评估意味着 把值给到 表达式中的 所有或者一些变量 
