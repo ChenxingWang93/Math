@@ -1,5 +1,5 @@
-## Fraction and decimals 分数与小数
-
+## Fractions and decimals 分数与小数
+分数是除法的另外表示 a fraction is a way of expressing a division. 
 
 ## Powers
 
