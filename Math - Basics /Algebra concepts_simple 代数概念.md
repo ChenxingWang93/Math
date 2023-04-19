@@ -13,4 +13,7 @@ the combination of real numbers(constants)实数 and literal numbers(variable)�
 - **base**基础: the variable 变量                                                              
 - **exponent**指数: the degree of the variable. 变量的级数
 
+two algebraic terms are said to be similar when they have the same base and the same exponent 两个代数项如果相似那就是有相同的基础base 和指数
+
+an algebraic term that has no variable is called an independent term 没有变量的代数称之为 **independent term**
 
