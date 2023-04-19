@@ -5,3 +5,12 @@
 > ```
 
 **Evaluating** means giving values to all or some of the variables in an expression 评估意味着 把值给到 表达式中的 所有或者一些变量 
+
+the combination of real numbers(constants)实数 and literal numbers(variable)变量 by means of operations such as addition, subtraction, multiplication, potentiation is called an **algebraic expression** 加，减，乘，增强
+
+**algebraic term** is the sum of an algebraic expression.代数表达式的和 an algebraic term 代数term包含3部分 usually has 3 parts:
+- **coefficient**系数: real number that multiplies the variable. 与变量相乘的 实数
+- **base**基础: the variable 变量                                                              
+- **exponent**指数: the degree of the variable. 变量的级数
+
+
