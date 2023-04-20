@@ -17,6 +17,7 @@
 - 独立的term 是一个无变量的代数形式 an independent term is an algebraic term without a variable
 
 ## Notable identities
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/31954987/233422454-89c8323e-eeae-4846-82a0-9dd4f445d2ce.png">
 ## Factorization
 ## 
 
