@@ -8,5 +8,5 @@ the absolute value of a number is its value regardless of its sign. it is repres
 
 a **prime number** is a number greater than 1 that is divisible only by itself and 1,素数是大于1只能被自己和1整除的数 i.e. it has no multiples.它没有倍数 On the other hand, a compound number is any number that is not prime; that is, it has more multiples 复合数是任何非素数的数，它有更多的倍数
 
-
+two integers are said to be **dividable** if the remainder of their quotation is zero 如果两个整数 相除的余数为0，则称为可分的
 
