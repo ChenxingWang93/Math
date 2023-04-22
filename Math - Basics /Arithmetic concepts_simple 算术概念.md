@@ -10,3 +10,5 @@ a **prime number** is a number greater than 1 that is divisible only by itself a
 
 two integers are said to be **dividable** if the remainder of their quotation is zero 如果两个整数 相除的余数为0，则称为可分的
 
+A **factorization** is the decomposition of a number into its prime factors, i.e. the prime numbers that, when multiplied together, give that number. For example, 45 has 5, 3 and 3 as factors(because 5 * 9 = 45) 因式分解是将一个数字分解为它的质因数，即质数相乘后得到该数字。例如，45有5、3和3作为因子
+
