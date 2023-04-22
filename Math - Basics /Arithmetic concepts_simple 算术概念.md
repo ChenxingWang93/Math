@@ -12,3 +12,4 @@ two integers are said to be **dividable** if the remainder of their quotation is
 
 A **factorization** is the decomposition of a number into its prime factors, i.e. the prime numbers that, when multiplied together, give that number. For example, 45 has 5, 3 and 3 as factors(because 5 * 9 = 45) 因式分解是将一个数字分解为它的质因数，即质数相乘后得到该数字。例如，45有5、3和3作为因子
 
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/233788961-9cafd481-0119-4f24-8422-25baccc56ba6.png">
