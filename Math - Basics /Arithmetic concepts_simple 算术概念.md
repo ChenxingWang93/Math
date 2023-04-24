@@ -17,3 +17,5 @@ for adding and subtracting fractions from each other. 用于分数之间的互�
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/233788961-9cafd481-0119-4f24-8422-25baccc56ba6.png">
 the greatest common factor between two numbers is called the maximum common divisor. 最大公因数称为最大公除数 12 和 18 的最大公除数是 6 for example, the greatest common divisor of 12 and 18 is 6. it can be determined by finding the greatest common factors. for example,` 12 = 2 * 2 * 3 ` and ` 18 = 2 * 3 * 3 ` both numbers have the factor` 2 * 3 ` so their greatest common factor is 6. 
+
+a number that results from inverting the numberator分子 and denominator分母 of a fraction is called a reciprocal number or inverse multiplicative number. in the case of numbers that are not fractions, the denominator is 1. For example, the reciprocal of 3 (or 3/1) is 1/3. the product of a number and its reciprocal is always 1. 由分数的分子和分母反转而产生的数字称为 倒数 或者 逆乘法数。 例如 3 （或3/1）的倒数是 1/3. 数的乘积与其倒数始终为 1.
