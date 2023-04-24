@@ -12,4 +12,7 @@ two integers are said to be **dividable** if the remainder of their quotation is
 
 A **factorization** is the decomposition of a number into its prime factors, i.e. the prime numbers that, when multiplied together, give that number. For example, 45 has 5, 3 and 3 as factors(because 5 * 9 = 45) 因式分解是将一个数字分解为它的质因数，即质数相乘后得到该数字。例如，45有5、3和3作为因子
 
+the lowest number divisible by the two numbers is called the least **common multiple** 能被两个数字整除的最低数字称为最小公倍数 the least common multiple number between 4 and 6 is 12. It can be determined by multiplying the factors of both numbers(without repeating them between number)通过两个数字的系数相乘来确定 `4 = 2 * 2` and `6 = 2 * 3`, so the least common multiple is calculated as `2 * 2 * 3 = 12` 
+for adding and subtracting fractions from each other. 用于分数之间的互相加减
+
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/233788961-9cafd481-0119-4f24-8422-25baccc56ba6.png">
