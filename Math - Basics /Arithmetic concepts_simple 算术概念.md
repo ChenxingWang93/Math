@@ -16,3 +16,4 @@ the lowest number divisible by the two numbers is called the least **common mult
 for adding and subtracting fractions from each other. 用于分数之间的互相加减
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/31954987/233788961-9cafd481-0119-4f24-8422-25baccc56ba6.png">
+the greatest common factor between two numbers is called the maximum common divisor. 最大公因数称为最大公除数 12 和 18 的最大公除数是 6 for example, the greatest common divisor of 12 and 18 is 6. it can be determined by finding the greatest common factors. for example,` 12 = 2 * 2 * 3 ` and ` 18 = 2 * 3 * 3 ` both numbers have the factor` 2 * 3 ` so their greatest common factor is 6. 
