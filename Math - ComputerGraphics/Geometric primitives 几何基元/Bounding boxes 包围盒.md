@@ -13,7 +13,10 @@
 > ```
 
 ## Computing AABB 计算AABB
-定义 AABB 包围盒的 两个顶点 **two corners** are <img width="100" alt="a29c46984ec792fd9f16bf65b811727" src="https://user-images.githubusercontent.com/31954987/234482257-b2230ca7-8366-44a0-8139-f21378477507.png">
+定义 AABB 包围盒的 两个顶点 **two corners** are <img width="100" alt="a29c46984ec792fd9f16bf65b811727" src="https://user-images.githubusercontent.com/31954987/234482257-b2230ca7-8366-44a0-8139-f21378477507.png">,
+所有在包围盒AABB内的点<img width="70" alt="61f536b4af16d437648c94934c8ec10" src="https://user-images.githubusercontent.com/31954987/234483070-75a8253c-e7d3-43cb-8252-cae22a85dd52.png">满足不等式 all the points inside a bounding box AABB satisfy the inequalities:
+
+<img width="150" alt="704acb07fa6786e7628c69db7e888e6" src="https://user-images.githubusercontent.com/31954987/234483664-f5916ed9-732e-4c0c-810c-79498ca1b49a.png">
 
 
 ## AABB vs Bounding spheres 边界球体
