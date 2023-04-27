@@ -23,7 +23,9 @@
 **size vector s** 是 p_{min} 到 p_{max} 的向量，包含宽度、高度与盒子在各个维度的尺寸。 **radius vector** 是 s/2, 或者 从center c to p_{max}的向量。
 <img width="170" alt="7c655dd67b1b494764d3ca08bd16d64" src="https://user-images.githubusercontent.com/31954987/234785333-5cd6f0f5-d4f2-462e-9be0-235f62bf1931.png">
 
-
+> ```
+> to unambiguously define an AABB we need at least 2 of 4 vectors P_{min}, P_{max}, c and s. The most common way to define an AABB is through p_{min} and p_{max}.
+> ```
 
 ## AABB vs Bounding spheres 边界球体
 
