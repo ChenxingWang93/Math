@@ -34,11 +34,13 @@ Then, 比较所有点的所有维度compare them with all the dimensions of all 
 and, 保存找到的最小与最大值save the found minimums and maximums
 
 > ```
-> // Define AABB operations
+> 
+> // Define AABB operations 定义 AABB 操作
 > void AABB3::empty() { 
 > min.x = min.y = min.z = FLT_MAX;
 > max.x = max.y = max.z = −FLT_MAX ;
 > }
+> 
 > void AABB3::add (const Vector3 &p) { 
 > if (p.x < min.x) min.x = p.x;
 > if (p.x > max.x) max.x = p.x;
@@ -48,7 +50,7 @@ and, 保存找到的最小与最大值save the found minimums and maximums
 > if (p.z > max.x) max.z = p.z;
 > }
 > 
-> // Apply them to compute the AABB of a set of points
+> // Apply them to compute the AABB of a set of points 计算系列点的AABB
 > const int N;
 > Vector3 list [N];
 > 
