@@ -19,7 +19,11 @@
 <img width="150" alt="704acb07fa6786e7628c69db7e888e6" src="https://user-images.githubusercontent.com/31954987/234483664-f5916ed9-732e-4c0c-810c-79498ca1b49a.png">
 包围盒的中心 **c** 被定义为
 
-<img width="200" alt="4965e6d51053238d5f6b4eee1b7b689" src="https://user-images.githubusercontent.com/31954987/234751858-7188e852-5f9b-4c0a-ae40-45dbd5e9ea81.png">
+<img width="200" alt="4965e6d51053238d5f6b4eee1b7b689" src="https://user-images.githubusercontent.com/31954987/234751858-7188e852-5f9b-4c0a-ae40-45dbd5e9ea81.png">  
+**size vector s** 是 p_{min} 到 p_{max} 的向量，包含宽度、高度与盒子在各个维度的尺寸。 **radius vector** 是 s/2, 或者 从center c to p_{max}的向量。
+<img width="170" alt="7c655dd67b1b494764d3ca08bd16d64" src="https://user-images.githubusercontent.com/31954987/234785333-5cd6f0f5-d4f2-462e-9be0-235f62bf1931.png">
+
+
 
 ## AABB vs Bounding spheres 边界球体
 
