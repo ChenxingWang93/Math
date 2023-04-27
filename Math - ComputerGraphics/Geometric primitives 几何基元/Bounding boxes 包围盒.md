@@ -17,7 +17,9 @@
 所有在包围盒AABB内的点<img width="70" alt="61f536b4af16d437648c94934c8ec10" src="https://user-images.githubusercontent.com/31954987/234483070-75a8253c-e7d3-43cb-8252-cae22a85dd52.png">满足不等式 all the points inside a bounding box AABB satisfy the inequalities:
 
 <img width="150" alt="704acb07fa6786e7628c69db7e888e6" src="https://user-images.githubusercontent.com/31954987/234483664-f5916ed9-732e-4c0c-810c-79498ca1b49a.png">
+包围盒的中心被定义为
 
+<img width="200" alt="4965e6d51053238d5f6b4eee1b7b689" src="https://user-images.githubusercontent.com/31954987/234751858-7188e852-5f9b-4c0a-ae40-45dbd5e9ea81.png">
 
 ## AABB vs Bounding spheres 边界球体
 
