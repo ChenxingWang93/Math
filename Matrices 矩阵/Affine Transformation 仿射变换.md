@@ -1,6 +1,6 @@
 let's assume for now that w = 1, 因此，任何在3D(x, y, z)中的点 any point in 3D space can be represented in 4D as (x, y, z, 1). 我们能够变换3D 变换矩阵为4D 变换矩阵 transform 3d transformation matrics into 4d transformation matrics like this:
 
-<img width="350" alt="8767e66869dd0e979fcd7761764ee61" src="https://user-images.githubusercontent.com/31954987/234808804-9157bf90-546d-45c1-8afb-9a98c9b15119.png"> -> <img width="200" alt="7910a0b3c33854f2e0e49fbd48df42c" src="https://user-images.githubusercontent.com/31954987/234813933-fd2bf818-f760-4912-98a2-21ee1d188212.png">
+<img width="350" alt="8767e66869dd0e979fcd7761764ee61" src="https://user-images.githubusercontent.com/31954987/234808804-9157bf90-546d-45c1-8afb-9a98c9b15119.png"> -> <img width="170" alt="7910a0b3c33854f2e0e49fbd48df42c" src="https://user-images.githubusercontent.com/31954987/234813933-fd2bf818-f760-4912-98a2-21ee1d188212.png">
 
 due to the matrix algebra rules,根据矩阵代数规则 we can express translation as a matrix multiplication.用矩阵乘法表示translation
 <img width="100" alt="图片" src="https://user-images.githubusercontent.com/31954987/226094617-d1916755-35df-4928-a863-59835533a1df.png"> * <img width="300" alt="图片" src="https://user-images.githubusercontent.com/31954987/226094442-ff3470c5-8689-459e-ae7b-cddead099605.png"> = <img width="500" alt="图片" src="https://user-images.githubusercontent.com/31954987/226094706-6f200c15-03f7-4cf9-af15-9951bab8db67.png">
