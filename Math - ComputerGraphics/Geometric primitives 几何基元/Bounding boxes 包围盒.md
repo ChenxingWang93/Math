@@ -28,7 +28,37 @@
 > ```
 
 ## AABB vs Bounding spheres 边界球体
+为一系列给定点计算包围盒computing bounding box 很容易。
+首先，maximum P_{min} and minimize P_{max}
+Then, 比较所有点的所有维度compare them with all the dimensions of all the points
+and, 保存找到的最小与最大值save the found minimums and maximums
 
+> ```
+> // Define AABB operations
+> void AABB3::empty() { 
+> min.x = min.y = min.z = FLT_MAX;
+> max.x = max.y = max.z = −FLT_MAX ;
+> }
+> void AABB3::add (const Vector3 &p) { 
+> if (p.x < min.x) min.x = p.x;
+> if (p.x > max.x) max.x = p.x;
+> if (p.y < min.x) min.y = p.y;
+> if (p.y > max.x) max.y = p.y;
+> if (p.z < min.x) min.z = p.z;
+> if (p.z > max.x) max.z = p.z;
+> }
+> 
+> // Apply them to compute the AABB of a set of points
+> const int N;
+> Vector3 list [N];
+> 
+> AABB3 box;
+> box.empty();
+> 
+> for (int i = 0; i < N; ++i) {
+>         box.add(list[i]);
+> }
+> ```
 
 ## Fast OBB to AABB 快速 OBB 到 AABB
 
