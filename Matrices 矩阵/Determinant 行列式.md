@@ -24,3 +24,5 @@ the computation of the determinant for bigger matrices become very complex, and 
 - If any row or column in a matrix is all 0s, the determinant is 0. 
 - Exchanging any pair of rows or columns negates the determinant. 否定行列式
 
+
+## 几何解 Geometry interpretation
