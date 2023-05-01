@@ -63,4 +63,4 @@ and, 保存找到的最小与最大值save the found minimums and maximums
 > ```
 
 ## Fast OBB to AABB 快速 OBB 到 AABB
-
+OBB更精确 accurate, AABB更适合用于快速计算 useful for fast calculations 
