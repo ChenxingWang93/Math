@@ -12,4 +12,8 @@
 常见的替代是 使 `\vec d` 称为一个单位向量 make `t` 范围[0,l], `l` 是 ray 的长度
 
 ## 2维 线的表示 2D representations 
+一个无限长的2维线能被表示为斜截式子 **slope - intercept** 形式，也是一种隐含的形式 **implicit form**
+
+<img width="125" alt="image" src="https://user-images.githubusercontent.com/31954987/235604731-0a05b968-b91b-4ed5-b472-969a6dc0561c.png">
+
 ## 2维 线的转化 2D lines conversions 
