@@ -2,3 +2,12 @@
 - **Line**: 在两个方向上延伸到无穷大的直线点序列 
 - **Line segment**: 具有两段的直线的有限部分
 - **Ray**: 有方向的线段
+
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/31954987/235596515-7125f611-6c55-4f9c-92b7-885988dcce9c.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/31954987/235596358-6801b3a9-fbb6-48d1-91de-f5041fb35773.png">
+
+- `p_0` is the origin
+- `\vec d` contains
+- the parameter t has the range `[0,1]`. 
+常见的替代是 使 `\vec d` 称为一个单位向量 make `t` 范围[0,l], `l` 是 ray 的长度
+
