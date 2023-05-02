@@ -11,3 +11,5 @@
 - the parameter t has the range `[0,1]`. 
 常见的替代是 使 `\vec d` 称为一个单位向量 make `t` 范围[0,l], `l` 是 ray 的长度
 
+## 2维 线的表示 2D representations 
+## 2维 线的转化 2D lines conversions 
