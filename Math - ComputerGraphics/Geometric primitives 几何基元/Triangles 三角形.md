@@ -18,6 +18,8 @@
 
 使用重心坐标的定义得到三个等式以及三个未知数. 我们使用副指示标注顶点的坐标系 denote the coordinates of the vertices using the subindex. 例如 the coordinates of 
 
+<img width="250" alt="58aac695adadb202eb75c68370ab2bb" src="https://github.com/ChenxingWang93/Math/assets/31954987/b9b5c3b9-11b1-4426-921e-74662a845915">
+
 
 ### 3D：Projection 三维投影
 
