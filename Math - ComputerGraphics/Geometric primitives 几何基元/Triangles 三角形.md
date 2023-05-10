@@ -13,8 +13,11 @@
 ## Computing barycentric points 计算重心点
 
 ### 2D 
-计算重心坐标<img width="100" alt="c75e990d138a56d4a441624a742e3fd" src="https://github.com/ChenxingWang93/Math/assets/31954987/731c99fe-b90a-4e3f-9bce-7cd630cea9dc">，在2D空间的笛卡尔坐标系，[图片]
+计算重心坐标<img width="100" alt="c75e990d138a56d4a441624a742e3fd" src="https://github.com/ChenxingWang93/Math/assets/31954987/731c99fe-b90a-4e3f-9bce-7cd630cea9dc">，在2D空间的笛卡尔坐标系，<img width="80" alt="820da29c7546b547479f9309d3123ce" src="https://github.com/ChenxingWang93/Math/assets/31954987/39e0e776-636b-4b6e-ae58-92680cd66750"> 
 首先，我们定义分-三角
+
+使用重心坐标的定义得到三个等式以及三个未知数. 我们使用副指示标注顶点的坐标系 denote the coordinates of the vertices using the subindex. 例如 the coordinates of 
+
 
 ### 3D：Projection 三维投影
 
