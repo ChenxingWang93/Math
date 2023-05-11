@@ -35,11 +35,12 @@ the computation of the determinant for bigger matrices become very complex, and 
 > ```
 
 > ```
-> 
+> if the determinant of the matrix is 0, the matrix contains a **projection** 矩阵行列式为0，矩阵就包含投影. because it means that one of the rows of the matrix is not linearly independent 其中一行不是线性独立的.
+> so it is not a new dimension. In other words, it's like saying the matrix only has 2 dimensions, orthographic projection 正交投影就是意味着
 > ```
 
 > ```
-> 
+> if the determinant of the matrix is negative, 矩阵行列式为负，there is a reflection inside the matrix(the operation that "turns object inside out")
 > ```
 
 镜像翻转功能
