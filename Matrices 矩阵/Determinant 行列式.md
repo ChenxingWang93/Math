@@ -26,3 +26,20 @@ the computation of the determinant for bigger matrices become very complex, and 
 
 
 ## 几何解 Geometry interpretation
+矩阵行列式的几何解。在二维，与平行四边形的符号面积 **signed area** of parallelogram that has the [Introduction to matrices|basis vectors(rows of the matrix)]as two sides. 面积是 "signed" because it can be negative if the shape is "flipped" 
+
+相似的，in 3D the determinant is the volume of the of the parallelepiped formed by the 3 basis vectors(rows of the matrix). 行列式更深层次的是给到我们有关“变换”的信息 the determinant gives us deeper information about the transformation:
+
+> ```
+> the determinant is related to the change in area (in 2d) 行列式与面积变化相关 or volume (in 3d)体积 transforming an object by the matrix
+> ```
+
+> ```
+> 
+> ```
+
+> ```
+> 
+> ```
+
+镜像翻转功能
