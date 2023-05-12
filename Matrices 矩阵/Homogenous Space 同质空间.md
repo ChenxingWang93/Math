@@ -6,4 +6,6 @@ we call that 3d space the ***homogenous space*** 我们把3d空间称为同质�
 
 for all points in 3d space that are not in the point  <img width="60" alt="图片" src="https://user-images.githubusercontent.com/31954987/226649896-50b41bb5-ed2d-4f2b-8a09-69755c27122d.png"> 
 
-we can compute the corresponding 2d point by projecting the point onto the plane 通过将 点 投影到投影面 计算对应的 2d 点 <img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/226649896-50b41bb5-ed2d-4f2b-8a09-69755c27122d.png"> simply by dividing the that point by 通过投影点到平面上 可以计算对应的2d点位
+we can compute the corresponding 2d point by projecting the point onto the plane 通过将 点 投影到投影面 计算对应的 2d 点 <img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/226649896-50b41bb5-ed2d-4f2b-8a09-69755c27122d.png"> simply by dividing the that point by
+
+that means that any point 任意点
