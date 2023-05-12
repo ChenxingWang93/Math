@@ -8,4 +8,10 @@ for all points in 3d space that are not in the point  <img width="60" alt="图�
 
 we can compute the corresponding 2d point by projecting the point onto the plane 通过将 点 投影到投影面 计算对应的 2d 点 <img width="70" alt="图片" src="https://user-images.githubusercontent.com/31954987/226649896-50b41bb5-ed2d-4f2b-8a09-69755c27122d.png"> simply by dividing the that point by
 
-that means that any point 任意点
+that means that any point <img width="75" alt="a26d3803ca793604220910c37beaf5c" src="https://github.com/ChenxingWang93/Math/assets/31954987/35d0091f-678d-460d-a168-58e38d7d4635">
+can be mapped to the 2D plane be like <img width="125" alt="df4a3ef83a8b858efcd9188b46c89fd" src="https://github.com/ChenxingWang93/Math/assets/31954987/26c0b5d1-611b-4481-85d4-e49005b156da">
+
+在二维空间中的任意点，无限数量的3d点映射到该点中，any point in that 2d space, there's an infinite number of 3D points that are mapped to that point. 一系列无限点有形式 that set of infite points have the form 
+
+
+
