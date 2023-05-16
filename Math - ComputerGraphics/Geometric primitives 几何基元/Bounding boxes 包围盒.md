@@ -33,7 +33,6 @@ AABBs 相比较 Bounding spheres 存在2个优势
 1. 为给定点计算 optimal AABB 更容易且快速（线性时间）。计算 optimal Bounding spheres 更加复杂
 2. 对于许多对象，AABB 提供更精确"tighter"(more accurate) 体积。当然也是存在例外
 
-
 为一系列给定点计算包围盒computing bounding box 很容易。
 
 AABBs 存在的问题是对对象朝向非常敏感sensitive to object orientation
@@ -70,8 +69,16 @@ and, 保存找到的最小与最大值save the found minimums and maximums
 >         box.add(list[i]);
 > }
 > ```
+## In a nutshell 
+|/|朝向敏感性|计算速度|体积精确性|
+|----------------|---------|----|---------|
+|AABB            |
+|Bounding spheres|
+|Fast OBB|
 
 ## Fast OBB to AABB 快速 OBB 到 AABB
 OBB更精确 accurate, AABB更适合用于快速计算 useful for fast calculations 
 
 ## 
+
+
