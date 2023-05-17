@@ -8,7 +8,8 @@
 
 编码后的[Axis-angle form and exponential maps|axis-angle rotation], 是任意轴的旋转rotation around the arbitrary axis
 
-创建矩阵沿着任意轴旋转create a matrix that makes a rotation around an arbitrary axis
+创建矩阵沿着任意轴旋转create a matrix that makes a rotation around an arbitrary axis 是由随意四元数构造的 constructed from an arbitrary quaternion <img width="125" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/42c2a187-c8bd-43bb-9958-d9cfb6857c76">
+
 
 矩阵是如此的，但实际上推导过程很复杂 the deduction is convoluted
 
