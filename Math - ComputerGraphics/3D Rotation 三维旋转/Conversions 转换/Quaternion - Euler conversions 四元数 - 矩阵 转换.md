@@ -12,4 +12,4 @@
 
 
 矩阵是如此的，但实际上推导过程很复杂 the deduction is convoluted
-
+<img width="1200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/5605e408-1f26-485a-ad43-14af53c4d95c">
