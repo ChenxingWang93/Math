@@ -6,7 +6,9 @@
 
 采用四元数部件的几何解释 use the geometric interpretation of the components of the quaternion
 
-编码后的[Axis-angle form and exponential maps|axis-angle rotation],
+编码后的[Axis-angle form and exponential maps|axis-angle rotation], 是任意轴的旋转rotation around the arbitrary axis
 
+创建矩阵沿着任意轴旋转create a matrix that makes a rotation around an arbitrary axis
 
+矩阵是如此的，但实际上推导过程很复杂 the deduction is convoluted
 
