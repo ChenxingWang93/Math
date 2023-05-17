@@ -1,10 +1,10 @@
-Quaternion to matrix 四元数 - 矩阵
+四元数 - 矩阵 Quaternion to matrix 
 
 四元数到旋转矩阵的方式有很多。many ways to convert a quaternion to a rotation matrix.
 
 最常见的方法是对式 <img width="75" alt="76bcce7c8f3bc4322de3c64d96688d4" src="https://github.com/ChenxingWang93/Math/assets/31954987/3dc90198-31dd-442e-b2f1-0adab5e0946d"> 展开 
 
-采用四元数部件的几何解释 
+采用四元数部件的几何解释 use the geometric interpretation of the components of the quaternion
 
 编码后的[Axis-angle form and exponential maps|axis-angle rotation],
 
