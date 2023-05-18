@@ -36,3 +36,73 @@
 
 因此，策略是决定四元数 (x, y, z or w) 存在绝对最大值(也就是无需计算平方根的) 并且永远选择那一个
 
+``` 
+// Input matrix输入矩阵:
+float m11,m12,m13;
+float m21,m22,m23;
+float m31,m32,m33;
+
+// Output quaternion输出四元数
+float w, x, y, z;
+
+// Determine which of w, x, y, or z has the largest absolute value决定四元数中的哪个值存在最大绝对值
+float fourWSquaredMinus1 = m11 + m22 + m33;
+float fourXSquaredMinus1 = m11 − m22 − m33;
+float fourYSquaredMinus1 = m22 − m11 − m33;
+float fourZSquaredMinus1 = m33 − m11 − m22;
+
+int biggestIndex = 0;
+float fourBiggestSquaredMinus1 = fourWSquaredMinus1;
+
+if(fourXSquaredMinus1 > fourBiggestSquaredMinus1) { 
+ fourBigges tSquaredMinus1 = fourXSquaredMinus1;
+ biggestIndex = 1;
+}
+
+if(fourYSquaredMinus1 > fourBiggestSquaredMinus1) { 
+ fourBigges tSquaredMinus1 = fourYSquaredMinus1 ;
+ biggestIndex = 2;
+}
+
+if(fourZSquaredMinus1 > fourBiggestSquaredMinus1) { 
+ fourBiggestSquaredMinus1 = fourZSquaredMinus1 ;
+ biggestIndex = 3;
+}
+
+
+// Perform square root and division执行平方根与除法计算
+float biggestVal = sqrt(fourBiggestSquaredMinus1 + 1.0f) ∗ 0.5f;
+float mult = 0.25f / biggestVal;
+
+// Apply table to compute quaternion values计算四元数值
+switch(biggestIndex) {
+ 
+ case 0:
+  w = biggestVal;
+  x = (m23 − m32) ∗ mult;
+  y = (m31 − m13) ∗ mult;
+  z = (m12 − m21) ∗ mult;
+ break;
+ 
+ case 1:
+  x = biggestVal;
+  w = (m23 − m32) ∗ mult;
+  y = (m12 + m21) ∗ mult;
+  z = (m31 + m13) ∗ mult;
+ break ;
+ 
+ case 2:
+  y = biggestVal;
+  w = (m31 − m13) ∗ mult;
+  x = (m12 + m21) ∗ mult;
+  z = (m23 + m32) ∗ mult;
+ break ;
+ 
+ case 3:
+  z = biggestVal;
+  w = (m12 − m21) ∗ mult;
+  x = (m31 + m13) ∗ mult;
+  y = (m23 + m32) ∗ mult;
+ break ;
+}
+```
