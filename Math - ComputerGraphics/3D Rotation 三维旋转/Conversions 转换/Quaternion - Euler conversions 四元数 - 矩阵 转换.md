@@ -37,6 +37,8 @@
 因此，策略是决定四元数 (x, y, z or w) 存在绝对最大值(也就是无需计算平方根的) 并且永远选择那一个
 
 
+<img width="800" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/24f1dbd9-bbf5-4f7b-9f24-c65be8ffb4b7">
+
 
 ``` C++
 // Input matrix输入矩阵:
