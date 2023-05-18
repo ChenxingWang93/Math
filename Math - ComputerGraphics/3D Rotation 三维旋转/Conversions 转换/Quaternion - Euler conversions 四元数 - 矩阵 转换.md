@@ -36,7 +36,9 @@
 
 因此，策略是决定四元数 (x, y, z or w) 存在绝对最大值(也就是无需计算平方根的) 并且永远选择那一个
 
-``` 
+
+
+``` C++
 // Input matrix输入矩阵:
 float m11,m12,m13;
 float m21,m22,m23;
@@ -55,18 +57,18 @@ int biggestIndex = 0;
 float fourBiggestSquaredMinus1 = fourWSquaredMinus1;
 
 if(fourXSquaredMinus1 > fourBiggestSquaredMinus1) { 
- fourBigges tSquaredMinus1 = fourXSquaredMinus1;
- biggestIndex = 1;
+        fourBigges tSquaredMinus1 = fourXSquaredMinus1;
+        biggestIndex = 1;
 }
 
 if(fourYSquaredMinus1 > fourBiggestSquaredMinus1) { 
- fourBigges tSquaredMinus1 = fourYSquaredMinus1 ;
- biggestIndex = 2;
+        fourBigges tSquaredMinus1 = fourYSquaredMinus1 ;
+        biggestIndex = 2;
 }
 
 if(fourZSquaredMinus1 > fourBiggestSquaredMinus1) { 
- fourBiggestSquaredMinus1 = fourZSquaredMinus1 ;
- biggestIndex = 3;
+        fourBiggestSquaredMinus1 = fourZSquaredMinus1 ;
+        biggestIndex = 3;
 }
 
 
@@ -77,32 +79,32 @@ float mult = 0.25f / biggestVal;
 // Apply table to compute quaternion values计算四元数值
 switch(biggestIndex) {
  
- case 0:
-  w = biggestVal;
-  x = (m23 − m32) ∗ mult;
-  y = (m31 − m13) ∗ mult;
-  z = (m12 − m21) ∗ mult;
- break;
+        case 0:
+               w = biggestVal;
+               x = (m23 − m32) ∗ mult;
+               y = (m31 − m13) ∗ mult;
+               z = (m12 − m21) ∗ mult;
+        break;
  
- case 1:
-  x = biggestVal;
-  w = (m23 − m32) ∗ mult;
-  y = (m12 + m21) ∗ mult;
-  z = (m31 + m13) ∗ mult;
- break ;
+        case 1:
+               x = biggestVal;
+               w = (m23 − m32) ∗ mult;
+               y = (m12 + m21) ∗ mult;
+               z = (m31 + m13) ∗ mult;
+        break;
  
- case 2:
-  y = biggestVal;
-  w = (m31 − m13) ∗ mult;
-  x = (m12 + m21) ∗ mult;
-  z = (m23 + m32) ∗ mult;
- break ;
+        case 2:
+               y = biggestVal;
+               w = (m31 − m13) ∗ mult;
+               x = (m12 + m21) ∗ mult;
+               z = (m23 + m32) ∗ mult;
+        break;
  
- case 3:
-  z = biggestVal;
-  w = (m12 − m21) ∗ mult;
-  x = (m31 + m13) ∗ mult;
-  y = (m23 + m32) ∗ mult;
- break ;
+        case 3:
+               z = biggestVal;
+               w = (m12 − m21) ∗ mult;
+               x = (m31 + m13) ∗ mult;
+               y = (m23 + m32) ∗ mult;
+        break;
 }
 ```
