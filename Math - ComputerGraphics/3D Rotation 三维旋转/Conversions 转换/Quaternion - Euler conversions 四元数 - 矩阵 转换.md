@@ -1,4 +1,4 @@
-四元数 - 矩阵 Quaternion to matrix 
+## 四元数 - 矩阵 Quaternion to matrix 
 
 四元数到旋转矩阵的方式有很多。many ways to convert a quaternion to a rotation matrix.
 
@@ -12,4 +12,20 @@
 
 
 矩阵是如此的，但实际上推导过程很复杂 the deduction is convoluted
-<img width="1200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/5605e408-1f26-485a-ad43-14af53c4d95c">
+<img width="1600" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/0232cd1a-8f40-4b0d-8c0b-565fbfca3d15">
+
+## 矩阵 - 四元数 Matrix to quaternion
+从矩阵中提取四元数 extract a quaternion out of a matrix,
+
+对上述步骤逆向工程 reverse - engineer the previous step. 得到等式
+
+<img width="300" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/fff9f47b-3748-4917-ae87-dde5526769fd">
+
+问题在于：如何知道取正值还是负值？因为对于四元数 <img width="70" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/14ddca63-035e-4c16-9192-bf483bc0244a">
+
+选择四元数中的其中1个 取正值，解剩下3个，使用以下等式
+<img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/5dfcb529-b0eb-42ce-9934-3caf49991a9c">
+
+应该使用哪一个？换句话说，哪个部分应该先解？我们可以选择一个随意的(e.g. use the equation for w and then use the other 6 equations to solve for the rest),
+
+但❕ 这个不work
