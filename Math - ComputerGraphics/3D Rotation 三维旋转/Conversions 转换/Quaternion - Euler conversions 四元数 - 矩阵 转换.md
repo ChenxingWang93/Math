@@ -29,3 +29,5 @@
 应该使用哪一个？换句话说，哪个部分应该先解？我们可以选择一个随意的(e.g. use the equation for w and then use the other 6 equations to solve for the rest),
 
 但❕ 这个不work
+
+如果w 
