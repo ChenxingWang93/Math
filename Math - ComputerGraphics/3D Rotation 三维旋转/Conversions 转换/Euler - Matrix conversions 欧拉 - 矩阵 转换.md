@@ -16,6 +16,10 @@ matrix rotations -> Eular angles 使用 2 个假设作为出发点：
 
 ```
 infinite Euler angles 代表一个给定的 angular displacement
+[[Eular angles#Aliasing|aliasing]]
+use a technique that always returns the **canonical** Euler angles规范欧拉角
+```
 
+```
 
 ```
