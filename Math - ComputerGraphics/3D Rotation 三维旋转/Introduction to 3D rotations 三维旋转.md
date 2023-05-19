@@ -17,9 +17,12 @@ like translation, orientation must be always given from a reference point(called
 很多在 3D 空间中描述 orientation 的方式，都各有优劣
 
 ```
-the common strategy is to store rotation in eulers and/ or quaternion, 
+the common strategy is to store rotation in eulers and/ or quaternion, 在欧拉或 四元数中存储 [旋转]
 
-and then have a matrix that is re-computed every time the other data updates, 
+and then have a matrix that is re-computed every time the other data updates, 有一个矩阵 每每重新计算更新数据
 
-and that is then combined with the rest of the transformations(translation, scale, etc).
+and that is then combined with the rest of the transformations(translation, scale, etc). 最后将这些变换组合起来（移动、缩放）
 ```
+
+1.[[Linear transformation#Rotation|Matrix Orientation]]
+
