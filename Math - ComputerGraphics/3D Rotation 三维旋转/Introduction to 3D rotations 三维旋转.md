@@ -57,16 +57,16 @@ and that is then combined with the rest of the transformations(translation, scal
 
 3.[[Quaternions]]
 ## **Pros:**
-- **reliable quality interpolations**
-- **fast concatenation of rotations and inversion**
-- fast conversion from and to matrix form.
-- **only four numbers** 
-- **only two distinct representations for a given rotation**(no aliasing)
+- **reliable quality interpolations** 可靠的拟合质量
+- **fast concatenation of rotations and inversion** 快速 连接 旋转与倒置
+- fast conversion from and to matrix form. 从矩阵 到矩阵 的转换
+- **only four numbers**  只有 4 个数
+- **only two distinct representations for a given rotation**(no aliasing) 2 种 独特表示形式
 
 matrices > quaternions > euler angles
 
 ## **Cons**
-- **can rotate points between coordinate spaces directly**, but usually this is not used. instead, they are converted to a rotation matrix.
+- **can rotate points between coordinate spaces directly**, but usually this is not used. instead, they are converted to a rotation matrix. 无法在坐标空间间旋转点，转化为旋转矩阵
 - **can become invalid** because of bad input data or accumulated error. we solve this by regularly normalizing the quaternions to make sure that they remain unit(magnitude=1).
-- the **most difficult system** for humans to work with
-- cannot compress/ quantize well directly.
+- the **most difficult system** for humans to work with 最困难的系统
+- cannot compress/ quantize well directly. 无法直接压缩量化
