@@ -7,12 +7,12 @@ for instance, a vector has a direction but not an orientation(we can rotate the 
 ```
 **direction** be parametrized in 3D with just [[3D polar space|2 numbers]]❕❕❕先选[轴空间]再选[数字] 
 
-**orientation** needs at least 3 numbers (using **Euler angles**)
+**orientation** needs at least 3 numbers (using **Euler angles**) 欧拉角
 ```
 
-like translation, orientation must be always given from a reference point(called **identity rotation** or **home rotation**)
+like translation, orientation must be always given from a reference point(called **identity rotation** or **home rotation**) 类似 **移动**，**朝向** 从给定点 
 
-旋转量 称之为 **angular displacement**
+旋转量 称之为 **angular displacement** 
 
 很多在 3D 空间中描述 orientation 的方式，都各有优劣
 
