@@ -28,8 +28,15 @@ and an axis <img width="20" alt="image" src="https://github.com/ChenxingWang93/M
 
 右侧订正 
 
-<img width="250" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/92ce28f8-e089-4bdc-9bbe-f0e529972127">
+<img width="225" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/92ce28f8-e089-4bdc-9bbe-f0e529972127">
 
 ## Identity 
+an **identity quaternion** is a quaternion that does not apply any rotation. there are two of them:
+
+there are two of them:
+
+- 当 \theta 为 360º 偶数倍, then cos(\theta) = 1 我们得到 第1 种形式
+- 当 \theta 为 360º 奇数倍, then cos(\theta) = -1 我们得到 第2 种形式
+- 无论哪种形式 sin(\theta) = 0, <img width="25" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/e8ebb70e-58a3-41b6-828e-121409680c57">值 不相关
 
 ## Magnitude 大小
