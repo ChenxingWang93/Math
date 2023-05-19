@@ -22,6 +22,13 @@ and an axis <img width="20" alt="image" src="https://github.com/ChenxingWang93/M
 
 
 ## Negation 否定式
+四元数有许多运算，最基本的是取 负 `Negating` 
+
+<img width="400" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/f3570c5c-69c6-4f8e-a81b-3f988904cf36">
+
+右侧订正 
+
+<img width="250" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/92ce28f8-e089-4bdc-9bbe-f0e529972127">
 
 ## Identity 
 
