@@ -43,4 +43,30 @@ and that is then combined with the rest of the transformations(translation, scal
 
 2.[[Euler angles]]
 ## **Pros:**
-- 
+- **easy for humans to understand**, they are just angles, this makes Euler angles the right choice if we need to show or set the value of rotation nummerically.
+- **take little memory**(smallest possible representation of an orientation) 朝向的最小可能表现形式
+- **easily compressed**(e.g. to a fixed point system). the data loss due to **quantization** is spread evenly and the absolute numeric difference between two values is proportional to the difference perceived(与矩阵和四元数不同，需要存储非常小的数值，因为被存储的数值都是 sines and cosines)
+- **Any set of 3 numbers is a valid 3D rotation** 有效的3维旋转 矩阵与四元数
+
+## **Cons**
+- painful to interpolate due to **gimbal lock** 云台锁❕❕但这不可避免
+- **cannot rotate points between coordinate spaces directly** must always convert to a rotation matrix. 总是要转化为旋转矩阵
+- **cannot concatenate multiple rotations** 无法连接多个旋转
+- **aliasing** 混叠 (easier to solve than Euler angles)
+- difficult to understand.
+
+3.[[Quaternions]]
+## **Pros:**
+- **reliable quality interpolations**
+- **fast concatenation of rotations and inversion**
+- fast conversion from and to matrix form.
+- **only four numbers** 
+- **only two distinct representations for a given rotation**(no aliasing)
+
+matrices > quaternions > euler angles
+
+## **Cons**
+- **can rotate points between coordinate spaces directly**, but usually this is not used. instead, they are converted to a rotation matrix.
+- **can become invalid** because of bad input data or accumulated error. we solve this by regularly normalizing the quaternions to make sure that they remain unit(magnitude=1).
+- the **most difficult system** for humans to work with
+- cannot compress/ quantize well directly.
