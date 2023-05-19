@@ -26,14 +26,14 @@ and that is then combined with the rest of the transformations(translation, scal
 
 1.[[Linear transformation#Rotation|Matrix Orientation]]
 
-## **Pros:**
+## **Pros:** 👍
 - **Rotation of vectors** is directly available 向量旋转直接有效
 - format used by graphic APIs 形式是图形APIs
 - **easily concatenation of multiple rotations and inversion.** 旋转与倒置
 - **easily concatenation with other transformations** 串联其他变换
 - unique representation for a given rotation(no aliasing) 给定旋转的独特表现形式
 
-## **Cons:**
+## **Cons:** 👎
 - **they cannot interpolate** (we must use other system for interpolations/animations) 无法拟合
 - **take more memory** (e.g. if we need to store all the rotations in an animation)(占据更多内存)
 - **hunmans unreadable** they think in angles 人类不可读
@@ -42,13 +42,13 @@ and that is then combined with the rest of the transformations(translation, scal
 
 
 2.[[Euler angles]]
-## **Pros:**
+## **Pros:** 👍
 - **easy for humans to understand**, they are just angles, this makes Euler angles the right choice if we need to show or set the value of rotation nummerically.
 - **take little memory**(smallest possible representation of an orientation) 朝向的最小可能表现形式
 - **easily compressed**(e.g. to a fixed point system). the data loss due to **quantization** is spread evenly and the absolute numeric difference between two values is proportional to the difference perceived(与矩阵和四元数不同，需要存储非常小的数值，因为被存储的数值都是 sines and cosines)
 - **Any set of 3 numbers is a valid 3D rotation** 有效的3维旋转 矩阵与四元数
 
-## **Cons**
+## **Cons** 👎
 - painful to interpolate due to **gimbal lock** 云台锁❕❕但这不可避免
 - **cannot rotate points between coordinate spaces directly** must always convert to a rotation matrix. 总是要转化为旋转矩阵
 - **cannot concatenate multiple rotations** 无法连接多个旋转
@@ -56,7 +56,7 @@ and that is then combined with the rest of the transformations(translation, scal
 - difficult to understand.
 
 3.[[Quaternions]]
-## **Pros:**
+## **Pros:** 👍
 - **reliable quality interpolations** 可靠的拟合质量
 - **fast concatenation of rotations and inversion** 快速 连接 旋转与倒置
 - fast conversion from and to matrix form. 从矩阵 到矩阵 的转换
@@ -65,7 +65,7 @@ and that is then combined with the rest of the transformations(translation, scal
 
 matrices > quaternions > euler angles
 
-## **Cons**
+## **Cons** 👎
 - **can rotate points between coordinate spaces directly**, but usually this is not used. instead, they are converted to a rotation matrix. 无法在坐标空间间旋转点，转化为旋转矩阵
 - **can become invalid** because of bad input data or accumulated error. we solve this by regularly normalizing the quaternions to make sure that they remain unit(magnitude=1).
 - the **most difficult system** for humans to work with 最困难的系统
