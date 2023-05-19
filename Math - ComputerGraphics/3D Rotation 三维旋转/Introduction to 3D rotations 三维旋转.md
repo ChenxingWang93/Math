@@ -38,3 +38,9 @@ and that is then combined with the rest of the transformations(translation, scal
 - **take more memory** (e.g. if we need to store all the rotations in an animation)(占据更多内存)
 - **hunmans unreadable** they think in angles 人类不可读
 - matrices can be ill-formed 
+- not easy to understand, although easier than exponential maps and quaternions 理解指数映射 四元数
+
+
+2.[[Euler angles]]
+## **Pros:**
+- 
