@@ -1,11 +1,11 @@
-"orientation" of an object tells us what direction the object is facing 
+"orientation" of an object tells us what direction the object is facing “对象”的朝向告诉我们对象是面向哪里
 
-but "orientation" is not the same as "direction".
+but "orientation" is not the same as "direction". ⚠️⚠️ “朝向” 不同于 “方向”
 
-for instance, a vector has a direction but not an orientation(we can rotate the vector around its axis and nothing changes, because it has no thickness).
+for instance, a vector has a direction but not an orientation(we can rotate the vector around its axis and nothing changes, because it has no thickness). 一个向量如果它没有直径大小变化的话，有“方向” 而没有 “朝向”
 
 ```
-**direction** be parametrized in 3D with just [[3D polar space|2 numbers]]
+**direction** be parametrized in 3D with just [[3D polar space|2 numbers]]❕❕❕先选[轴空间]再选[数字] 
 
 **orientation** needs at least 3 numbers (using **Euler angles**)
 ```
