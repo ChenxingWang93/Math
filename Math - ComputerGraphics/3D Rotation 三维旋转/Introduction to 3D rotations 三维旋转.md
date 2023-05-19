@@ -26,3 +26,13 @@ and that is then combined with the rest of the transformations(translation, scal
 
 1.[[Linear transformation#Rotation|Matrix Orientation]]
 
+## **Pros:**
+- **Rotation of vectors** is directly available 向量旋转直接有效
+- format used by graphic APIs 形式是图形APIs
+- **easily concatenation of multiple rotations and inversion.** 旋转与倒置
+- **easily concatenation with other transformations** 串联其他变换
+- unique representation for a given rotation(no aliasing) 给定旋转的独特表现形式
+
+## **Cons:**
+- they cannot interpolate ()
+- 
