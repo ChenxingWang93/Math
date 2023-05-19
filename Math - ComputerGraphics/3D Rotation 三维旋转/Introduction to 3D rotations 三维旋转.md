@@ -34,5 +34,7 @@ and that is then combined with the rest of the transformations(translation, scal
 - unique representation for a given rotation(no aliasing) 给定旋转的独特表现形式
 
 ## **Cons:**
-- they cannot interpolate ()
-- 
+- **they cannot interpolate** (we must use other system for interpolations/animations)
+- **take more memory** (e.g. if we need to store all the rotations in an animation)(占据更多内存)
+- **hunmans unreadable** they think in angles
+- matrices can be ill-formed
