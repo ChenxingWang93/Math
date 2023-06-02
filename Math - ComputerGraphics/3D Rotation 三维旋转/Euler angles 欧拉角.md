@@ -12,3 +12,43 @@
 - **heading = yaw = Azimuth**
 - **pitch = Attitude = Elevation**
 - **Yaw = Roll = Tilt = Twist**
+
+**yaw-pitch-roll**（逆向）
+
+对象本地坐标系object local coordinate (**body axis**)
+
+每次旋转后都会改变change after each rotation
+
+称之为**intrinsic conversion**
+
+还能使用 **fixed axes**
+
+旋转会是 “absolute”
+
+为达到相同的结果，在逆向**in the opposite order**应用旋转
+
+**extrinsic convention**
+
+
+> ```
+> 如果忘记 yaw
+> 使用 intrisic conversion
+> 首先应用 **heading** (local Y rotation)
+> 然后 **Pitch** (local X rotation)
+> 
+> 如果应用 相同的 **pitch** (global X rotation)
+> 相同的 **heading** (global Y rotation)
+> ```
+
+## Aliasing
+
+
+
+
+
+
+
+
+
+
+
