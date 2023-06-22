@@ -5,7 +5,26 @@
 - **Ray:**
 
 ## 二维线表示法 2D lines representations
-<img width="80" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/1292cf0d-a696-4fee-90df-445c5e769203">
+斜截式 **slope - intercept form** 实际是隐式 **implicit form**
+
+<img width="120" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/7497eb73-b72a-4a92-9d2a-e30c193a05e3">
+
+- m 是线的斜度，riseOverRun.
+- y_0 是线与 y axis 相交的地方
+
+> ```
+> 2D 无限延长线只有2个自由度：1个rotation 1个translation
+> ```
+
+<img width="120" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/e0b00b36-e6b0-4fcc-9cd8-9660c470e156">
+
+垂直线 x = k
+
+水平线 m = 0
+
+通过 隐式子：<img width="120" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/ba3b4ae9-08d7-430b-b962-f2cc1017ec35">解决奇点singularity problem
+
+- <img width="80" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/1292cf0d-a696-4fee-90df-445c5e769203">
 
 
 ## 二维线转化 2D lines conversions
