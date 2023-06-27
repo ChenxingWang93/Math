@@ -22,3 +22,8 @@
 
 
 ## Complex numbers 复数
+- <img width="200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/137f1bcf-1259-4354-a2f4-edc379f96070">
+
+- <img width="200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/a2900e11-2157-4504-b8e8-d2fa4131e17d">
+
+- 
