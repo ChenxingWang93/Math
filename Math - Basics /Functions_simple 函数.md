@@ -11,9 +11,9 @@
 给定的条件称之为 线族 **family of tree**
 
 ## Symmetry 对称性
-- **even** number 偶数
-- **odd** number 奇数
-- **Non-symmetric** 非对称性
+- **even** number 偶数 沿 `y` 轴对称: <img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/a8c05e6f-d6d4-431f-a8d4-cacade75cd8a">
+- **odd** number 奇数 沿 原点对称: <img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/7d5b8b15-3ea3-4b55-abb2-6a7db780649c">
+- **Non-symmetric** 非对称性 
 
 ## Slope 坡度
 
