@@ -1,7 +1,8 @@
+
+
 分数是除法的另外表示 a fraction is a way of expressing a division. these basic operations can be used to build more advanced things.
 ## Fractions and decimals 分数与小数
 <img width="125" alt="2cbe2d99c9fa51560e968e837e8c496" src="https://user-images.githubusercontent.com/31954987/233878487-606b06e2-2814-4efd-9beb-1bd19748d4c3.png">
-
 
 ## Powers
 <img width="150" alt="79e771dfd901dbf91e1ca49569ed682" src="https://user-images.githubusercontent.com/31954987/233880447-2eb307d2-bf76-4563-8135-f49b5885ea85.png">
@@ -26,4 +27,6 @@
 
 - <img width="200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/a2900e11-2157-4504-b8e8-d2fa4131e17d">
 
-- 
+- <img width="300" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/8d011e41-7d63-43cc-a388-068e88acc829">
+
+- <img width="200" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/8995a67b-b707-4d2f-be91-cb778934971b">
