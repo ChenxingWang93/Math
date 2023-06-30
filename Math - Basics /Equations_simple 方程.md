@@ -60,8 +60,17 @@ the system of linear equation is said to be **homogeneous** 在所有方程系�
 
 <img width="300" alt="b7cf8adb8250bd0c403e1457c7aaf9e" src="https://user-images.githubusercontent.com/31954987/232719370-b8657c9c-e533-482d-bc90-5013bc258696.png">
 
+<img width="300" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/2f889b69-4de7-48c9-bed2-4e8f259b5f94">
+
+**extended matrix** 能被构造为
 
 ## Rouchè-Fröbenius check 
+Rouchè-Fröbenius check 用来快速寻找系统类型(incompatible非兼容性, determinate compatible确定兼容性, 非确定兼容性indeterminate compatible)
+
+```
+The theorem 声明 一个系统兼容 的必要充分条件(i.e.有解) the rank of the coefficient matrix must be equal to the rank of the extended matrix.
+```
+there are following options(where n is the number of unknowns in the system):
 
 ## Gauss-Jordan solution 高斯 - 乔丹 解
 
