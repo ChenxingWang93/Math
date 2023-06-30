@@ -70,7 +70,10 @@ Rouchè-Fröbenius check 用来快速寻找系统类型(incompatible非兼容性
 ```
 The theorem 声明 一个系统兼容 的必要充分条件(i.e.有解) the rank of the coefficient matrix must be equal to the rank of the extended matrix.
 ```
-there are following options(where n is the number of unknowns in the system):
+there are following options(where n is the number of unknowns in the system): 下列几个选项 n 为系统中的未知数 数量
+
+- <img width="100" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/764280b3-2178-4a45-a8c0-23f3d9d2cd88"> 确定性兼容系统 determinate compatible system(1 solution).
+- <img width="100" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/abfbdd2e-81a6-4b71-88c0-e326e552e7ba"> 非确定性兼容系统 indeterminate compatible system(infinite solution)
 
 ## Gauss-Jordan solution 高斯 - 乔丹 解
 
