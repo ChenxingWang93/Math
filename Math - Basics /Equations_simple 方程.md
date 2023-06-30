@@ -76,6 +76,11 @@ there are following options(where n is the number of unknowns in the system): �
 - <img width="100" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/abfbdd2e-81a6-4b71-88c0-e326e552e7ba"> 非确定性兼容系统 indeterminate compatible system(infinite solution)
 
 ## Gauss-Jordan solution 高斯 - 乔丹 解
+通过基础变换**elementary transformations**三角化矩阵**triangulating matrix** 
+
+只有一个未知数one unknown 与 一个独立项one independent term 保留在bottom line
+
+整个系统有解
 
 ## Inverse matrix solution 逆矩阵解
 
