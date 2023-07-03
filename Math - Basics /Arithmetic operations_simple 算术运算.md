@@ -21,8 +21,14 @@ $$ 2^5 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 $$
 <img width="170" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/2cff8c84-692c-4a5a-82d4-58725c1eb9bf">
 
 ## Factorials 阶乘
+<img width="170" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/e12155ff-589f-493f-be69-bd8d9e5ad6b1">
+
 
 ## Roots 根
+Power 的逆运算, root上面的 数字称之为 index
+
+<img width="170" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/0d98bf22-8375-4a6c-86aa-073c40b2c99a">
+
 
 ## Logarithms 对数
 
