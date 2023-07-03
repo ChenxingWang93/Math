@@ -29,6 +29,11 @@ Power 的逆运算, root上面的 数字称之为 index
 
 <img width="170" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/0d98bf22-8375-4a6c-86aa-073c40b2c99a">
 
+> ```
+> even roots always have 2 possible roots (one +, one -)
+> a negative number multiplied by itself an even number of times gives a positive number
+> 
+
 
 ## Logarithms 对数
 
