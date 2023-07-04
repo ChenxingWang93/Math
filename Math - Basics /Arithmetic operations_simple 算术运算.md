@@ -32,7 +32,11 @@ Power 的逆运算, root上面的 数字称之为 index
 > ```
 > even roots always have 2 possible roots (one +, one -)
 > a negative number multiplied by itself an even number of times gives a positive number
-> 
+>
+
+express power as a denominator <img width="100" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/2240c4f7-016e-44f7-b11f-65a45e0e00f2">
+
+roots can only be added to or subtracted from other roots of the same degree and radical as themselves<img width="170" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/0d8f0915-66d7-40fc-b227-c0a37c97c6ef">
 
 
 ## Logarithms 对数
