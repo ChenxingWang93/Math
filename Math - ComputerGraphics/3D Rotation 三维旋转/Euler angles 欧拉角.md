@@ -41,6 +41,14 @@
 > ```
 
 ## Aliasing
+旋转的representation 并不是独一无二的，so called **aliasing** 
+
+like in the [[Introduction to polar coordinates|polar coordinates]]
+欧拉角能有aliasing 混叠，3角并非完全相互独立。
+
+```
+
+```
 
 
 
