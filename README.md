@@ -23,12 +23,12 @@
 |<img width="20" alt="image" src="https://user-images.githubusercontent.com/31954987/231654209-8b54ada7-cc43-4d20-ae3c-8237a3a22e0c.png">|\Omega|
 |<img width="20" alt="image" src="https://user-images.githubusercontent.com/31954987/231654282-99b6cdcf-fee6-4a3f-85a8-3fc1e1ef1950.png">|\Gamma|
 
-#### some convention: 一些约定俗称
+#### Some convention: 一些约定俗称
 
 |Symbol 符号|Description 描述|
 |----------|---------------|
-|𝑎||
-|𝐴||
-|𝐚||
+|𝑎|unbolded, lowercase letter is a *scalar* 标量|
+|𝐴|unbolded, uppercase letter is (still) a *scalar* 仍然是标量|
+|𝐚|bolded, lowercase letter is a *vector* 向量|
 |𝐀||
 |𝐚 ∊ ℛ^n||
