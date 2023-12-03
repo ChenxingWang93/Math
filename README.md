@@ -39,6 +39,8 @@
 
 |Symbol 符号|Description 描述|
 |----------|----------------|
-|<img width="20" alt="图片" src="https://github.com/ChenxingWang93/Math/assets/31954987/9830b2c5-822e-4539-8904-d13a22c9fd0e">|
+|![图片](https://github.com/ChenxingWang93/Math/assets/31954987/240d2b17-9406-4509-980a-5f42b85b5be9)|2-norm(§C.1.1)|
+|![图片](https://github.com/ChenxingWang93/Math/assets/31954987/ac29109d-1d31-40cb-bfc1-ec40e12d3ab3)|
+
 
 
