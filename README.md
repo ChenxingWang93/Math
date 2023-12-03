@@ -34,3 +34,11 @@
 |𝐚 ∊ ℛ^n|is an *n*-dimensional vector n维向量|
 |𝐀 ∊ ℛ^{m×n}|𝐀 is an *m* by *n* vector {m×n}矩阵|
 |𝔸 ∊ ℛ^{m×n×o×...}|𝔸 is a higher-order(3rd and above)tensor 高维张量|
+
+#### following operators and special matrices:
+
+|Symbol 符号|Description 描述|
+|----------|----------------|
+|<img width="20" alt="图片" src="https://github.com/ChenxingWang93/Math/assets/31954987/9830b2c5-822e-4539-8904-d13a22c9fd0e">|
+
+
