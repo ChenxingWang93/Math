@@ -30,5 +30,7 @@
 |𝑎|unbolded, lowercase letter is a *scalar* 标量|
 |𝐴|unbolded, uppercase letter is (still) a *scalar* 仍然是标量|
 |𝐚|bolded, lowercase letter is a *vector* 向量|
-|𝐀||
-|𝐚 ∊ ℛ^n||
+|𝐀|bolded, uppercase letter is a *matrix* 矩阵|
+|𝐚 ∊ ℛ^n|is an *n*-dimensional vector n维向量|
+|𝐀 ∊ ℛ^{m×n}|𝐀 is an *m* by *n* vector {m×n}矩阵|
+|𝔸 ∊ ℛ^{m×n×o×...}|𝔸 is a higher-order(3rd and above)tensor 高维张量|
