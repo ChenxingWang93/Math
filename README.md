@@ -50,3 +50,8 @@
 ||The zero matrix, a.k.a. the null matrix. Nothing but zeros 零矩阵又称零矩阵，除了零什么都没有|
 ||The identity matrix. A diagonal matrix of all ones 特征矩阵|
 
+These symbols are reserved for the following deformation-specific phenomena: 
+|Symbol|Description|
+|------|-----------|
+||rest vertex, before deformation 变形前的静止顶点|
+
