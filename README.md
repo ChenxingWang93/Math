@@ -40,7 +40,7 @@
 |Symbol 符号|Description 描述|
 |----------|----------------|
 |![图片](https://github.com/ChenxingWang93/Math/assets/31954987/240d2b17-9406-4509-980a-5f42b85b5be9)|2-norm(§C.1.1)|
-|![图片](https://github.com/ChenxingWang93/Math/assets/31954987/ac29109d-1d31-40cb-bfc1-ec40e12d3ab3)|Frobenius norm(§C.3)|
+|![图片](https://github.com/ChenxingWang93/Math/assets/31954987/ac29109d-1d31-40cb-bfc1-ec40e12d3ab3)|Frobenius norm 弗罗贝尼乌斯范数(§C.3)|
 ||Double-contraction of matrices 矩阵双收缩 **𝐀** and **𝐁**|
 ||Double-contraction of higher-order tensor 𝔸 and matrix 𝐁 高阶张量 与 矩阵双收缩(§3.2,§.3)|
 ||A *Kronecker product* between two matrices 两矩阵的克罗内克积 (§C.5)|
