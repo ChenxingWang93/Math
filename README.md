@@ -57,7 +57,8 @@ These symbols are reserved for the following deformation-specific phenomena:
 ||deformed vertex 变形定点|
 ||deformation gradient, in 3D 3维变形梯度|
 ||deformation gradient, in 2D 2维变形梯度|
-||right Cauchy-Green tensor, 右柯西格林张量|
+||right Cauchy-Green tensor, 右柯西格林张量 𝐂 = |
 ||Green's strain, 格林应变|
 ||translation 移动|
 ||anisotropic fiber direction from 各向异性纤维方向|
+||, the current relative volume of 𝐅|
