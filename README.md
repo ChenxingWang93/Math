@@ -57,8 +57,14 @@ These symbols are reserved for the following deformation-specific phenomena: 符
 ||deformed vertex 变形定点|
 |𝐅 = <img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/7797087e-c628-4dae-992b-7131f0f436fa">|deformation gradient, in 3D 3维变形梯度|
 |𝐅 = <img width="85" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/5251ea3b-3aef-4589-8cb8-54b6a33dc626">|deformation gradient, in 2D 2维变形梯度|
-||right Cauchy-Green tensor, 右柯西格林张量 𝐂 = |
-||Green's strain, 格林应变|
-||translation 移动|
-||anisotropic fiber direction from 各向异性纤维方向|
-||, the current relative volume of 𝐅|
+|𝑪|right Cauchy-Green tensor, 右柯西格林张量 𝐂 = |
+|𝑬|Green's strain, 格林应变|
+|𝒕|translation 移动|
+|𝒂|anisotropic fiber direction from 各向异性纤维方向|
+|𝚥|𝚥 = 𝑑𝑒𝑡 𝐅, the current relative volume of 𝐅|
+
+
+
+
+
+
