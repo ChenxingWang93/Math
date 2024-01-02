@@ -61,8 +61,8 @@ These symbols are reserved for the following deformation-specific phenomena: 符
 |𝑬|Green's strain, 格林应变|
 |𝒕|translation 移动|
 |𝒂|anisotropic fiber direction from 各向异性纤维方向|
-|𝚥|𝚥 = 𝑑𝑒𝑡 𝐅, the current relative volume of 𝐅|
-|𝑔_{1}|flattened gradient of 𝐼_{1} invariant from(§5.5)|
-|𝑔_{2}|flattened gradient of 𝐼_{2} invariant from(§5.5)|
+|𝚥|𝚥 = 𝑑𝑒𝑡 𝐅, the current relative volume of 𝐅 𝐅当前的相对体积|
+|𝑔_{1}|flattened gradient of 𝐼_{1} invariant from(§5.5) 𝐼_{1}的拍平梯度 不变 形式|
+|𝑔_{2}|flattened gradient of 𝐼_{2} invariant from(§5.5) 𝐼_{2}的拍平梯度 不变 形式|
 |𝑔_{𝚥} ≡ g_{3}|flattened gradient of 𝚥 ≡ 𝐼_{3} invariant from(§4.2.2.1)|
 
