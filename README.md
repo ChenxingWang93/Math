@@ -35,7 +35,7 @@
 |𝐀 ∊ ℛ^{m×n}|𝐀 is an ***m*** by ***n*** vector {m×n}矩阵|
 |𝔸 ∊ ℛ^{m×n×o×...}|𝔸 is a higher-order(3rd and above)tensor 高维张量|
 
-#### following operators and special matrices:
+#### following operators and special matrices: 运算符和特殊矩阵
 
 |Symbol 符号|Description 描述|
 |----------|----------------|
@@ -50,7 +50,7 @@
 |𝟶|The zero matrix, a.k.a. the null matrix. Nothing but zeros 零矩阵又称零矩阵，除了零什么都没有|
 |𝚰|The identity matrix. A diagonal matrix of all ones 特征矩阵。全为对角矩阵|
 
-These symbols are reserved for the following deformation-specific phenomena: 
+These symbols are reserved for the following deformation-specific phenomena: 符号保留用于以下 特定-变形🫠 现象：
 |Symbol|Description|
 |------|-----------|
 ||rest vertex, before deformation 变形前的静止顶点|
