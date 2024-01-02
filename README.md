@@ -55,8 +55,8 @@ These symbols are reserved for the following deformation-specific phenomena:
 |------|-----------|
 ||rest vertex, before deformation 变形前的静止顶点|
 ||deformed vertex 变形定点|
-|<img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/7797087e-c628-4dae-992b-7131f0f436fa">|deformation gradient, in 3D 3维变形梯度|
-||deformation gradient, in 2D 2维变形梯度|
+|𝐅 = <img width="150" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/7797087e-c628-4dae-992b-7131f0f436fa">|deformation gradient, in 3D 3维变形梯度|
+|𝐅 = <img width="85" alt="image" src="https://github.com/ChenxingWang93/Math/assets/31954987/5251ea3b-3aef-4589-8cb8-54b6a33dc626">|deformation gradient, in 2D 2维变形梯度|
 ||right Cauchy-Green tensor, 右柯西格林张量 𝐂 = |
 ||Green's strain, 格林应变|
 ||translation 移动|
