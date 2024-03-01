@@ -66,3 +66,5 @@ These symbols are reserved for the following deformation-specific phenomena: 符
 |𝑔_{2}|flattened gradient of 𝐼_{2} invariant from(§5.5) 𝐼_{2}的拍平梯度 不变 形式|
 |𝑔_{𝚥} ≡ g_{3}|flattened gradient of 𝚥 ≡ 𝐼_{3} invariant from(§4.2.2.1)|
 
+## Reference
+https://betterexplained.com/
